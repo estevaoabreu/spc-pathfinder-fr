@@ -1,0 +1,461 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64e8e25a508fe1ef25bcbef2.64e8e25b508fe1ef25bcbef5.TCe8E9V.hcp.png");
+
+@font-face {
+  font-family: "GaeguLight-Regular";
+  font-style: light;
+  font-weight: 300;
+  src: url("../fonts/Gaegu-Light.ttf")
+}
+
+@font-face {
+  font-family: "Gaegu";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gaegu-Regular.ttf")
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.overlay-base {
+  display: none;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.grupo-8811 {
+  height: 537px;
+  left: 461px;
+  top: 983px;
+  width: 1920px;
+}
+
+.grupo-8839 {
+  height: 864px;
+  left: 0;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-8840 {
+  height: 22px;
+  left: 2326px;
+  top: 168px;
+  width: 30px;
+}
+
+.time60-minutes {
+  height: 49px;
+  left: 847px;
+  object-fit: cover;
+  position: absolute;
+  top: 1600px;
+  width: 99px;
+}
+
+.grupo-790 {
+  height: 5px;
+  left: 462px;
+  top: 218px;
+  width: 1920px;
+}
+
+.retngulo-148560 {
+  height: 2010px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1920px;
+}
+
+.grupo-144098 {
+  height: 1275px;
+  left: 461px;
+  top: 617px;
+  width: 1273px;
+}
+
+.grupo-144079 {
+  height: 864px;
+  left: 0;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-144099 {
+  height: 537px;
+  left: 631px;
+  top: 274px;
+  width: 1639px;
+}
+
+.retngulo-445 {
+  height: 81px;
+  left: 2189px;
+  top: 272px;
+  width: 81px;
+}
+
+.grupo-de-mscara-13 {
+  height: 559px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 1251px;
+}
+
+.grupo-8841 {
+  height: 65px;
+  left: 766px;
+  top: 259px;
+  width: 402px;
+}
+
+.grupo-8842 {
+  height: 5px;
+  left: 766px;
+  top: 341px;
+  width: 199px;
+}
+
+.grupo-2809 {
+  height: 137px;
+  left: 488px;
+  top: 373px;
+  width: 187px;
+}
+
+.grupo-302 {
+  height: 168px;
+  left: 495px;
+  top: 371px;
+  width: 180px;
+}
+
+.case-study-8visionin {
+  height: 224px;
+  left: 773px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 1218px;
+}
+
+.what-we-learnt-using {
+  height: 216px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 1649px;
+  width: 495px;
+}
+
+.figure-9-extract-fro {
+  height: 49px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 866px;
+  width: 723px;
+}
+
+.developing-interacti {
+  height: 232px;
+  left: 821px;
+  object-fit: cover;
+  position: absolute;
+  top: 1603px;
+  width: 494px;
+}
+
+.figure_8 {
+  height: 504px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 941px;
+  width: 725px;
+}
+
+.grupo-2511 {
+  height: 864px;
+  left: 0;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-8839-1 {
+  height: 864px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-8847-1 {
+  height: 45px;
+  left: 1377px;
+  object-fit: cover;
+  position: absolute;
+  top: 1873px;
+  width: 282px;
+}
+
+.retngulo-80-1 {
+  height: 81px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1280px;
+}
+
+.grupo-788-1 {
+  height: 47px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 302px;
+}
+
+.grupo-790-1 {
+  height: 5px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 1280px;
+}
+
+.chapter-3_tip_-button-v-1 {
+  cursor: pointer;
+  height: 450px;
+  left: 1236px;
+  object-fit: cover;
+  position: absolute;
+  top: 408px;
+  width: 494px;
+}
+
+.retngulo-361 {
+  border-radius: 40px 40px 40px 0px;
+  height: 51px;
+  left: 543px;
+  top: 2189px;
+  width: 339px;
+}
+
+.retngulo-365 {
+  border-radius: 40px 40px 0px 40px;
+  height: 51px;
+  left: 760px;
+  top: 2189px;
+  width: 899px;
+}
+
+.grupo-8854-1 {
+  height: 45px;
+  left: 1377px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 282px;
+}
+
+.grupo-144109 {
+  height: 864px;
+  left: 0;
+  top: 0;
+  width: 858px;
+}
+
+.header-1 {
+  height: 86px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 138px;
+  width: 1280px;
+}
+
+.grupo-144141 {
+  cursor: pointer;
+  height: 94px;
+  left: 1602px;
+  top: 269px;
+  width: 94px;
+}
+
+.grupo-144217-1 {
+  height: 120px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 409px;
+  width: 178px;
+}
+
+.grupo-de-mscara-13-1 {
+  height: 559px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 1251px;
+}
+
+.grupo-8841-1 {
+  height: 65px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 259px;
+  width: 402px;
+}
+
+.grupo-8842-1 {
+  height: 5px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 199px;
+}
+
+.grupo-302-1 {
+  height: 168px;
+  left: 495px;
+  object-fit: cover;
+  position: absolute;
+  top: 371px;
+  width: 180px;
+}
+
+.grupo-143970 {
+  height: 5px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 199px;
+}
+
+.grupo-143973 {
+  align-self: flex-end;
+  height: 94px;
+  object-fit: cover;
+  width: 340px;
+}
+
+.retngulo-1485 {
+  border-radius: 40px 40px 0px 40px;
+  height: 51px;
+  left: 53px;
+  top: 0;
+  width: 552px;
+}
+
+.grupo-1439 {
+  height: 36px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 36px;
+}
+
+.grupo-1008 {
+  cursor: pointer;
+  height: 57px;
+  left: 294px;
+  top: 0;
+  width: 57px;
+}
+
+.more-information {
+  height: 53px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 351px;
+}
+
+.grupo-1010 {
+  height: 94px;
+  left: 102px;
+  top: 64px;
+  width: 34px;
+}
+
+.grupo-1011 {
+  height: 94px;
+  left: 508px;
+  top: 64px;
+  width: 34px;
+}
+
+.headerlogo {
+  width: auto;
+}

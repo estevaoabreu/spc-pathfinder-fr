@@ -1,0 +1,104 @@
+/* screen - more-info-horizon-1920-1280-768 */
+
+.more-info-horizon-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 677px;
+  padding: 0 10px;
+  width: 668px;
+  position: relative;
+}
+
+#overlay-more-info-horizon-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.more-info-horizon-1920-1280-768 .overlap-group {
+  height: 676px;
+  margin-top: -0.28px;
+  position: relative;
+  width: 645px;
+}
+
+.more-info-horizon-1920-1280-768 .retngulo-105 {
+  border-radius: 5px;
+  height: 648px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 645px;
+}
+
+.more-info-horizon-1920-1280-768 .new-zealand-departme {
+  height: 444px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 546px;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 228px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 352px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link3 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 455px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+
+.link4 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 587px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-more-info-horizon-1920-1280-768 {
+  top:700px;
+  left: 150px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-more-info-horizon-1920-1280-768 {
+  top:900px;
+  left: 620px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-more-info-horizon-1920-1280-768 {
+  top:800px;
+  left: 1290px;
+}
+}

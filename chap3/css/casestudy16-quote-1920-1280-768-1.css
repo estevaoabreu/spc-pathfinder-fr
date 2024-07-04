@@ -1,0 +1,50 @@
+/* screen - casestudy16-quote-1920-1280-768-1 */
+
+.casestudy16-quote-1920-1280-768-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 751px;
+  padding: 24.0px 0.0px;
+  width: 741px;
+}
+
+#overlay-casestudy16-quote-1920-1280-768-1 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+    position: absolute;
+  z-index: 9;
+}
+
+.casestudy16-quote-1920-1280-768-1 .componente-41-1 {
+  height: 600px;
+  object-fit: cover;
+  width: 724px;
+}
+
+.componente-40-2 {
+  position: absolute;
+  right: 70px;
+  top: 120px;
+  width: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-casestudy16-quote-1920-1280-768-1 {
+  top:600px;
+  left: 150px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-casestudy16-quote-1920-1280-768-1 {
+  top:300px;
+  left: 500px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-casestudy16-quote-1920-1280-768-1 {
+  top: 400px;
+  left: 1100px;
+}
+}

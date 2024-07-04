@@ -1,0 +1,399 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64e8e25a508fe1ef25bcbef2.64e8e25b508fe1ef25bcbef5.KytEC6j.hcp.png");
+
+@font-face {
+  font-family: "GaeguLight-Regular";
+  font-style: light;
+  font-weight: 300;
+  src: url("../fonts/Gaegu-Light.ttf")
+}
+
+@font-face {
+  font-family: "Gaegu";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gaegu-Regular.ttf")
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.overlay-base {
+  display: none;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.grupo {
+  object-fit: cover;
+  position: absolute;
+}
+
+.chapter-3_tip_-button {
+  cursor: pointer;
+  height: 450px;
+  left: 1451px;
+  object-fit: cover;
+  position: absolute;
+  top: 401px;
+  width: 494px;
+}
+
+.more_-info-button {
+  cursor: pointer;
+  height: 40px;
+  left: 2167px;
+  object-fit: cover;
+  position: absolute;
+  top: 1128px;
+  width: 174px;
+}
+
+.quesiton_-tabs {
+  height: 167px;
+  left: 764px;
+  object-fit: cover;
+  position: absolute;
+  top: 577px;
+  width: 576px;
+}
+
+.activities {
+  height: 53px;
+  left: 1327px;
+  object-fit: cover;
+  position: absolute;
+  top: 2059px;
+  width: 188px;
+}
+
+.how-to-do-it {
+  height: 53px;
+  left: 1285px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 243px;
+}
+
+.grupo-301 {
+  height: 864px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-144128 {
+  height: 1283px;
+  left: 461px;
+  top: 610px;
+  width: 1280px;
+}
+
+.grupo-144109 {
+  height: 864px;
+  left: 0;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-144129 {
+  height: 537px;
+  left: 512px;
+  top: 274px;
+  width: 1178px;
+}
+
+.grupo-144141 {
+  cursor: pointer;
+  height: 94px;
+  left: 1602px;
+  top: 258px;
+  width: 94px;
+}
+
+.quote_-buttuon-1 {
+  cursor: pointer;
+  height: 162px;
+  left: 1365px;
+  object-fit: cover;
+  position: absolute;
+  top: 575px;
+  width: 216px;
+}
+
+.grupo-144336 {
+  height: 1225px;
+  left: 0;
+  top: 1561px;
+  width: 2391px;
+}
+
+.grupo-144140 {
+  height: 848px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 268px;
+  width: 1483px;
+}
+
+.grupo-144138 {
+  cursor: pointer;
+  height: 94px;
+  left: 1037px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 94px;
+}
+
+.quote_-buttuon-2 {
+  cursor: pointer;
+  height: 162px;
+  left: 823px;
+  object-fit: cover;
+  position: absolute;
+  top: 875px;
+  width: 216px;
+}
+
+.retngulo-148564 {
+  height: 46px;
+  left: 0;
+  top: 0;
+}
+
+.grupo-731 {
+  height: 509px;
+  margin-left: 2px;
+  margin-top: 11.84px;
+  object-fit: cover;
+  width: 614px;
+}
+
+.grupo-1008 {
+  cursor: pointer;
+  height: 57px;
+  left: 294px;
+  top: 0;
+  width: 57px;
+}
+
+.more-information {
+  height: 53px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 351px;
+}
+
+.grupo-1010 {
+  height: 94px;
+  left: 102px;
+  top: 64px;
+  width: 34px;
+}
+
+.grupo-1011 {
+  height: 94px;
+  left: 508px;
+  top: 64px;
+  width: 34px;
+}
+
+.grupo-de-mscara-23 {
+  height: 559px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1254px;
+  width: 1251px;
+}
+
+.spc-cps-logo_27_stars-white-3 {
+  height: 50px;
+  left: 457px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.grupo-144008 {
+  height: 34px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 495px;
+  width: 184px;
+}
+
+.grupo-159 {
+  height: 151px;
+  left: 652px;
+  object-fit: cover;
+  position: absolute;
+  top: 497px;
+  width: 109px;
+}
+
+.elipse-2 {
+  border-radius: 18.56px;
+  height: 37px;
+  left: 676px;
+  object-fit: cover;
+  position: absolute;
+  top: 598px;
+  width: 37px;
+}
+
+.more_-info-button-v-2 {
+  height: 35px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 648px;
+  width: 152px;
+}
+
+.grupo-144168 {
+  height: 4px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 366px;
+  width: 163px;
+}
+
+.retngulo-148565 {
+  height: 46px;
+  top: 81px;
+}
+
+.grupo-144151 {
+  height: 723px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 1264px;
+}
+
+.grupo-144152 {
+  cursor: pointer;
+  height: 54px;
+  left: 323px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 54px;
+}
+
+.when-spc-was-develop-3 {
+  height: 118px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 273px;
+}
+
+.grupo-144164 {
+  height: 113px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 1780px;
+  width: 69px;
+}
+
+.grupo-144398 {
+  height: 94px;
+  left: 199px;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 126px;
+}
+
+.grupo-144166 {
+  align-self: flex-end;
+  height: 78px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.grupo-144167 {
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.retngulo-148566 {
+  height: 46px;
+  top: 0;
+}
+
+.headerlogo {
+  width: auto;
+}

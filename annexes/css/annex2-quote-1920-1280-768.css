@@ -1,0 +1,215 @@
+/* screen - annex2-quote-1920-1280-768 */
+
+.annex2-quote-1920-1280-768 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 551px;
+  padding: 14.4px 16.1px;
+  width: 666px;
+}
+
+#overlay-annex2-quote-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.annex2-quote-1920-1280-768 .overlap-group1 {
+  height: 509px;
+  margin-left: 19px;
+  margin-top: 13.13px;
+  position: relative;
+  width: 614px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-715 {
+  display: flex;
+  height: 509px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-714 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0.0px 0.0px;
+  width: 614.42px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-container {
+  height: 507px;
+  position: relative;
+  width: 613px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-709 {
+  display: flex;
+  height: 488px;
+  left: 24px;
+  position: absolute;
+  top: 19px;
+  width: 569px;
+}
+
+.annex2-quote-1920-1280-768 .caminho-733 {
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.4px;
+  width: 574.41px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-710 {
+  background-image: url(../img/caminho-734@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 235px;
+  left: 584px;
+  position: absolute;
+  top: 140px;
+  width: 29px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-711 {
+  background-image: url(../img/caminho-735@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 257px;
+  position: absolute;
+  top: 469px;
+  width: 139px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-712 {
+  background-image: url(../img/caminho-736@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 381px;
+  width: 71px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-713 {
+  background-image: url(../img/caminho-737@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 59px;
+  left: 31px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-727 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-746-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  left: 524px;
+  min-width: 57px;
+  padding: 5.9px 15.4px;
+  position: absolute;
+  top: 73px;
+}
+
+.annex2-quote-1920-1280-768 .text-24 {
+  letter-spacing: 0;
+  line-height: 28px;
+  min-height: 36px;
+  min-width: 23px;
+  transform: rotate(45.00deg) translate(-3px,3px);
+  white-space: nowrap;
+}
+
+.annex2-quote-1920-1280-768 .this-plan-belongs-to {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 71px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 178px;
+  transform: rotate(6.00deg);
+  width: 485px;
+}
+
+.annex2-quote-1920-1280-768 .grupo-730 {
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 80px;
+  position: absolute;
+  top: 63px;
+  transform: rotate(8.00deg);
+  width: 128px;
+}
+
+.annex2-quote-1920-1280-768 .caminho-310 {
+  margin-bottom: -3.7px;
+  margin-left: -4.6px;
+  margin-right: -4.6px;
+  margin-top: -3.7px;
+  transform: rotate(-187.00deg);
+  width: 69.53px;
+}
+
+.annex2-quote-1920-1280-768 .caminho-308 {
+  margin-bottom: -3.8px;
+  margin-left: -4.4px;
+  margin-right: -4.4px;
+  margin-top: -3.9px;
+  transform: rotate(-187.00deg);
+  width: 71.34px;
+}
+
+.annex2-quote-1920-1280-768 .jimmy-naouna-memb {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 56px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 357px;
+  transform: rotate(6.00deg);
+  width: 450px;
+}
+
+.annex2-quote-1920-1280-768 .caminho {
+  flex: 1;
+  object-fit: cover;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-annex2-quote-1920-1280-768 {
+  top:200px;
+  left: 50px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-annex2-quote-1920-1280-768 {
+  top:250px;
+  left: 300px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-annex2-quote-1920-1280-768 {
+  top: 0px;
+  left: 400px;
+}
+}

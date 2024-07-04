@@ -1,0 +1,899 @@
+/* screen - chapter-5-backcasting-case-study-15-1280-3 */
+
+.chapter-5-backcasting-case-study-15-1280-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2150px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .overlap-group-1 {
+  height: 2232px;
+  margin-left: -461.25px;
+  margin-top: -138px;
+  position: relative;
+  width: 1851px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .retngulo-148562 {
+  height: 2010px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1280px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144128 {
+  height: 1283px;
+  left: 461px;
+  top: 610px;
+  width: 1280px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .caminho-62184 {
+  height: 1903px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 1178px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .design-space-paper-textured-background-2 {
+  height: 1901px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 1178px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144129 {
+  height: 537px;
+  left: 512px;
+  top: 274px;
+  width: 1178px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .spc-cps-logo_27_stars-white {
+  height: 50px;
+  left: 478px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 122px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .header {
+  height: 86px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 138px;
+  width: auto;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .case-study-10youth-c-1 {
+  height: 148px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 760px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .in-fiji-the-navosa-p-1 {
+  height: 143px;
+  left: 704px;
+  object-fit: cover;
+  position: absolute;
+  top: 532px;
+  width: 545px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .what-happened-the-yo-1 {
+  height: 244px;
+  left: 602px;
+  object-fit: cover;
+  position: absolute;
+  top: 1281px;
+  width: 554px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .figure-10-workshop-p-1 {
+  height: 74px;
+  left: 1215px;
+  object-fit: cover;
+  position: absolute;
+  top: 858px;
+  width: 397px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .source-dr-mema-motusaga-1 {
+  height: 18px;
+  left: 1215px;
+  object-fit: cover;
+  position: absolute;
+  top: 2094px;
+  width: 636px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .what-we-did-the-yout-1 {
+  height: 263px;
+  left: 601px;
+  object-fit: cover;
+  position: absolute;
+  top: 858px;
+  width: 555px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144236 {
+  height: 29px;
+  left: 601px;
+  top: 1107px;
+  width: 120px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144237 {
+  height: 5px;
+  left: 602px;
+  top: 1213px;
+  width: 199px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144238 {
+  height: 25px;
+  left: 741px;
+  top: 1111px;
+  width: 257px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144239 {
+  height: 1130px;
+  left: 1215px;
+  top: 954px;
+  width: 367px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo-144249 {
+  cursor: pointer;
+  height: 162px;
+  left: 1333px;
+  top: 578px;
+  width: 216px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .footer {
+  height: 61px;
+  object-fit: cover;
+  width: 1280px;
+}
+
+.chapter-5-backcasting-case-study-15-1280-3 .grupo {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - chapter-5-backcasting-case-study-15-1920-3-all-breakpoints */
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1710px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .overlap-group {
+  height: 1981px;
+  margin-left: -461px;
+  margin-top: -137.47px;
+  position: relative;
+  width: 2383px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .retngulo-257 {
+  height: 1566px;
+  left: 463px;
+  top: 223px;
+  width: 1920px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2607 {
+  height: 1275px;
+  left: 428px;
+  top: 706px;
+  width: 1273px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-de-mscara-8 {
+  height: 559px;
+  left: 415px;
+  object-fit: cover;
+  position: absolute;
+  top: 659px;
+  width: 1251px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2617 {
+  height: 86px;
+  left: 463px;
+  top: 137px;
+  width: 1920px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2618 {
+  height: 61px;
+  left: 460px;
+  top: 1788px;
+  width: 1920px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .retngulo-259 {
+  height: 1368px;
+  left: 631px;
+  top: 272px;
+  width: 1639px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .design-space-paper-textured-background {
+  height: 1080px;
+  left: 631px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 1639px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .design-space-paper-textured-background-1 {
+  height: 760px;
+  left: 631px;
+  object-fit: cover;
+  position: absolute;
+  top: 880px;
+  width: 1639px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2619 {
+  height: 537px;
+  left: 631px;
+  top: 274px;
+  width: 1639px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .in-fiji-the-navosa-p {
+  height: 67px;
+  left: 781px;
+  object-fit: cover;
+  position: absolute;
+  top: 597px;
+  width: 920px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .case-study-10youth-c {
+  height: 224px;
+  left: 773px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 1218px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .what-happened-the-yo {
+  height: 272px;
+  left: 774px;
+  object-fit: cover;
+  position: absolute;
+  top: 1251px;
+  width: 486px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .figure-10-workshop-p {
+  height: 49px;
+  left: 1437px;
+  object-fit: cover;
+  position: absolute;
+  top: 866px;
+  width: 723px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .source-dr-mema-motusaga {
+  height: 18px;
+  left: 1435px;
+  object-fit: cover;
+  position: absolute;
+  top: 1505px;
+  width: 636px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .what-we-did-the-yout {
+  height: 252px;
+  left: 773px;
+  object-fit: cover;
+  position: absolute;
+  top: 866px;
+  width: 494px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2620 {
+  height: 29px;
+  left: 773px;
+  top: 1133px;
+  width: 120px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .retngulo-260 {
+  height: 81px;
+  left: 2189px;
+  top: 272px;
+  width: 81px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .x {
+  cursor: pointer;
+  height: 94px;
+  left: 2182px;
+  object-fit: cover;
+  position: absolute;
+  top: 268px;
+  width: 94px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2621 {
+  height: 5px;
+  left: 774px;
+  top: 1202px;
+  width: 199px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2622 {
+  height: 25px;
+  left: 913px;
+  top: 1137px;
+  width: 257px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-2623 {
+  height: 559px;
+  left: 1437px;
+  top: 933px;
+  width: 744px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo-144248 {
+  cursor: pointer;
+  height: 162px;
+  left: 1855px;
+  top: 551px;
+  width: 216px;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .grupo {
+  object-fit: cover;
+  position: absolute;
+}
+
+.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints .retngulo {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - chapter-5-backcasting-case-study-15-375-3 */
+
+.chapter-5-backcasting-case-study-15-375-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3897px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .overlap-group1-1 {
+  height: 179px;
+  margin-right: -2.28px;
+  position: relative;
+  width: 377px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .retngulo-148492 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .spc-cps-logo_27_stars-white-2 {
+  height: 50px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .menu-1 {
+  height: 81px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-143932 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 375px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .retngulo-148565 {
+  height: 46px;
+  top: 81px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144152 {
+  cursor: pointer;
+  height: 54px;
+  left: 323px;
+  top: 124px;
+  width: 54px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .case-study-10youth-c-3 {
+  align-self: center;
+  height: 124px;
+  margin-right: 30.87px;
+  margin-top: 28px;
+  object-fit: cover;
+  width: 244px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .in-fiji-the-navosa-p-3 {
+  align-self: center;
+  height: 93px;
+  margin-left: 19.0px;
+  margin-top: 33px;
+  object-fit: cover;
+  width: 288px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .componente-43-5 {
+  height: 93px;
+  margin-right: 31.0px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 124px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .overlap-group-3 {
+  height: 3299px;
+  margin-right: -290px;
+  margin-top: 34px;
+  position: relative;
+  width: 665px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .design-space-paper-textured-background-3 {
+  height: 3219px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .what-we-did-the-yout-3 {
+  height: 260px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 55px;
+  width: 317px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144243 {
+  height: 29px;
+  left: 31px;
+  top: 321px;
+  width: 120px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144244 {
+  height: 228px;
+  left: 61px;
+  top: 361px;
+  width: 38px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .figure-10-workshop-p-3 {
+  height: 68px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 619px;
+  width: 318px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144245 {
+  height: 987px;
+  left: 30px;
+  top: 720px;
+  width: 320px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .source-dr-mema-motusaga-3 {
+  height: 18px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 1724px;
+  width: 636px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144246 {
+  height: 5px;
+  left: 29px;
+  top: 1799px;
+  width: 199px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .what-happened-the-yo-3 {
+  height: 412px;
+  left: 33px;
+  object-fit: cover;
+  position: absolute;
+  top: 1863px;
+  width: 300px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .i-drew-on-scenarios {
+  height: 578px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 2441px;
+  width: 274px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144252 {
+  height: 78px;
+  left: 30px;
+  top: 2339px;
+  width: 128px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo-144253 {
+  height: 57px;
+  left: 256px;
+  top: 2349px;
+  width: 57px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .dr-mema-motusaga-for {
+  height: 40px;
+  left: 40px;
+  object-fit: cover;
+  position: absolute;
+  top: 3038px;
+  width: 273px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .retngulo-148566 {
+  height: 46px;
+  top: 3193px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .footer-2 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3237px;
+  width: 375px;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .grupo {
+  object-fit: cover;
+  position: absolute;
+}
+
+.chapter-5-backcasting-case-study-15-375-3 .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+/* screen - chapter-5-backcasting-case-study-15-768-3 */
+
+.chapter-5-backcasting-case-study-15-768-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3614px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .overlap-group1 {
+  height: 728px;
+  margin-left: -346.72px;
+  margin-top: -137px;
+  position: relative;
+  width: 1121px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .retngulo-148524 {
+  height: 46px;
+  left: 347px;
+  top: 222px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-13 {
+  height: 645px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 641px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .retngulo-148486 {
+  height: 81px;
+  left: 347px;
+  top: 137px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-143707 {
+  height: 47px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 302px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .spc-cps-logo_27_stars-white-1 {
+  height: 50px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 122px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .menu {
+  height: 81px;
+  left: 1034px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 81px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-143711 {
+  height: 5px;
+  left: 347px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 768px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144138 {
+  cursor: pointer;
+  height: 94px;
+  left: 1027px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 94px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144198 {
+  height: 119px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 128px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .case-study-10youth-c-2 {
+  height: 232px;
+  left: 518px;
+  object-fit: cover;
+  position: absolute;
+  top: 330px;
+  width: 455px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .in-fiji-the-navosa-p-2 {
+  height: 143px;
+  left: 514px;
+  object-fit: cover;
+  position: absolute;
+  top: 585px;
+  width: 486px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .overlap-group2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-image: url(../img/grupo-144250@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  margin-right: 81.0px;
+  margin-top: 69px;
+  min-width: 216px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144251 {
+  cursor: pointer;
+  height: 162px;
+  object-fit: cover;
+  width: 216px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .overlap-group-2 {
+  align-items: center;
+  background-image: url(../img/design-space-paper-textured-background-29@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  margin-top: 63px;
+  min-height: 2622px;
+  padding: 95.5px 54px;
+  width: 768px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .overlap-group3 {
+  height: 283px;
+  margin-right: 2.0px;
+  position: relative;
+  width: 608px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .what-we-did-the-yout-2 {
+  height: 263px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 608px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144240 {
+  height: 29px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 255px;
+  width: 120px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144207 {
+  align-self: flex-start;
+  height: 228px;
+  margin-left: 54.87px;
+  margin-top: 12px;
+  object-fit: cover;
+  width: 38px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .figure-10-workshop-p-2 {
+  height: 49px;
+  margin-right: 2.0px;
+  margin-top: 32px;
+  object-fit: cover;
+  width: 608px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144242 {
+  height: 1270px;
+  margin-left: 0;
+  margin-top: 47px;
+  object-fit: cover;
+  width: 412px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .source-dr-mema-motusaga-2 {
+  align-self: flex-end;
+  height: 18px;
+  margin-top: 42px;
+  object-fit: cover;
+  width: 636px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .grupo-144241 {
+  align-self: flex-start;
+  height: 5px;
+  margin-left: 23px;
+  margin-top: 96px;
+  object-fit: cover;
+  width: 199px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .what-happened-the-yo-2 {
+  height: 216px;
+  margin-top: 59px;
+  object-fit: cover;
+  width: 606px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .overlap-group4 {
+  height: 107px;
+  position: relative;
+  width: 768px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .footer-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 768px;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .retngulo-148564 {
+  height: 46px;
+  left: 0;
+  top: 0;
+}
+
+.chapter-5-backcasting-case-study-15-768-3 .retngulo {
+  object-fit: cover;
+  position: absolute;
+  width: 768px;
+}
+@media screen and (max-width: 767px) {
+  .screen.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-1280-3 { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-768-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-1280-3 { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-375-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.chapter-5-backcasting-case-study-15-1920-3-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-768-3 { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-375-3 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.chapter-5-backcasting-case-study-15-1280-3 { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-768-3 { 
+    display: none;
+   }
+  .screen.chapter-5-backcasting-case-study-15-375-3 { 
+    display: none;
+   }
+}

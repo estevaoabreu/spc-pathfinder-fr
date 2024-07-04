@@ -1,0 +1,75 @@
+/* screen - chapter-5-tip-backcasting-1920-1280-768-1 */
+
+.chapter-5-tip-backcasting-1920-1280-768-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 306px;
+  overflow: hidden;
+  padding: 0 11px;
+  width: 509px;
+}
+
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+    position: absolute;
+  z-index: 30;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-container {
+  height: 318px;
+  margin-top: 0;
+  position: relative;
+  width: 477px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-1006 {
+  height: 299px;
+  left: 41px;
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+  top: 20px;
+  width: 423px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-1068 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-1069 {
+  height: 100px;
+  left: 370px;
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+  top: 189px;
+  width: 107px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top:830px;
+  right:120px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top:500px;
+  left: 800px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top: 450px;
+  left: 1020px;
+}
+}

@@ -1,0 +1,109 @@
+/* screen - chapter-2-tip-system-1920-1280-768 */
+
+.chapter-2-tip-system-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 310px;
+  overflow: hidden;
+  width: 509px;
+}
+
+#overlay-chapter-2-tip-system-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.chapter-2-tip-system-1920-1280-768 .overlap-group1 {
+  height: 318px;
+  margin-top: 0;
+  position: relative;
+  width: 477px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .overlap-group1 {
+  height: 318px;
+  margin-top: 0;
+  position: relative;
+  width: 477px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .overlap-group {
+  height: 286px;
+  left: 50px;
+  position: absolute;
+  top: 33px;
+  width: 405px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .caminho-890 {
+  flex: 1;
+  margin-bottom: -5.0px;
+  margin-left: -9.0px;
+  margin-right: -9.0px;
+  margin-top: -13.0px;
+  object-fit: cover;
+  width: 423.06px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .if-you-have-limited {
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 33px;
+  position: absolute;
+  top: 26px;
+  transform: rotate(1.00deg);
+  width: 350px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .grupo-2868 {
+  display: flex;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .grupo-106 {
+  display: flex;
+  flex: 1;
+  width: 135.98px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .grupo-2869 {
+  display: flex;
+  height: 100px;
+  left: 370px;
+  position: absolute;
+  top: 189px;
+  width: 107px;
+}
+
+.chapter-2-tip-system-1920-1280-768 .linha {
+  height: 7px;
+  object-fit: cover;
+  transform: rotate(-1.00deg);
+  width: 372px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  #overlay-chapter-2-tip-system-1920-1280-768 {
+    top:1000px;
+    left: 380px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  #overlay-chapter-2-tip-system-1920-1280-768 {
+    top:500px;
+    left: 800px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  #overlay-chapter-2-tip-system-1920-1280-768 {
+    top:450px;
+    left: 1030px;
+  }
+}

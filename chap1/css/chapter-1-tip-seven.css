@@ -1,0 +1,70 @@
+/* screen - chapter-1-tip-seven */
+
+.chapter-1-tip-seven {
+  align-items: flex-start;
+  display: flex;
+  height: 310px;
+  overflow: hidden;
+  width: 509px;
+}
+
+#overlay-chapter-1-tip-seven {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+  }
+
+.chapter-1-tip-seven .grupo-container {
+  height: 318px;
+  margin-top: 0;
+  position: relative;
+  width: 477px;
+}
+
+.chapter-1-tip-seven .grupo-2867 {
+  height: 299px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 423px;
+}
+
+.chapter-1-tip-seven .grupo-2868 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-1-tip-seven .grupo-2869 {
+  height: 100px;
+  left: 370px;
+  object-fit: cover;
+  position: absolute;
+  top: 189px;
+  width: 107px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-1-tip-seven {
+  top:850px;
+  left: 350px;;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-1-tip-seven {
+  top:500px;
+  left: 770px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-1-tip-seven {
+  top:450px;
+  left: 1050px;
+}
+}

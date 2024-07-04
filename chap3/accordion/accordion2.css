@@ -1,0 +1,116 @@
+:root{
+  --white: #FFFFFF;
+  --white-2: #F0F0F0;
+}
+
+#textandbuttonsDiv {
+position: absolute;
+top: 550px;
+left: 764px;
+}
+
+.buttonForText {
+background-color: var(--white);
+border-radius: 25px;
+height: 51px;
+width: 576px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+padding-left: 20px;
+padding-right: 5px;
+position: relative;
+z-index: 4;
+margin-top: 10px;
+}
+
+.ButtonText {
+color: var(--mandy-2);
+font-family: var(--font-family-roboto);
+font-size: var(--font-size-m);
+font-style: normal;
+font-weight: 500;
+line-height: 17px;
+white-space: nowrap;
+}
+
+.redElipse {
+background-color: var(--mandy-2);
+border-radius: 22px;
+height: 44px;
+width: 44px;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+}
+
+.plusText {
+color: var(--white);
+font-family: var(--font-family-gaegu);
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+text-align: center;
+}
+
+.textoButtons {
+letter-spacing: 0;
+line-height: 25px;
+overflow: hidden;
+width: 576px;
+padding-left: 10px;
+padding-right: 10px;
+transform: translateY(-25px);
+padding-top: 42px;
+padding-bottom: 10px;
+background-color: var(--white-2);
+position: relative;
+z-index: 3;
+color: var(--black);
+font-family: var(--font-family-roboto);
+font-size: var(--font-size-m);
+font-style: normal;
+font-weight: 300;
+transition: height 0.15s, padding-top 0.15s, padding-bottom 0.15s;
+margin: 0;
+}
+
+.hiddenTexto {
+height: 0px;
+padding-top: 0px;
+padding-bottom: 0px;
+transition: height 0.15s, padding-top 0.15s, padding-bottom 0.15s;
+}
+
+@media screen and (max-width: 767px) {
+#textandbuttonsDiv {
+  left: 475px;
+  top: 680px;
+}
+
+.buttonForText, .textoButtons {
+  width:300px;
+}
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#textandbuttonsDiv {
+  left: 760px;
+  top: 600px;
+}
+
+.buttonForText, .textoButtons {
+  width:370px;
+}
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#textandbuttonsDiv {
+  top: 500px;
+  left: 760px;
+}
+.buttonForText, .textoButtons {
+  width:470px;
+}
+}

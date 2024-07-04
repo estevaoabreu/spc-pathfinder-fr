@@ -1,0 +1,6348 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500italic,300,300italic,500,700|Gaegu:400,700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64e8e25a508fe1ef25bcbef2.64e8e25b508fe1ef25bcbef5.FtlschU.hcp.png");
+
+@font-face {
+  font-family: "MyriadPro-BoldItalic";
+  font-style: italic;
+  font-weight: 700;
+  src: url("../fonts/Myriad Pro Bold Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "MyriadPro-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Myriad-Pro_31655.ttf") format("truetype");
+}
+@font-face {
+  font-family: "MyriadPro-Semibold";
+  font-style: normal;
+  font-weight: 600;
+  src: url("../fonts/Myriad-Pro-Semibold_31650.ttf") format("truetype");
+}
+@font-face {
+  font-family: "MyriadPro-Italic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("../fonts/MyriadPro-It.otf") format("opentype");
+}
+@font-face {
+  font-family: "MyriadPro-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("../fonts/Myriad Pro Light.otf") format("opentype");
+}
+@font-face {
+  font-family: "MyriadPro-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/MyriadPro-Bold.otf") format("opentype");
+}
+@font-face {
+  font-family: "MyriadPro-BoldCondensed";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/Myriad Pro Bold Condensed.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "GaeguLight-Regular";
+  font-style: light;
+  font-weight: 300;
+  src: url("../fonts/Gaegu-Light.ttf")
+}
+
+@font-face {
+  font-family: "Gaegu";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Gaegu-Regular.ttf")
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.overlay-base {
+  display: none;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.grupo-232 {
+  display: flex;
+  height: 114px;
+  left: 12px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(16.00deg);
+  width: 189px;
+}
+
+.copyright {
+  letter-spacing: 0;
+  line-height: 16px;
+  min-height: 26px;
+  min-width: 226px;
+  white-space: nowrap;
+}
+
+.explore {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -2px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.grupo-28 {
+  background-image: url(../img/caminho-184-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.grupo-29 {
+  background-image: url(../img/caminho-185-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.grupo-30 {
+  background-image: url(../img/caminho-186-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.grupo-31 {
+  background-image: url(../img/caminho-187-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.grupo-32 {
+  background-image: url(../img/caminho-188-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-33 {
+  background-image: url(../img/caminho-189-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 19px;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.grupo-36 {
+  background-image: url(../img/caminho-192-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.grupo-37 {
+  background-image: url(../img/caminho-193-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.texte_noir {
+  align-items: flex-start;
+  display: flex;
+  gap: 9px;
+  height: 50px;
+  left: 0;
+  min-width: 122px;
+  position: absolute;
+  top: 0;
+}
+
+.overlap-group3 {
+  height: 47px;
+  position: relative;
+  width: 47px;
+}
+
+.grupo-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 4.25px;
+}
+
+.caminho-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-height: 3px;
+  width: 1px;
+}
+
+.grupo-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 46px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.caminho-container-1 {
+  align-self: flex-end;
+  height: 9px;
+  margin-bottom: 0.15px;
+  position: relative;
+  width: 9px;
+}
+
+.caminho-17 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.caminho-18 {
+  height: 3px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.caminho-19 {
+  height: 3px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.caminho-21 {
+  height: 3px;
+  margin-left: 1px;
+  margin-top: 0.72px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-28 {
+  height: 3px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-4 {
+  height: 3px;
+  margin-left: 1px;
+  margin-top: 0.04px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-5 {
+  height: 3px;
+  margin-left: 1px;
+  margin-top: 0.93px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-6 {
+  height: 3px;
+  margin-top: 2.51px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-container-2 {
+  align-self: flex-end;
+  height: 9px;
+  position: relative;
+  width: 8px;
+}
+
+.caminho-8 {
+  height: 3px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 3px;
+}
+
+.caminho-9 {
+  height: 3px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 3px;
+}
+
+.caminho-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 37px;
+  margin-left: 1.85px;
+  min-width: 44px;
+}
+
+.caminho-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  margin-left: 0.54px;
+  min-width: 46px;
+}
+
+.caminho-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  height: 4px;
+  margin-left: 0;
+  margin-top: 1px;
+  min-width: 47px;
+}
+
+.caminho-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 41px;
+  margin-left: 0.24px;
+  margin-top: 1px;
+  min-width: 47px;
+}
+
+.caminho-12 {
+  height: 3px;
+  margin-left: 1.2px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.caminho-container-7 {
+  height: 11px;
+  margin-top: 0;
+  position: relative;
+  width: 11px;
+}
+
+.caminho-24 {
+  height: 3px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+
+.caminho-25 {
+  height: 3px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.caminho-26 {
+  height: 3px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.caminho-30 {
+  height: 13px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 34px;
+  width: 21px;
+}
+
+.retngulo-1 {
+  background-color: var(--white);
+  height: 1px;
+  width: 66px;
+}
+
+.caminho-container-8 {
+  height: 5px;
+  left: 7px;
+  position: absolute;
+  top: 29px;
+  width: 40px;
+}
+
+.caminho-68 {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.caminho-69 {
+  height: 3px;
+  left: 9px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 30px;
+}
+
+.cocotier {
+  display: flex;
+  height: 23px;
+  left: 5px;
+  position: absolute;
+  top: 7px;
+  width: 38px;
+}
+
+.caminho-70 {
+  height: 1px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 10px;
+  width: 2px;
+}
+
+.caminho-71 {
+  height: 1px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.caminho-72 {
+  height: 23px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 38px;
+}
+
+.the-pacific-pathfinder {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.a-toolkit-to-imagine {
+  left: 153px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 7px;
+  white-space: nowrap;
+}
+
+.grupo-12 {
+  display: flex;
+  height: 1px;
+  left: 118px;
+  position: absolute;
+  top: 22px;
+  transform: rotate(-90deg);
+  width: 43px;
+}
+
+.grupo-11 {
+  display: flex;
+  flex: 1;
+  width: 42.68px;
+}
+
+.grupo-10 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 42.68px;
+}
+
+.caminho-73 {
+  flex: 1;
+  margin-bottom: -20.8px;
+  margin-left: 20.8px;
+  margin-right: 20.8px;
+  margin-top: -20.8px;
+  object-fit: cover;
+  transform: rotate(90deg);
+  width: 1.17px;
+}
+
+.grupo-789 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  min-height: 19px;
+  width: 30px;
+}
+
+.grupo-790 {
+  align-items: flex-start;
+  display: flex;
+  height: 1px;
+  margin-left: 0.5px;
+  min-width: 1920px;
+}
+
+.linha-1 {
+  height: 5px;
+  margin-top: -2.5px;
+  object-fit: cover;
+  width: 384px;
+}
+
+.linha-container {
+  height: 5px;
+  margin-top: -2.5px;
+  position: relative;
+  width: 768px;
+}
+
+.linha-5 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.linha-6 {
+  height: 5px;
+  left: 384px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 384px;
+}
+
+.icon-ionic-md-download {
+  height: 27px;
+  object-fit: cover;
+  width: 22px;
+}
+
+.grupo-391 {
+  align-items: flex-end;
+  display: flex;
+  height: 537px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.grupo-374 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 448px;
+  width: 1920px;
+}
+
+.grupo-375 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 132px;
+  width: 1920px;
+}
+
+.grupo-376 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 536px;
+  width: 1920px;
+}
+
+.grupo-377 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 88px;
+  width: 1920px;
+}
+
+.grupo-378 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 491px;
+  width: 1920px;
+}
+
+.grupo-379 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 223px;
+  width: 1920px;
+}
+
+.grupo-380 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 311px;
+  width: 1920px;
+}
+
+.grupo-381 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 266px;
+  width: 1920px;
+}
+
+.grupo-382 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 176px;
+  width: 1920px;
+}
+
+.grupo-383 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 401px;
+  width: 1920px;
+}
+
+.grupo-384 {
+  background-image: url(../img/caminho-426-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 354px;
+  width: 1920px;
+}
+
+.grupo-385 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 38px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.grupo-387 {
+  background-image: url(../img/caminho-440-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 398px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.grupo-388 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 576px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.grupo-392 {
+  background-image: url(../img/caminho-445-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 535px;
+  left: 1424px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-401 {
+  align-items: flex-end;
+  display: flex;
+  height: 537px;
+  left: 0;
+  padding: 0.0px 82.7px;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.grupo-395 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  width: 1px;
+}
+
+.grupo-398 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 178px;
+  width: 1px;
+}
+
+.grupo-402 {
+  background-image: url(../img/caminho-445-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 535px;
+  left: 799px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-407 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 85px;
+  width: 1px;
+}
+
+.grupo-42 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 43px;
+  width: 1px;
+}
+
+.grupo-408 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 135px;
+  width: 1px;
+}
+
+.grupo-409 {
+  align-self: center;
+  background-image: url(../img/caminho-462-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 136px;
+  margin-top: 0.31px;
+  width: 1px;
+}
+
+.grupo-405 {
+  align-self: center;
+  background-image: url(../img/caminho-440-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-bottom: 0;
+  margin-left: 134px;
+  width: 1px;
+}
+
+.grupo-418 {
+  align-self: center;
+  background-image: url(../img/caminho-462-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 44px;
+  margin-top: 0.31px;
+  width: 1px;
+}
+
+.grupo-403 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 132px;
+  width: 1px;
+}
+
+.grupo-406 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 89px;
+  width: 1px;
+}
+
+.grupo-404 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  margin-left: 91px;
+  width: 1px;
+}
+
+.grupo-424 {
+  background-image: url(../img/caminho-462-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  margin-bottom: 0.3px;
+  margin-top: 0.6px;
+  width: 1px;
+}
+
+.grupo-426 {
+  background-image: url(../img/caminho-445-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 535px;
+  left: 710px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-427 {
+  background-image: url(../img/caminho-440-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 1380px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-428 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 888px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-429 {
+  background-image: url(../img/caminho-438-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 1068px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.grupo-13 {
+  flex: 1;
+  margin-bottom: -115.5px;
+  margin-left: -134.4px;
+  margin-right: -134.4px;
+  margin-top: -115.5px;
+  object-fit: cover;
+  transform: rotate(-40.00deg);
+  width: 858.4px;
+}
+
+.caminho-10 {
+  height: 3px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.grupo-167 {
+  display: flex;
+  height: 329px;
+  left: 117px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(40.00deg);
+  width: 307px;
+}
+
+.grupo-13-1 {
+  flex: 1;
+  margin-bottom: -60.1px;
+  margin-left: -70.0px;
+  margin-right: -70.0px;
+  margin-top: -60.1px;
+  object-fit: cover;
+  transform: rotate(-40.00deg);
+  width: 446.9px;
+}
+
+.tip {
+  left: 235px;
+  letter-spacing: -4.10px;
+  line-height: 82px;
+  position: absolute;
+  top: 183px;
+  white-space: nowrap;
+}
+
+.grupo-151 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 235px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 209px;
+  width: 138px;
+}
+
+.grupo-149 {
+  align-self: center;
+  background-image: url(../img/caminho-246-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-top: 36.45px;
+  width: 11px;
+}
+
+.grupo-147 {
+  background-image: url(../img/caminho-244-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-bottom: 16.11px;
+  margin-left: 10px;
+  width: 13px;
+}
+
+.grupo-148 {
+  background-image: url(../img/caminho-245-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  width: 9px;
+}
+
+.grupo-150 {
+  align-self: center;
+  background-image: url(../img/caminho-247-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-left: 15px;
+  margin-top: 35.1px;
+  width: 9px;
+}
+
+.grupo-165 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 192px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 143px;
+  transform: rotate(180deg);
+  width: 138px;
+}
+
+.grupo-161 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 16.11px;
+  margin-left: 10px;
+  min-width: 13px;
+  padding: 0 0.0px;
+}
+
+.caminho-256 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 13px;
+}
+
+.grupo-162 {
+  align-items: center;
+  display: flex;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  min-width: 9px;
+  padding: 0 0.0px;
+}
+
+.caminho-257 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 9px;
+}
+
+.grupo-159 {
+  display: flex;
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 219px;
+}
+
+.grupo-158 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 219.39px;
+}
+
+.grupo-153 {
+  background-image: url(../img/caminho-249-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 220px;
+  margin-bottom: 0;
+  margin-left: 59px;
+  width: 160px;
+}
+
+.grupo-234 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 22.44px;
+  display: flex;
+  height: 45px;
+  justify-content: flex-end;
+  left: 259px;
+  min-width: 45px;
+  padding: 0 8.7px;
+  position: absolute;
+  top: 346px;
+}
+
+.grupo-170 {
+  cursor: pointer;
+  align-items: flex-end;
+  background-image: url(../img/caminho-312-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  width: 174px;
+}
+
+.more-info {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -2.8px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 106px;
+}
+
+.more_-info-button {
+  cursor: pointer;
+}
+
+.icon-ionic-ios-information-circle {
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  width: 40px;
+}
+
+.grupo-39-2 {
+  display: flex;
+  margin-bottom: 1.1px;
+  margin-right: 0;
+  margin-top: 1px;
+  width: 23.17px;
+}
+
+.grupo-369 {
+  background-image: url(../img/caminho-423-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  left: 29px;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.grupo-459 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 3px;
+  padding: 0.0px 0.0px;
+  width: 62.88px;
+}
+
+.grupo-444 {
+  background-image: url(../img/caminho-495-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.grupo-435 {
+  background-image: url(../img/caminho-486-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 28px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.grupo-436 {
+  background-image: url(../img/caminho-487-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 27px;
+  width: 6px;
+}
+
+.grupo-437 {
+  background-image: url(../img/caminho-488-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 27px;
+  width: 6px;
+}
+
+.grupo-438 {
+  background-image: url(../img/caminho-489-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.grupo-442 {
+  background-image: url(../img/caminho-493-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  position: absolute;
+  top: 27px;
+  width: 7px;
+}
+
+.grupo-446 {
+  background-image: url(../img/caminho-497-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.grupo-447 {
+  background-image: url(../img/caminho-498-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.grupo-448 {
+  background-image: url(../img/caminho-499-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 17px;
+  width: 5px;
+}
+
+.grupo-449 {
+  background-image: url(../img/caminho-500-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 18px;
+  position: absolute;
+  top: 21px;
+  width: 2px;
+}
+
+.grupo-450 {
+  background-image: url(../img/caminho-501-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.grupo-453 {
+  background-image: url(../img/caminho-504-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  margin-right: 0.48px;
+  width: 3px;
+}
+
+.grupo-454 {
+  background-image: url(../img/caminho-505-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  width: 2px;
+}
+
+.grupo-457 {
+  background-image: url(../img/caminho-508-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-right: 0.7px;
+  width: 2px;
+}
+
+.grupo-483 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 40.29px;
+}
+
+.grupo-461 {
+  background-image: url(../img/caminho-511-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.grupo-462 {
+  background-image: url(../img/caminho-512-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.grupo-463 {
+  background-image: url(../img/caminho-513-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 27px;
+  width: 3px;
+}
+
+.grupo-464 {
+  background-image: url(../img/caminho-514-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 30px;
+  position: absolute;
+  top: 23px;
+  width: 4px;
+}
+
+.grupo-465 {
+  background-image: url(../img/caminho-515-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 2px;
+}
+
+.grupo-466 {
+  background-image: url(../img/caminho-516-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 32px;
+  width: 3px;
+}
+
+.grupo-469 {
+  background-image: url(../img/caminho-519-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 7px;
+}
+
+.grupo-470 {
+  background-image: url(../img/caminho-520-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  position: absolute;
+  top: 45px;
+  width: 8px;
+}
+
+.grupo-476 {
+  background-image: url(../img/caminho-526-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 5px;
+  position: absolute;
+  top: 27px;
+  width: 3px;
+}
+
+.grupo-477 {
+  background-image: url(../img/caminho-527-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 19px;
+  width: 8px;
+}
+
+.grupo-478 {
+  background-image: url(../img/caminho-528-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 4px;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.grupo-480 {
+  background-image: url(../img/caminho-530-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 25px;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.grupo-481 {
+  background-image: url(../img/caminho-531-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 5px;
+}
+
+.grupo-482 {
+  background-image: url(../img/caminho-532-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.time60-minutes {
+  left: 847px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1599px;
+  white-space: nowrap;
+}
+
+.download-template {
+  min-width: 212px;
+}
+
+.quesiton_-tabs {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 764px;
+  min-height: 167px;
+  position: absolute;
+  top: 577px;
+  width: 576px;
+}
+
+._-chap3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 576px;
+}
+
+._-container {
+  height: 50px;
+  position: relative;
+  width: 576px;
+}
+
+.what_-content {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.a-tool-that-identifi {
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+._-tab-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25px;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  width: 576px;
+}
+
+.what-it-is {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.grupo-1014 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-2280-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.when_-container {
+  position: relative;
+}
+
+.when_-content {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  display: flex;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.with-stakeholders-or {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.grupo-101 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 22px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.why_-content {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  border-radius: 25px;
+  display: flex;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 576px;
+}
+
+.it-provides-a-visual {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 8.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.why-use-it {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.activities {
+  left: 1327px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 2060px;
+  white-space: nowrap;
+}
+
+.grupo-107 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  overflow: hidden;
+  width: 34.22px;
+}
+
+.grupo-105 {
+  background-image: url(../img/caminho-233-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  margin-right: 0.36px;
+  width: 7px;
+}
+
+.grupo-103 {
+  align-self: center;
+  background-image: url(../img/caminho-231-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  margin-left: 9.66px;
+  margin-top: 9px;
+  width: 14px;
+}
+
+.grupo-105-1 {
+  display: flex;
+  height: 10px;
+  margin-right: 0.36px;
+  width: 7px;
+}
+
+.grupo-103-1 {
+  align-self: center;
+  display: flex;
+  height: 12px;
+  margin-left: 9.66px;
+  margin-top: 9px;
+  width: 14px;
+}
+
+.grupo-102-1 {
+  align-self: flex-start;
+  display: flex;
+  height: 7px;
+  margin-left: 0;
+  margin-top: 11px;
+  width: 28px;
+}
+
+.grupo-104-1 {
+  display: flex;
+  height: 9px;
+  margin-right: 3.07px;
+  margin-top: 14px;
+  width: 13px;
+}
+
+.grupo-106-1 {
+  display: flex;
+  height: 9px;
+  margin-right: 0;
+  margin-top: 14px;
+  width: 6px;
+}
+
+.download-activity {
+  min-width: 198px;
+}
+
+.grupo-3444 {
+  background-image: url(../img/caminho-2927-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 115px;
+  position: absolute;
+  top: 85px;
+  width: 23px;
+}
+
+.grupo-3452 {
+  background-image: url(../img/caminho-2935-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 101px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.grupo-3453 {
+  background-image: url(../img/caminho-2936-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 44px;
+  position: absolute;
+  top: 49px;
+  width: 2px;
+}
+
+.caminho-2863 {
+  flex: 1;
+  margin-bottom: -0.7px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 119.34px;
+}
+
+.caminho-2864 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 55.87px;
+}
+
+.caminho-2865 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.4px;
+  margin-right: -0.4px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 8.05px;
+}
+
+.caminho-2866 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 15.31px;
+}
+
+.caminho-2867 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 9.1px;
+}
+
+.caminho-2868 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.22px;
+}
+
+.caminho-2869 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 7.34px;
+}
+
+.caminho-2870 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 90.39px;
+}
+
+.caminho-2871 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 21.17px;
+}
+
+.caminho-2872 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 28.25px;
+}
+
+.caminho-2873 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 22.91px;
+}
+
+.caminho-2874 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 18.37px;
+}
+
+.caminho-2875 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.3px;
+  object-fit: cover;
+  width: 23.23px;
+}
+
+.caminho-2876 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 16.76px;
+}
+
+.caminho-2877 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 17.94px;
+}
+
+.caminho-2878 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.53px;
+}
+
+.caminho-2879 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 29.95px;
+}
+
+.caminho-2880 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 14.91px;
+}
+
+.caminho-2881 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 14.07px;
+}
+
+.caminho-2882 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 18.38px;
+}
+
+.caminho-2883 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 20.83px;
+}
+
+.caminho-2884 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 12.46px;
+}
+
+.grupo-3450 {
+  background-image: url(../img/caminho-2933-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 1px;
+  margin-top: 21.29px;
+  width: 1px;
+}
+
+.grupo-3451 {
+  background-image: url(../img/caminho-2934-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-bottom: 41.06px;
+  width: 1px;
+}
+
+.grupo-2493 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 64.19px;
+}
+
+.grupo-2490 {
+  background-image: url(../img/caminho-2300-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 40px;
+}
+
+.grupo-2492 {
+  background-image: url(../img/caminho-2302-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 47px;
+  left: 39px;
+  position: absolute;
+  top: 11px;
+  width: 26px;
+}
+
+.grupo-2527 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 75.15px;
+}
+
+.grupo-2495 {
+  background-image: url(../img/caminho-2304-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.grupo-2496 {
+  background-image: url(../img/caminho-2305-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.grupo-2498 {
+  background-image: url(../img/caminho-2307-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 44px;
+}
+
+.grupo-2499 {
+  background-image: url(../img/caminho-2308-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 44px;
+}
+
+.grupo-2503 {
+  background-image: url(../img/caminho-2312-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  position: absolute;
+  top: 36px;
+  width: 47px;
+}
+
+.grupo-2504 {
+  background-image: url(../img/caminho-2313-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 36px;
+  width: 59px;
+}
+
+.grupo-2505 {
+  background-image: url(../img/caminho-2314-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 56px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2507 {
+  background-image: url(../img/caminho-2316-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  position: absolute;
+  top: 42px;
+  width: 54px;
+}
+
+.grupo-2508 {
+  background-image: url(../img/caminho-2317-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 14px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2510 {
+  background-image: url(../img/caminho-2319-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 26px;
+  position: absolute;
+  top: 36px;
+  width: 4px;
+}
+
+.grupo-2512 {
+  background-image: url(../img/caminho-2321-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 37px;
+  position: absolute;
+  top: 36px;
+  width: 2px;
+}
+
+.grupo-2513 {
+  background-image: url(../img/caminho-2322-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 36px;
+  width: 2px;
+}
+
+.grupo-2515 {
+  background-image: url(../img/caminho-2324-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 51px;
+  position: absolute;
+  top: 36px;
+  width: 4px;
+}
+
+.grupo-2516 {
+  background-image: url(../img/caminho-2325-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 60px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2517 {
+  background-image: url(../img/caminho-2326-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 53px;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.grupo-2518 {
+  background-image: url(../img/caminho-2327-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 52px;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.grupo-2519 {
+  background-image: url(../img/caminho-2328-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 22px;
+  width: 5px;
+}
+
+.grupo-2520 {
+  background-image: url(../img/caminho-2329-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 49px;
+  position: absolute;
+  top: 25px;
+  width: 6px;
+}
+
+.grupo-2521 {
+  background-image: url(../img/caminho-2330-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.grupo-2522 {
+  background-image: url(../img/caminho-2331-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-2523 {
+  background-image: url(../img/caminho-2332-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 13px;
+  width: 2px;
+}
+
+.grupo-2524 {
+  background-image: url(../img/caminho-2333-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.grupo-2525 {
+  background-image: url(../img/caminho-2334-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 67px;
+  position: absolute;
+  top: 44px;
+  width: 2px;
+}
+
+.grupo-2526 {
+  background-image: url(../img/caminho-2335-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 66px;
+  position: absolute;
+  top: 47px;
+  width: 2px;
+}
+
+.grupo-2542 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 54.7px;
+}
+
+.grupo-2536 {
+  background-image: url(../img/caminho-2344-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.grupo-2537 {
+  background-image: url(../img/caminho-2345-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 15px;
+  position: absolute;
+  top: 26px;
+  width: 29px;
+}
+
+.grupo-2540 {
+  background-image: url(../img/caminho-2348-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 2px;
+  position: absolute;
+  top: 14px;
+  width: 50px;
+}
+
+.grupo-2541 {
+  background-image: url(../img/caminho-2349-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 50px;
+}
+
+.how-to-do-it {
+  left: 1285px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: 1460px;
+  white-space: nowrap;
+}
+
+.download {
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: 2.0px;
+  min-height: 26px;
+  white-space: nowrap;
+}
+
+.flex {
+  align-items: flex-start;
+  display: flex;
+}
+
+.when_ {
+  border-radius: 25px;
+  height: 51px;
+  width: 576px;
+}
+
+.grupo-3470 {
+  background-image: url(../img/caminho-2944-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 612px;
+  position: absolute;
+  top: 1108px;
+  width: 427px;
+}
+
+.grupo-3474 {
+  background-image: url(../img/caminho-2948-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 888px;
+  left: 430px;
+  position: absolute;
+  top: 357px;
+  width: 328px;
+}
+
+.grupo-3477 {
+  background-image: url(../img/caminho-2951-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 657px;
+  left: 22px;
+  position: absolute;
+  top: 236px;
+  width: 181px;
+}
+
+.grupo-301 {
+  display: flex;
+  height: 633px;
+  left: 134px;
+  position: absolute;
+  top: 115px;
+  transform: rotate(40.00deg);
+  width: 590px;
+}
+
+.grupo-2468 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  justify-content: center;
+  left: 1865px;
+  min-height: 19px;
+  position: absolute;
+  top: 32px;
+  width: 30px;
+}
+
+.retngulo-246 {
+  background-color: var(--green-blue-2);
+  height: 81px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.grupo-2469 {
+  align-items: flex-start;
+  display: flex;
+  height: 1px;
+  margin-left: 0.5px;
+  min-width: 1920px;
+}
+
+.grupo-687 {
+  flex: 1;
+  margin-top: 0;
+  position: relative;
+  width: 1639px;
+}
+
+.grupo-688 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 492px;
+  position: absolute;
+  top: 45px;
+  width: 1639px;
+}
+
+.grupo-689 {
+  background-image: url(../img/caminho-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 352px;
+  position: absolute;
+  top: 537px;
+  width: 1px;
+}
+
+.span0 {
+  font-weight: 300;
+}
+
+.caminho-container-10 {
+  height: 161px;
+  margin-left: -27px;
+  margin-top: -23.05px;
+  position: relative;
+  width: 245px;
+}
+
+.grupo-3676 {
+  background-image: url(../img/caminho-3018-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  width: 66px;
+}
+
+.grupo-3684 {
+  align-self: flex-end;
+  background-image: url(../img/caminho-3026-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  width: 41px;
+}
+
+.grupo-3680 {
+  background-image: url(../img/caminho-3022-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  width: 46px;
+}
+
+.grupo-3683 {
+  align-self: center;
+  background-image: url(../img/caminho-3025-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  margin-left: 1px;
+  margin-top: 3.11px;
+  width: 5px;
+}
+
+.explore-1 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -2px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.grupo-38-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 23.17px;
+}
+
+.grupo-19-1 {
+  background-image: url(../img/caminho-175-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 9px;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.grupo-20-1 {
+  background-image: url(../img/caminho-176-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-21-1 {
+  background-image: url(../img/caminho-177-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 5px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-22-2 {
+  background-image: url(../img/caminho-178-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-24-1 {
+  background-image: url(../img/caminho-180-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.grupo-25-1 {
+  background-image: url(../img/caminho-181-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.grupo-26-1 {
+  background-image: url(../img/caminho-182-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-27-1 {
+  background-image: url(../img/caminho-183-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-28-1 {
+  background-image: url(../img/caminho-184-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.grupo-29-1 {
+  background-image: url(../img/caminho-185-4@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.grupo-30-1 {
+  background-image: url(../img/caminho-186-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.grupo-31-1 {
+  background-image: url(../img/caminho-187-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.grupo-32-1 {
+  background-image: url(../img/caminho-188-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-33-1 {
+  background-image: url(../img/caminho-189-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 19px;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.grupo-36-1 {
+  background-image: url(../img/caminho-192-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.grupo-37-1 {
+  background-image: url(../img/caminho-193-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-232-1 {
+  display: flex;
+  height: 114px;
+  left: 12px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(16.00deg);
+  width: 189px;
+}
+
+.retngulo-436 {
+  height: 996px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 222px;
+  width: 1280px;
+}
+
+.grupo-de-mscara-20 {
+  display: flex;
+  height: 559px;
+  left: 476px;
+  opacity: 0.16;
+  overflow: hidden;
+  position: absolute;
+  top: 659px;
+  width: 1251px;
+}
+
+.grupo-144249 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: -762.8px;
+  margin-left: 13.4px;
+  margin-right: -35.0px;
+  margin-top: 46.4px;
+  min-width: 1272.61px;
+}
+
+.grupo-144223 {
+  background-image: url(../img/caminho-62211-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 173px;
+  left: 269px;
+  position: absolute;
+  top: 185px;
+  width: 269px;
+}
+
+.grupo-144225 {
+  background-image: url(../img/caminho-62213-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 218px;
+  left: 750px;
+  position: absolute;
+  top: 166px;
+  width: 136px;
+}
+
+.grupo-144229 {
+  background-image: url(../img/caminho-2904@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 612px;
+  position: absolute;
+  top: 1108px;
+  width: 427px;
+}
+
+.grupo-144230 {
+  background-image: url(../img/caminho-62218-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 1053px;
+  position: absolute;
+  top: 726px;
+  width: 169px;
+}
+
+.grupo-144232 {
+  background-image: url(../img/caminho-2907@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 710px;
+  position: absolute;
+  top: 1181px;
+  width: 221px;
+}
+
+.grupo-144234 {
+  background-image: url(../img/caminho-62222-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 463px;
+  position: absolute;
+  top: 1097px;
+  width: 79px;
+}
+
+.grupo-144235 {
+  background-image: url(../img/caminho-2910@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 529px;
+  position: absolute;
+  top: 972px;
+  width: 54px;
+}
+
+.grupo-144236 {
+  background-image: url(../img/caminho-2911@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 657px;
+  left: 22px;
+  position: absolute;
+  top: 236px;
+  width: 181px;
+}
+
+.grupo-144237 {
+  background-image: url(../img/caminho-62225-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 561px;
+  width: 56px;
+}
+
+.grupo-144239 {
+  background-image: url(../img/caminho-62227-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  left: 158px;
+  position: absolute;
+  top: 236px;
+  width: 278px;
+}
+
+.grupo-144241 {
+  background-image: url(../img/caminho-62229-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 606px;
+  position: absolute;
+  top: 875px;
+  width: 30px;
+}
+
+.grupo-144247 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1275px;
+  left: 0;
+  padding: 460.4px 538.1px;
+  position: absolute;
+  top: 0;
+  width: 1273px;
+}
+
+.grupo-144246 {
+  background-image: url(../img/caminho-2921@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-right: 13.61px;
+  margin-top: 26px;
+  width: 9px;
+}
+
+.grupo-144245 {
+  background-image: url(../img/caminho-2920@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-top: 45px;
+  width: 7px;
+}
+
+.grupo-144244 {
+  background-image: url(../img/caminho-2919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  margin-right: 1.01px;
+  margin-top: 50px;
+  width: 10px;
+}
+
+.grupo-144243 {
+  background-image: url(../img/caminho-2918@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  margin-right: 13.13px;
+  margin-top: 50px;
+  width: 17px;
+}
+
+.grupo-144242 {
+  align-self: center;
+  background-image: url(../img/caminho-2917@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  margin-left: 79.97px;
+  margin-top: 56px;
+  width: 21px;
+}
+
+.grupo-144248 {
+  background-image: url(../img/caminho-2923@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 690px;
+  position: absolute;
+  top: 437px;
+  width: 5px;
+}
+
+.grupo-8810 {
+  height: 537px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 1430px;
+  width: 1920px;
+}
+
+.grupo-8811 {
+  height: 537px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 983px;
+  width: 1920px;
+}
+
+.grupo-8839 {
+  height: 864px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-8841 {
+  height: 65px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 259px;
+  width: 551px;
+}
+
+.grupo-8842 {
+  height: 5px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 341px;
+  width: 199px;
+}
+
+.grupo-8847 {
+  height: 45px;
+  left: 1235px;
+  object-fit: cover;
+  position: absolute;
+  top: 1861px;
+  width: 282px;
+}
+
+.grupo-143938 {
+  height: 94px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 2041px;
+  width: 286px;
+}
+
+.retngulo-80 {
+  height: 81px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 1280px;
+}
+
+.grupo-788 {
+  height: 47px;
+  left: 958px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 302px;
+}
+
+.grupo-790-1 {
+  height: 5px;
+  left: 462px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 1280px;
+}
+
+.grupo-8843 {
+  display: flex;
+  height: 64px;
+  left: 569px;
+  position: absolute;
+  top: 1595px;
+  width: 64px;
+}
+
+.grupo-8844 {
+  display: flex;
+  height: 53px;
+  left: 570px;
+  position: absolute;
+  top: 1701px;
+  width: 63px;
+}
+
+.grupo-459-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 3px;
+  padding: 0.0px 0.0px;
+  width: 62.88px;
+}
+
+.overlap-group-container-2 {
+  align-self: flex-end;
+}
+
+.grupo-443-1 {
+  background-image: url(../img/caminho-494-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  margin-right: 0.27px;
+  width: 3px;
+}
+
+.grupo-444-1 {
+  background-image: url(../img/caminho-495-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1px;
+}
+
+.grupo-435-1 {
+  background-image: url(../img/caminho-486-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 28px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.grupo-436-1 {
+  background-image: url(../img/caminho-487-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 27px;
+  width: 6px;
+}
+
+.grupo-437-1 {
+  background-image: url(../img/caminho-488-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 27px;
+  width: 6px;
+}
+
+.grupo-438-1 {
+  background-image: url(../img/caminho-489-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 28px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 12px;
+}
+
+.grupo-441-1 {
+  background-image: url(../img/caminho-492-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 28px;
+  width: 6px;
+}
+
+.grupo-442-1 {
+  background-image: url(../img/caminho-493-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 21px;
+  position: absolute;
+  top: 27px;
+  width: 7px;
+}
+
+.grupo-446-1 {
+  background-image: url(../img/caminho-497-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 9px;
+  width: 2px;
+}
+
+.grupo-447-1 {
+  background-image: url(../img/caminho-498-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.grupo-448-1 {
+  background-image: url(../img/caminho-499-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 17px;
+  width: 5px;
+}
+
+.grupo-449-1 {
+  background-image: url(../img/caminho-500-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 18px;
+  position: absolute;
+  top: 21px;
+  width: 2px;
+}
+
+.grupo-450-1 {
+  background-image: url(../img/caminho-501-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+
+.overlap-group-container-3 {
+  margin-top: 0;
+}
+
+.grupo-453-1 {
+  background-image: url(../img/caminho-504-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  margin-right: 0.48px;
+  width: 3px;
+}
+
+.grupo-454-1 {
+  background-image: url(../img/caminho-505-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  width: 2px;
+}
+
+.grupo-455-1 {
+  background-image: url(../img/caminho-506-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 4px;
+}
+
+.grupo-456-1 {
+  background-image: url(../img/caminho-507-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-right: 0.68px;
+  width: 2px;
+}
+
+.grupo-457-1 {
+  background-image: url(../img/caminho-508-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-right: 0.7px;
+  width: 2px;
+}
+
+.grupo-8845 {
+  display: flex;
+  height: 54px;
+  left: 582px;
+  position: absolute;
+  top: 1804px;
+  width: 40px;
+}
+
+.grupo-483-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 40.29px;
+}
+
+.grupo-461-1 {
+  background-image: url(../img/caminho-511-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 54px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 33px;
+}
+
+.grupo-462-1 {
+  background-image: url(../img/caminho-512-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 15px;
+}
+
+.grupo-463-1 {
+  background-image: url(../img/caminho-513-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 27px;
+  width: 3px;
+}
+
+.grupo-464-1 {
+  background-image: url(../img/caminho-514-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 30px;
+  position: absolute;
+  top: 23px;
+  width: 4px;
+}
+
+.grupo-465-1 {
+  background-image: url(../img/caminho-515-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 2px;
+}
+
+.grupo-466-1 {
+  background-image: url(../img/caminho-516-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 32px;
+  width: 3px;
+}
+
+.grupo-469-1 {
+  background-image: url(../img/caminho-519-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 7px;
+}
+
+.grupo-470-1 {
+  background-image: url(../img/caminho-520-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  position: absolute;
+  top: 45px;
+  width: 8px;
+}
+
+.grupo-472-1 {
+  background-image: url(../img/caminho-522-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 35px;
+  width: 5px;
+}
+
+.grupo-476-1 {
+  background-image: url(../img/caminho-526-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 5px;
+  position: absolute;
+  top: 27px;
+  width: 3px;
+}
+
+.grupo-477-1 {
+  background-image: url(../img/caminho-527-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 1px;
+  position: absolute;
+  top: 19px;
+  width: 8px;
+}
+
+.grupo-478-1 {
+  background-image: url(../img/caminho-528-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 4px;
+  position: absolute;
+  top: 10px;
+  width: 4px;
+}
+
+.grupo-480-1 {
+  background-image: url(../img/caminho-530-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 25px;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.grupo-481-1 {
+  background-image: url(../img/caminho-531-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 5px;
+}
+
+.grupo-482-1 {
+  background-image: url(../img/caminho-532-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 25px;
+  position: absolute;
+  top: 18px;
+  width: 3px;
+}
+
+.grupo-8846 {
+  background-image: url(../img/caminho-534-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 319px;
+  left: 1081px;
+  position: absolute;
+  top: 1589px;
+  width: 4px;
+}
+
+.time60-minutes-1 {
+  left: 650px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1599px;
+  white-space: nowrap;
+}
+
+.no-of-participants-1 {
+  left: 650px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1690px;
+  width: 365px;
+}
+
+.butchers-paper-1 {
+  height: 58px;
+  left: 1224px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1645px;
+  width: 156px;
+}
+
+.coloured-marker-pens-1 {
+  height: 66px;
+  left: 1515px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1641px;
+  width: 132px;
+}
+
+.material-1 {
+  left: 1134px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1590px;
+  white-space: nowrap;
+}
+
+.grupo-8850 {
+  display: flex;
+  height: 58px;
+  left: 1134px;
+  position: absolute;
+  top: 1644px;
+  width: 64px;
+}
+
+.grupo-8851 {
+  background-image: url(../img/caminho-2351-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 47px;
+  left: 1406px;
+  position: absolute;
+  top: 1644px;
+  width: 61px;
+}
+
+.grupo-143936 {
+  height: 94px;
+  left: 931px;
+  object-fit: cover;
+  position: absolute;
+  top: 1441px;
+  width: 340px;
+}
+
+.grupo-8854 {
+  height: 45px;
+  left: 1377px;
+  object-fit: cover;
+  position: absolute;
+  top: 280px;
+  width: 282px;
+}
+
+.grupo-3444-1 {
+  background-image: url(../img/caminho-2927-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  left: 115px;
+  position: absolute;
+  top: 85px;
+  width: 23px;
+}
+
+.grupo-3449-1 {
+  background-image: url(../img/caminho-2932-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 58px;
+  position: absolute;
+  top: 48px;
+  width: 11px;
+}
+
+.grupo-3452-1 {
+  background-image: url(../img/caminho-2935-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 101px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.grupo-3453-1 {
+  background-image: url(../img/caminho-2936-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 44px;
+  position: absolute;
+  top: 49px;
+  width: 2px;
+}
+
+.caminho-2863-1 {
+  flex: 1;
+  margin-bottom: -0.7px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 119.34px;
+}
+
+.caminho-2864-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 55.87px;
+}
+
+.caminho-2865-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.4px;
+  margin-right: -0.4px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 8.05px;
+}
+
+.caminho-2866-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 15.31px;
+}
+
+.caminho-2867-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 9.1px;
+}
+
+.caminho-2868-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.22px;
+}
+
+.caminho-2869-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 7.34px;
+}
+
+.caminho-2870-1 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 90.39px;
+}
+
+.caminho-2871-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 21.17px;
+}
+
+.caminho-2872-1 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 28.25px;
+}
+
+.caminho-2873-1 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 22.91px;
+}
+
+.caminho-2874-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 18.37px;
+}
+
+.caminho-2875-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.3px;
+  object-fit: cover;
+  width: 23.23px;
+}
+
+.caminho-2876-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 16.76px;
+}
+
+.caminho-2877-1 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 17.94px;
+}
+
+.caminho-2878-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.53px;
+}
+
+.caminho-2879-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 29.95px;
+}
+
+.caminho-2880-1 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 14.91px;
+}
+
+.caminho-2881-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 14.07px;
+}
+
+.caminho-2882-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 18.38px;
+}
+
+.caminho-2883-1 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 20.83px;
+}
+
+.caminho-2884-1 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 12.46px;
+}
+
+.grupo-3450-1 {
+  background-image: url(../img/caminho-2933-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 1px;
+  margin-top: 21.29px;
+  width: 1px;
+}
+
+.grupo-3451-1 {
+  background-image: url(../img/caminho-2934-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-bottom: 41.06px;
+  width: 1px;
+}
+
+.grupo-167-1 {
+  display: flex;
+  height: 329px;
+  left: 117px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(40.00deg);
+  width: 307px;
+}
+
+.grupo-13-2 {
+  flex: 1;
+  margin-bottom: -60.1px;
+  margin-left: -70.0px;
+  margin-right: -70.0px;
+  margin-top: -60.1px;
+  object-fit: cover;
+  transform: rotate(-40.00deg);
+  width: 446.9px;
+}
+
+.grupo-151-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 235px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 209px;
+  width: 138px;
+}
+
+.grupo-149-1 {
+  align-self: center;
+  background-image: url(../img/caminho-246-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-top: 36.45px;
+  width: 11px;
+}
+
+.grupo-147-1 {
+  background-image: url(../img/caminho-244-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-bottom: 16.11px;
+  margin-left: 10px;
+  width: 13px;
+}
+
+.grupo-148-1 {
+  background-image: url(../img/caminho-245-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  width: 9px;
+}
+
+.grupo-150-1 {
+  align-self: center;
+  background-image: url(../img/caminho-247-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-left: 15px;
+  margin-top: 35.1px;
+  width: 9px;
+}
+
+.grupo-165-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 192px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 143px;
+  transform: rotate(180deg);
+  width: 138px;
+}
+
+.grupo-161-1 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 16.11px;
+  margin-left: 10px;
+  min-width: 13px;
+}
+
+.caminho-256-1 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 13px;
+}
+
+.grupo-162-1 {
+  align-items: center;
+  display: flex;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  min-width: 9px;
+  padding: 0 0.0px;
+}
+
+.caminho-257-1 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 9px;
+}
+
+.grupo-159-1 {
+  display: flex;
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 219px;
+}
+
+.grupo-158-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 219.39px;
+}
+
+.grupo-153-1 {
+  background-image: url(../img/caminho-249-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 220px;
+  margin-bottom: 0;
+  margin-left: 59px;
+  width: 160px;
+}
+
+.grupo-234-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 22.44px;
+  display: flex;
+  height: 45px;
+  justify-content: flex-end;
+  left: 259px;
+  min-width: 45px;
+  padding: 0 8.7px;
+  position: absolute;
+  top: 346px;
+}
+
+.quesiton_-tabs-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  left: 764px;
+  min-height: 167px;
+  position: absolute;
+  top: 577px;
+  width: 471px;
+}
+
+._-chap3-1 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 471px;
+}
+
+._-container-1 {
+  height: 50px;
+  position: relative;
+  width: 471px;
+}
+
+.what_-content-1 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.a-tool-that-identifi-1 {
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+._-tab-2 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+._-tab-3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25px;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.what-it-is-1 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.grupo-1014-1 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-2280-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.when_-container-1 {
+  border-radius: 25px;
+  height: 51px;
+  position: relative;
+  width: 471px;
+}
+
+.when_-content-1 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  border-radius: 25px;
+  display: flex;
+  height: 51px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.with-stakeholders-or-1 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.grupo-101-1 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 22px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.why_-content-1 {
+  align-items: flex-end;
+  background-color: var(--white-2);
+  border-radius: 25px;
+  display: flex;
+  height: 49px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 471px;
+}
+
+.it-provides-a-visual-1 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 8.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.why-use-it-1 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.surname-1 {
+  height: 174px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  width: 265px;
+}
+
+.sticky-notes-1 {
+  height: 42px;
+  left: 1224px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1764px;
+  width: 147px;
+}
+
+.virtual-collaboration-platform {
+  left: 1515px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1764px;
+  width: 146px;
+}
+
+.grupo-2527-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0.0px 0;
+  width: 75.15px;
+}
+
+.grupo-2495-1 {
+  background-image: url(../img/caminho-2304-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.grupo-2496-1 {
+  background-image: url(../img/caminho-2305-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 34px;
+  left: 11px;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.grupo-2498-1 {
+  background-image: url(../img/caminho-2307-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 44px;
+}
+
+.grupo-2499-1 {
+  background-image: url(../img/caminho-2308-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 27px;
+  left: 16px;
+  position: absolute;
+  top: 4px;
+  width: 44px;
+}
+
+.grupo-2503-1 {
+  background-image: url(../img/caminho-2312-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 14px;
+  position: absolute;
+  top: 36px;
+  width: 47px;
+}
+
+.grupo-2504-1 {
+  background-image: url(../img/caminho-2313-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 12px;
+  left: 7px;
+  position: absolute;
+  top: 36px;
+  width: 59px;
+}
+
+.grupo-2505-1 {
+  background-image: url(../img/caminho-2314-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 56px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2507-1 {
+  background-image: url(../img/caminho-2316-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  position: absolute;
+  top: 42px;
+  width: 54px;
+}
+
+.grupo-2508-1 {
+  background-image: url(../img/caminho-2317-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 14px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2510-1 {
+  background-image: url(../img/caminho-2319-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 26px;
+  position: absolute;
+  top: 36px;
+  width: 4px;
+}
+
+.grupo-2512-1 {
+  background-image: url(../img/caminho-2321-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 37px;
+  position: absolute;
+  top: 36px;
+  width: 2px;
+}
+
+.grupo-2513-1 {
+  background-image: url(../img/caminho-2322-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 42px;
+  position: absolute;
+  top: 36px;
+  width: 2px;
+}
+
+.grupo-2515-1 {
+  background-image: url(../img/caminho-2324-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 51px;
+  position: absolute;
+  top: 36px;
+  width: 4px;
+}
+
+.grupo-2516-1 {
+  background-image: url(../img/caminho-2325-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 60px;
+  position: absolute;
+  top: 36px;
+  width: 6px;
+}
+
+.grupo-2517-1 {
+  background-image: url(../img/caminho-2326-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 53px;
+  position: absolute;
+  top: 16px;
+  width: 3px;
+}
+
+.grupo-2518-1 {
+  background-image: url(../img/caminho-2327-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 52px;
+  position: absolute;
+  top: 18px;
+  width: 4px;
+}
+
+.grupo-2519-1 {
+  background-image: url(../img/caminho-2328-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 22px;
+  width: 5px;
+}
+
+.grupo-2520-1 {
+  background-image: url(../img/caminho-2329-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 49px;
+  position: absolute;
+  top: 25px;
+  width: 6px;
+}
+
+.grupo-2521-1 {
+  background-image: url(../img/caminho-2330-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 19px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+
+.grupo-2522-1 {
+  background-image: url(../img/caminho-2331-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-2523-1 {
+  background-image: url(../img/caminho-2332-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 20px;
+  position: absolute;
+  top: 13px;
+  width: 2px;
+}
+
+.grupo-2524-1 {
+  background-image: url(../img/caminho-2333-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: 15px;
+  width: 2px;
+}
+
+.grupo-2525-1 {
+  background-image: url(../img/caminho-2334-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 67px;
+  position: absolute;
+  top: 44px;
+  width: 2px;
+}
+
+.grupo-2526-1 {
+  background-image: url(../img/caminho-2335-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 66px;
+  position: absolute;
+  top: 47px;
+  width: 2px;
+}
+
+.grupo-2542-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 54.7px;
+}
+
+.grupo-2535-1 {
+  background-image: url(../img/caminho-2343-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 13px;
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+
+.grupo-2536-1 {
+  background-image: url(../img/caminho-2344-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 17px;
+  left: 25px;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.grupo-2537-1 {
+  background-image: url(../img/caminho-2345-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 15px;
+  position: absolute;
+  top: 26px;
+  width: 29px;
+}
+
+.grupo-2540-1 {
+  background-image: url(../img/caminho-2348-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 2px;
+  position: absolute;
+  top: 14px;
+  width: 50px;
+}
+
+.grupo-2541-1 {
+  background-image: url(../img/caminho-2349-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 50px;
+}
+
+.retngulo-361 {
+  background-color: var(--tan);
+  border-radius: 40px 40px 40px 0px;
+  height: 51px;
+  left: 542px;
+  position: absolute;
+  top: 2189px;
+  width: 339px;
+}
+
+.retngulo-365 {
+  background-color: var(--neon-carrot);
+  border-radius: 40px 40px 0px 40px;
+  height: 51px;
+  left: 759px;
+  position: absolute;
+  top: 2189px;
+  width: 900px;
+}
+
+.grupo-144109 {
+  height: 864px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 858px;
+}
+
+.grupo-144129 {
+  height: 537px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 1178px;
+}
+
+.caminho-container-11 {
+  height: 161px;
+  margin-left: -27px;
+  margin-top: -23.05px;
+  position: relative;
+  width: 245px;
+}
+
+.grupo-3676-1 {
+  background-image: url(../img/caminho-3018-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  width: 66px;
+}
+
+.grupo-3684-1 {
+  align-self: flex-end;
+  background-image: url(../img/caminho-3026-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  width: 41px;
+}
+
+.grupo-3680-1 {
+  background-image: url(../img/caminho-3022-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  width: 46px;
+}
+
+.grupo-3683-1 {
+  align-self: center;
+  background-image: url(../img/caminho-3025-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  margin-left: 1px;
+  margin-top: 3.11px;
+  width: 5px;
+}
+
+.explore-2 {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-bottom: -2px;
+  white-space: nowrap;
+  width: 77px;
+}
+
+.grupo-38-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 23.17px;
+}
+
+.grupo-19-2 {
+  background-image: url(../img/caminho-175-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 9px;
+  position: absolute;
+  top: 3px;
+  width: 12px;
+}
+
+.grupo-20-2 {
+  background-image: url(../img/caminho-176-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 2px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-21-2 {
+  background-image: url(../img/caminho-177-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 5px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-24-2 {
+  background-image: url(../img/caminho-180-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 9px;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+
+.grupo-25-2 {
+  background-image: url(../img/caminho-181-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 10px;
+}
+
+.grupo-26-2 {
+  background-image: url(../img/caminho-182-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-27-2 {
+  background-image: url(../img/caminho-183-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 4px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-28-2 {
+  background-image: url(../img/caminho-184-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.grupo-29-2 {
+  background-image: url(../img/caminho-185-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 11px;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.grupo-30-2 {
+  background-image: url(../img/caminho-186-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 13px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.grupo-31-2 {
+  background-image: url(../img/caminho-187-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 15px;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.grupo-32-2 {
+  background-image: url(../img/caminho-188-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.grupo-33-2 {
+  background-image: url(../img/caminho-189-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 19px;
+  position: absolute;
+  top: 7px;
+  width: 2px;
+}
+
+.grupo-36-2 {
+  background-image: url(../img/caminho-192-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+
+.grupo-37-2 {
+  background-image: url(../img/caminho-193-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+
+.grupo-232-2 {
+  display: flex;
+  height: 114px;
+  left: 12px;
+  position: absolute;
+  top: 24px;
+  transform: rotate(16.00deg);
+  width: 189px;
+}
+
+.grupo-de-mscara-21 {
+  display: flex;
+  height: 559px;
+  left: 836px;
+  opacity: 0.16;
+  overflow: hidden;
+  position: absolute;
+  top: 1153px;
+  width: 1251px;
+}
+
+.grupo-144276 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: -762.8px;
+  margin-left: 13.4px;
+  margin-right: -35.0px;
+  margin-top: 46.4px;
+  min-width: 1272.61px;
+}
+
+.grupo-144250 {
+  background-image: url(../img/caminho-2898@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 173px;
+  left: 269px;
+  position: absolute;
+  top: 185px;
+  width: 269px;
+}
+
+.grupo-144251 {
+  background-image: url(../img/caminho-62238-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 590px;
+  position: absolute;
+  top: 163px;
+  width: 116px;
+}
+
+.grupo-144252 {
+  background-image: url(../img/caminho-2900@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 218px;
+  left: 750px;
+  position: absolute;
+  top: 166px;
+  width: 136px;
+}
+
+.grupo-144255 {
+  background-image: url(../img/caminho-62216-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 186px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.grupo-144256 {
+  background-image: url(../img/caminho-2904@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 612px;
+  position: absolute;
+  top: 1108px;
+  width: 427px;
+}
+
+.grupo-144257 {
+  background-image: url(../img/caminho-2905@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 1053px;
+  position: absolute;
+  top: 726px;
+  width: 169px;
+}
+
+.grupo-144259 {
+  background-image: url(../img/caminho-2907@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 710px;
+  position: absolute;
+  top: 1181px;
+  width: 221px;
+}
+
+.grupo-144261 {
+  background-image: url(../img/caminho-2909@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 463px;
+  position: absolute;
+  top: 1097px;
+  width: 79px;
+}
+
+.grupo-144262 {
+  background-image: url(../img/caminho-2910@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 529px;
+  position: absolute;
+  top: 972px;
+  width: 54px;
+}
+
+.grupo-144263 {
+  background-image: url(../img/caminho-2911@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 657px;
+  left: 22px;
+  position: absolute;
+  top: 236px;
+  width: 181px;
+}
+
+.grupo-144264 {
+  background-image: url(../img/caminho-2912@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 561px;
+  width: 56px;
+}
+
+.grupo-144265 {
+  background-image: url(../img/caminho-62252-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 985px;
+  left: 51px;
+  position: absolute;
+  top: 290px;
+  width: 928px;
+}
+
+.grupo-144266 {
+  background-image: url(../img/caminho-2914@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  left: 158px;
+  position: absolute;
+  top: 236px;
+  width: 278px;
+}
+
+.grupo-144268 {
+  background-image: url(../img/caminho-2916@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 606px;
+  position: absolute;
+  top: 875px;
+  width: 30px;
+}
+
+.grupo-144274 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1275px;
+  left: 0;
+  padding: 460.4px 538.1px;
+  position: absolute;
+  top: 0;
+  width: 1273px;
+}
+
+.grupo-144273 {
+  background-image: url(../img/caminho-2921@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-right: 13.61px;
+  margin-top: 26px;
+  width: 9px;
+}
+
+.grupo-144272 {
+  background-image: url(../img/caminho-2920@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-top: 45px;
+  width: 7px;
+}
+
+.grupo-144271 {
+  background-image: url(../img/caminho-2919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  margin-right: 1.01px;
+  margin-top: 50px;
+  width: 10px;
+}
+
+.grupo-144270 {
+  background-image: url(../img/caminho-2918@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  margin-right: 13.13px;
+  margin-top: 50px;
+  width: 17px;
+}
+
+.grupo-144269 {
+  align-self: center;
+  background-image: url(../img/caminho-2917@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  margin-left: 79.97px;
+  margin-top: 56px;
+  width: 21px;
+}
+
+.grupo-144275 {
+  background-image: url(../img/caminho-2923@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 690px;
+  position: absolute;
+  top: 437px;
+  width: 5px;
+}
+
+.grupo-144185 {
+  height: 1250px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1712px;
+  width: 2440px;
+}
+
+.grupo-8843-1 {
+  height: 64px;
+  left: 916px;
+  object-fit: cover;
+  position: absolute;
+  top: 2123px;
+  width: 64px;
+}
+
+.grupo-8844-1 {
+  height: 53px;
+  left: 917px;
+  object-fit: cover;
+  position: absolute;
+  top: 2229px;
+  width: 63px;
+}
+
+.grupo-8845-1 {
+  height: 54px;
+  left: 929px;
+  object-fit: cover;
+  position: absolute;
+  top: 2322px;
+  width: 40px;
+}
+
+.time60-minutes-2 {
+  height: 49px;
+  left: 997px;
+  object-fit: cover;
+  position: absolute;
+  top: 2128px;
+  width: 99px;
+}
+
+.grupo-143973 {
+  height: 94px;
+  left: 1050px;
+  object-fit: cover;
+  position: absolute;
+  top: 1969px;
+  width: 340px;
+}
+
+.grupo-143970 {
+  height: 5px;
+  left: 1141px;
+  object-fit: cover;
+  position: absolute;
+  top: 378px;
+  width: 199px;
+}
+
+.grupo-143975 {
+  height: 45px;
+  left: 1139px;
+  object-fit: cover;
+  position: absolute;
+  top: 490px;
+  width: 282px;
+}
+
+.materialbutchers-paper {
+  height: 55px;
+  left: 997px;
+  object-fit: cover;
+  position: absolute;
+  top: 2428px;
+  width: 527px;
+}
+
+.grupo-8850-1 {
+  height: 58px;
+  left: 916px;
+  object-fit: cover;
+  position: absolute;
+  top: 2424px;
+  width: 64px;
+}
+
+.coloured-marker-pens-2 {
+  height: 55px;
+  left: 997px;
+  object-fit: cover;
+  position: absolute;
+  top: 2537px;
+  width: 527px;
+}
+
+.grupo-8851-1 {
+  height: 47px;
+  left: 915px;
+  object-fit: cover;
+  position: absolute;
+  top: 2536px;
+  width: 61px;
+}
+
+.grupo-143971 {
+  height: 45px;
+  left: 1079px;
+  object-fit: cover;
+  position: absolute;
+  top: 2838px;
+  width: 282px;
+}
+
+.grupo-39-4 {
+  display: flex;
+  margin-bottom: 1.1px;
+  margin-right: 0;
+  margin-top: 1px;
+  width: 23.17px;
+}
+
+.number-2 {
+  left: 217px;
+  letter-spacing: 0;
+  line-height: 113px;
+  opacity: 0.29;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.surname-2 {
+  height: 174px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  width: 265px;
+}
+
+.grupo-167-2 {
+  display: flex;
+  height: 329px;
+  left: 117px;
+  position: absolute;
+  top: 60px;
+  transform: rotate(40.00deg);
+  width: 307px;
+}
+
+.grupo-13-3 {
+  flex: 1;
+  margin-bottom: -60.1px;
+  margin-left: -70.0px;
+  margin-right: -70.0px;
+  margin-top: -60.1px;
+  object-fit: cover;
+  transform: rotate(-40.00deg);
+  width: 446.9px;
+}
+
+.grupo-151-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 235px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 209px;
+  width: 138px;
+}
+
+.grupo-149-2 {
+  align-self: center;
+  background-image: url(../img/caminho-246-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-top: 36.45px;
+  width: 11px;
+}
+
+.grupo-146-2 {
+  background-image: url(../img/caminho-243-3@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 30px;
+  margin-left: 12px;
+  width: 7px;
+}
+
+.grupo-148-2 {
+  background-image: url(../img/caminho-245-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  width: 9px;
+}
+
+.grupo-150-2 {
+  align-self: center;
+  background-image: url(../img/caminho-247-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-left: 15px;
+  margin-top: 35.1px;
+  width: 9px;
+}
+
+.grupo-165-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 101px;
+  left: 192px;
+  padding: 0.0px 0.9px;
+  position: absolute;
+  top: 143px;
+  transform: rotate(180deg);
+  width: 138px;
+}
+
+.grupo-161-2 {
+  align-items: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 16.11px;
+  margin-left: 10px;
+  min-width: 13px;
+}
+
+.caminho-256-2 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 13px;
+}
+
+.grupo-162-2 {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 18.77px;
+  margin-left: 15px;
+  min-width: 9px;
+}
+
+.caminho-257-2 {
+  height: 14px;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 9px;
+}
+
+.grupo-159-2 {
+  display: flex;
+  height: 305px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 219px;
+}
+
+.grupo-158-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 219.39px;
+}
+
+.grupo-153-2 {
+  background-image: url(../img/caminho-249-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 220px;
+  margin-bottom: 0;
+  margin-left: 59px;
+  width: 160px;
+}
+
+.grupo-234-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 22.44px;
+  display: flex;
+  height: 45px;
+  justify-content: flex-end;
+  left: 259px;
+  min-width: 45px;
+  padding: 0 8.7px;
+  position: absolute;
+  top: 346px;
+}
+
+.a-tool-that-identifi-2 {
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+._-tab-4 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+._-tab-5 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25px;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.what-it-is-2 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.grupo-1014-2 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-2280-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.text-4 {
+  line-height: 29px;
+  margin-bottom: -1.14px;
+  min-height: 36px;
+  min-width: 23px;
+}
+
+.with-stakeholders-or-2 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.grupo-101-2 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 22px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.it-provides-a-visual-2 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 8.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.why-use-it-2 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.sticky-notes-2 {
+  height: 42px;
+  left: 997px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2620px;
+  width: 523px;
+}
+
+.virtual-collaboration-platform-1 {
+  height: 65px;
+  left: 997px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2707px;
+  width: 514px;
+}
+
+.grupo-144277 {
+  display: flex;
+  height: 55px;
+  left: 916px;
+  position: absolute;
+  top: 2706px;
+  width: 75px;
+}
+
+.grupo-144278 {
+  display: flex;
+  height: 68px;
+  left: 917px;
+  position: absolute;
+  top: 2606px;
+  width: 55px;
+}
+
+.grupo-143977 {
+  align-self: center;
+  height: 94px;
+  object-fit: cover;
+  width: 286px;
+}
+
+.caminho-container-12 {
+  height: 161px;
+  margin-left: -27px;
+  margin-top: -23.05px;
+  position: relative;
+  width: 245px;
+}
+
+.retngulo-148564 {
+  height: 46px;
+  left: 0;
+  top: 0;
+}
+
+.grupo-1008 {
+  cursor: pointer;
+  align-items: flex-end;
+  background-color: var(--green-blue);
+  border-radius: 20px;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 302px;
+  min-width: 40px;
+  padding: 0 7px;
+  position: absolute;
+  top: 8px;
+  transform: rotate(45.00deg);
+}
+
+.grupo-1010 {
+  display: flex;
+  height: 94px;
+  left: 102px;
+  position: absolute;
+  top: 64px;
+  width: 34px;
+}
+
+.grupo-1011 {
+  display: flex;
+  height: 94px;
+  left: 508px;
+  position: absolute;
+  top: 64px;
+  transform: rotate(180deg);
+  width: 34px;
+}
+
+.grupo-715 {
+  display: flex;
+  height: 509px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 614px;
+}
+
+.grupo-709 {
+  display: flex;
+  height: 488px;
+  left: 24px;
+  position: absolute;
+  top: 19px;
+  width: 569px;
+}
+
+.caminho-733 {
+  margin-bottom: -2.5px;
+  margin-left: -2.5px;
+  margin-right: -2.5px;
+  margin-top: -2.4px;
+  width: 574.41px;
+}
+
+.grupo-710 {
+  background-image: url(../img/caminho-734-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 235px;
+  left: 584px;
+  position: absolute;
+  top: 140px;
+  width: 29px;
+}
+
+.grupo-712 {
+  background-image: url(../img/caminho-736-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 381px;
+  width: 71px;
+}
+
+.grupo-727 {
+  cursor: pointer;
+  align-items: flex-end;
+  background-image: url(../img/caminho-746-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 57px;
+  justify-content: flex-end;
+  left: 524px;
+  min-width: 57px;
+  padding: 5.9px 15.4px;
+  position: absolute;
+  top: 73px;
+}
+
+.grupo-729 {
+  display: flex;
+  margin-bottom: 1.0px;
+  margin-left: 0.6px;
+  margin-top: 0.5px;
+  transform: rotate(179.00deg);
+  width: 60.38px;
+}
+
+.grupo-728 {
+  display: flex;
+  margin-bottom: 0.5px;
+  margin-right: 0.6px;
+  margin-top: 3.7px;
+  transform: rotate(179.00deg);
+  width: 62.55px;
+}
+
+.grupo-961 {
+  display: flex;
+  height: 220px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 405px;
+}
+
+.grupo-1005 {
+  display: flex;
+  height: 236px;
+  left: 5px;
+  position: absolute;
+  top: 50px;
+  width: 376px;
+}
+
+.grupo-1001 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 3.2px;
+  margin-left: 2.0px;
+  margin-right: 2.0px;
+  margin-top: 3.2px;
+  opacity: 0.4;
+  transform: rotate(1.00deg);
+  width: 372.05px;
+}
+
+.grupo-999 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  min-height: 100%;
+  width: 372.05px;
+}
+
+.linha-22 {
+  margin-right: 0.07px;
+  margin-top: -4px;
+}
+
+.linha-2 {
+  margin-right: 0.07px;
+  margin-top: 25px;
+}
+
+.linha-27 {
+  margin-right: 0.04px;
+  margin-top: 27px;
+}
+
+.caminho-2225 {
+  height: 1px;
+  margin-right: -1.0px;
+  margin-top: 94px;
+  object-fit: cover;
+  transform: rotate(-1.00deg);
+  width: 1px;
+}
+
+.grupo-1067 {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 106.83px;
+}
+
+.grupo-1066 {
+  display: flex;
+  flex: 1;
+  margin-bottom: -1.6px;
+  margin-left: -14.6px;
+  margin-right: -14.6px;
+  margin-top: -11.3px;
+  mix-blend-mode: multiply;
+  opacity: 0.81;
+  width: 135.98px;
+}
+
+.grupo-1063 {
+  background-image: url(../img/caminho-936-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: 1.6px;
+  margin-left: 14.6px;
+  margin-right: 14.6px;
+  margin-top: 11.3px;
+  width: 106.83px;
+}
+
+.grupo-de-mscara-22 {
+  display: flex;
+  height: 559px;
+  left: 0;
+  opacity: 0.16;
+  overflow: hidden;
+  position: absolute;
+  top: 953px;
+  width: 1251px;
+}
+
+.grupo-144319 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: -762.8px;
+  margin-left: 13.4px;
+  margin-right: -35.0px;
+  margin-top: 46.4px;
+  min-width: 1272.61px;
+}
+
+.grupo-144293 {
+  background-image: url(../img/caminho-2898@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 173px;
+  left: 269px;
+  position: absolute;
+  top: 185px;
+  width: 269px;
+}
+
+.grupo-144294 {
+  background-image: url(../img/caminho-62238-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 590px;
+  position: absolute;
+  top: 163px;
+  width: 116px;
+}
+
+.grupo-144295 {
+  background-image: url(../img/caminho-62279-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 218px;
+  left: 750px;
+  position: absolute;
+  top: 166px;
+  width: 136px;
+}
+
+.grupo-144298 {
+  background-image: url(../img/caminho-62216-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 186px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.grupo-144299 {
+  background-image: url(../img/caminho-2904@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 612px;
+  position: absolute;
+  top: 1108px;
+  width: 427px;
+}
+
+.grupo-144300 {
+  background-image: url(../img/caminho-62284-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 1053px;
+  position: absolute;
+  top: 726px;
+  width: 169px;
+}
+
+.grupo-144302 {
+  background-image: url(../img/caminho-2907@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 710px;
+  position: absolute;
+  top: 1181px;
+  width: 221px;
+}
+
+.grupo-144304 {
+  background-image: url(../img/caminho-2909@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 463px;
+  position: absolute;
+  top: 1097px;
+  width: 79px;
+}
+
+.grupo-144305 {
+  background-image: url(../img/caminho-2910@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 529px;
+  position: absolute;
+  top: 972px;
+  width: 54px;
+}
+
+.grupo-144306 {
+  background-image: url(../img/caminho-2911@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 657px;
+  left: 22px;
+  position: absolute;
+  top: 236px;
+  width: 181px;
+}
+
+.grupo-144307 {
+  background-image: url(../img/caminho-2912@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 561px;
+  width: 56px;
+}
+
+.grupo-144308 {
+  background-image: url(../img/caminho-62252-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 985px;
+  left: 51px;
+  position: absolute;
+  top: 290px;
+  width: 928px;
+}
+
+.grupo-144309 {
+  background-image: url(../img/caminho-2914@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  left: 158px;
+  position: absolute;
+  top: 236px;
+  width: 278px;
+}
+
+.grupo-144311 {
+  background-image: url(../img/caminho-2916@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 606px;
+  position: absolute;
+  top: 875px;
+  width: 30px;
+}
+
+.grupo-144317 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1275px;
+  left: 0;
+  padding: 460.4px 538.1px;
+  position: absolute;
+  top: 0;
+  width: 1273px;
+}
+
+.grupo-144316 {
+  background-image: url(../img/caminho-2921@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-right: 13.61px;
+  margin-top: 26px;
+  width: 9px;
+}
+
+.grupo-144315 {
+  background-image: url(../img/caminho-2920@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-top: 45px;
+  width: 7px;
+}
+
+.grupo-144314 {
+  background-image: url(../img/caminho-2919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  margin-right: 1.01px;
+  margin-top: 50px;
+  width: 10px;
+}
+
+.grupo-144313 {
+  background-image: url(../img/caminho-2918@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  margin-right: 13.13px;
+  margin-top: 50px;
+  width: 17px;
+}
+
+.grupo-144312 {
+  align-self: center;
+  background-image: url(../img/caminho-2917@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  margin-left: 79.97px;
+  margin-top: 56px;
+  width: 21px;
+}
+
+.grupo-144318 {
+  background-image: url(../img/caminho-2923@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 690px;
+  position: absolute;
+  top: 437px;
+  width: 5px;
+}
+
+.grupo-144018 {
+  height: 1341px;
+  left: 438px;
+  object-fit: cover;
+  position: absolute;
+  top: 1512px;
+  width: 375px;
+}
+
+.grupo-144015 {
+  height: 64px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 1712px;
+  width: 230px;
+}
+
+.grupo-144008 {
+  height: 34px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 426px;
+  width: 184px;
+}
+
+.grupo-159-3 {
+  display: flex;
+  height: 151px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 109px;
+}
+
+.grupo-158-3 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 108.64px;
+}
+
+.grupo-153-3 {
+  background-image: url(../img/caminho-249-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 109px;
+  margin-bottom: 0;
+  margin-left: 29px;
+  width: 79px;
+}
+
+.more_-info-button-v-2 {
+  height: 35px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 579px;
+  width: 152px;
+}
+
+.time60-minutes-3 {
+  height: 49px;
+  left: 471px;
+  object-fit: cover;
+  position: absolute;
+  top: 1806px;
+  width: 99px;
+}
+
+.grupo-144017 {
+  height: 64px;
+  left: 511px;
+  object-fit: cover;
+  position: absolute;
+  top: 2404px;
+  width: 230px;
+}
+
+.grupo-144168 {
+  height: 4px;
+  left: 488px;
+  object-fit: cover;
+  position: absolute;
+  top: 328px;
+  width: 163px;
+}
+
+.a-tool-that-identifi-3 {
+  flex: 1;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+._-tab-6 {
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+._-tab-7 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 25px;
+  flex: 1;
+  justify-content: space-between;
+}
+
+.what-it-is-3 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.grupo-1014-3 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-2280-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.with-stakeholders-or-3 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 10.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.grupo-101-3 {
+  align-items: flex-end;
+  background-color: var(--neon-carrot);
+  border-radius: 22px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 3.0px;
+  margin-right: 4.0px;
+  margin-top: 3.0px;
+  min-width: 44px;
+  padding: 0 8.6px;
+}
+
+.it-provides-a-visual-3 {
+  flex: 1;
+  height: 43px;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-bottom: 8.5px;
+  margin-left: 13px;
+  margin-right: 16px;
+  overflow: hidden;
+}
+
+.why-use-it-3 {
+  height: 26px;
+  letter-spacing: 0;
+  line-height: 17px;
+  margin-bottom: -7.9px;
+  margin-left: 17px;
+  white-space: nowrap;
+  width: 110px;
+}
+
+.grupo-39-5 {
+  display: flex;
+  margin-bottom: 1.1px;
+  margin-right: 0;
+  margin-top: 1px;
+  width: 23.17px;
+}
+
+.number-3 {
+  left: 217px;
+  letter-spacing: 0;
+  line-height: 113px;
+  opacity: 0.29;
+  position: absolute;
+  top: 14px;
+  white-space: nowrap;
+}
+
+.surname-3 {
+  height: 174px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 33px;
+  width: 265px;
+}
+
+.grupo-144335 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-right: 0;
+  width: 123.97px;
+}
+
+.grupo-144334 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-top: 0;
+  min-width: 123.97px;
+}
+
+.grupo-232-3 {
+  display: flex;
+  height: 65px;
+  left: 7px;
+  position: absolute;
+  top: 14px;
+  transform: rotate(16.00deg);
+  width: 108px;
+}
+
+.grupo-231-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  gap: 3px;
+  padding: 0.6px 0.6px;
+  width: 108.41px;
+}
+
+.caminho-307-3 {
+  flex: 1;
+  margin-bottom: -6.1px;
+  margin-left: -7.3px;
+  margin-right: -7.3px;
+  margin-top: -6.1px;
+  object-fit: cover;
+  transform: rotate(-16.00deg);
+  width: 67.72px;
+}
+
+.caminho-308-3 {
+  flex: 1;
+  margin-bottom: -6.5px;
+  margin-left: -7.6px;
+  margin-right: -7.6px;
+  margin-top: -6.4px;
+  object-fit: cover;
+  transform: rotate(-16.00deg);
+  width: 68.34px;
+}
+
+.grupo-233-3 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-739-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 23px;
+  justify-content: flex-end;
+  left: 101px;
+  min-width: 23px;
+  padding: 0 4.2px;
+  position: absolute;
+  top: 52px;
+}
+
+.span0-1 {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.grupo-144166 {
+  align-self: flex-end;
+  height: 78px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.grupo-144167 {
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.retngulo-148566 {
+  height: 46px;
+  left: 0;
+  top: 0;
+}
+
+.headerlogo {
+  width: auto;
+}

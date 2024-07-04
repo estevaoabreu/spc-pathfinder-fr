@@ -1,0 +1,5488 @@
+/* screen - chapter-2-driver-case-study-3-1280 */
+
+.chapter-2-driver-case-study-3-1280 {
+  background-color: var(--white);
+  height: 2459px;
+  overflow: hidden;
+  position: relative;
+  width: 1280px;
+}
+
+.chapter-2-driver-case-study-3-1280 .overlap-group3-1 {
+  height: 2536px;
+  left: -461px;
+  position: absolute;
+  top: -138px;
+  width: 1741px;
+}
+
+.chapter-2-driver-case-study-3-1280 .retngulo-148562 {
+  height: 2313px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 223px;
+  width: 1280px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3481-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 1275px;
+  left: 427px;
+  opacity: 0.39;
+  overflow: hidden;
+  position: absolute;
+  top: 707px;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-container-9 {
+  height: 1275px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3464-1 {
+  background-image: url(../img/caminho-2938-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 173px;
+  left: 269px;
+  position: absolute;
+  top: 185px;
+  width: 269px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3465-1 {
+  background-image: url(../img/caminho-2939-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 590px;
+  position: absolute;
+  top: 163px;
+  width: 116px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3466-2 {
+  background-image: url(../img/caminho-2940-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 218px;
+  left: 750px;
+  position: absolute;
+  top: 166px;
+  width: 136px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3467-1 {
+  background-image: url(../img/caminho-2941-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 370px;
+  left: 897px;
+  position: absolute;
+  top: 202px;
+  width: 362px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3468-1 {
+  background-image: url(../img/caminho-2942-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160px;
+  left: 743px;
+  position: absolute;
+  top: 54px;
+  width: 327px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3469-2 {
+  background-image: url(../img/caminho-2943-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 186px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3470-2 {
+  background-image: url(../img/caminho-2944-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 168px;
+  left: 612px;
+  position: absolute;
+  top: 1108px;
+  width: 427px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3471-1 {
+  background-image: url(../img/caminho-2945-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 1053px;
+  position: absolute;
+  top: 726px;
+  width: 169px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3472-1 {
+  background-image: url(../img/caminho-2946-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 573px;
+  left: 802px;
+  position: absolute;
+  top: 509px;
+  width: 471px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3473-1 {
+  background-image: url(../img/caminho-2947-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 710px;
+  position: absolute;
+  top: 1181px;
+  width: 221px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3474-1 {
+  background-image: url(../img/caminho-2948-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 888px;
+  left: 430px;
+  position: absolute;
+  top: 357px;
+  width: 328px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3475-1 {
+  background-image: url(../img/caminho-2949-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 463px;
+  position: absolute;
+  top: 1097px;
+  width: 79px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3476-2 {
+  background-image: url(../img/caminho-2950-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 529px;
+  position: absolute;
+  top: 972px;
+  width: 54px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3477-2 {
+  background-image: url(../img/caminho-2951-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 657px;
+  left: 22px;
+  position: absolute;
+  top: 236px;
+  width: 181px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3478-2 {
+  background-image: url(../img/caminho-2952-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 561px;
+  width: 56px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3479-2 {
+  background-image: url(../img/caminho-2953-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 985px;
+  left: 51px;
+  position: absolute;
+  top: 290px;
+  width: 928px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3480-2 {
+  background-image: url(../img/caminho-2954-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  left: 158px;
+  position: absolute;
+  top: 236px;
+  width: 278px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-62184 {
+  height: 2214px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 1178px;
+}
+
+.chapter-2-driver-case-study-3-1280 .design-space-paper-textured-background-1 {
+  height: 2212px;
+  left: 512px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 1178px;
+}
+
+.chapter-2-driver-case-study-3-1280 .case-study-3using-dr {
+  height: 301px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 363px;
+  width: 910px;
+}
+
+.chapter-2-driver-case-study-3-1280 .after-completing-the-1 {
+  height: 341px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 672px;
+  width: 598px;
+}
+
+.chapter-2-driver-case-study-3-1280 .spc-cps-logo_27_stars-white {
+  height: 50px;
+  left: 478px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 122px;
+}
+
+.chapter-2-driver-case-study-3-1280 .header {
+  height: 86px;
+  left: 461px;
+  object-fit: cover;
+  position: absolute;
+  top: 138px;
+  width: auto;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-144141 {
+  cursor: pointer;
+  height: 94px;
+  left: 1602px;
+  object-fit: cover;
+  position: absolute;
+  top: 269px;
+  width: 94px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3463-1 {
+  align-items: center;
+  display: flex;
+  height: 195px;
+  left: 493px;
+  min-width: 168px;
+  position: absolute;
+  top: 354px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-container-8 {
+  height: 195px;
+  position: relative;
+  width: 145px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3446-1 {
+  background-image: url(../img/caminho-2929-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 58px;
+  position: absolute;
+  top: 77px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3447-1 {
+  background-image: url(../img/caminho-2930-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 86px;
+  position: absolute;
+  top: 44px;
+  width: 15px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3448-1 {
+  background-image: url(../img/caminho-2931-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 31px;
+  position: absolute;
+  top: 48px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3454-1 {
+  background-image: url(../img/caminho-2937-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 71px;
+  position: absolute;
+  top: 84px;
+  width: 2px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3386-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 195px;
+  left: 0;
+  overflow: hidden;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3364-1 {
+  display: flex;
+  height: 194px;
+  left: 27px;
+  position: absolute;
+  top: 1px;
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3365-1 {
+  display: flex;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 30px;
+  width: 55px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3366-1 {
+  display: flex;
+  height: 54px;
+  left: 79px;
+  position: absolute;
+  top: 96px;
+  width: 7px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3367-1 {
+  display: flex;
+  height: 6px;
+  left: 106px;
+  position: absolute;
+  top: 89px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3368-1 {
+  display: flex;
+  height: 6px;
+  left: 100px;
+  position: absolute;
+  top: 106px;
+  width: 8px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3369-1 {
+  display: flex;
+  height: 7px;
+  left: 97px;
+  position: absolute;
+  top: 119px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3370-1 {
+  display: flex;
+  height: 7px;
+  left: 94px;
+  position: absolute;
+  top: 135px;
+  width: 6px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3371-1 {
+  display: flex;
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3372-1 {
+  display: flex;
+  height: 50px;
+  left: 76px;
+  position: absolute;
+  top: 34px;
+  width: 20px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3373-1 {
+  display: flex;
+  height: 6px;
+  left: 38px;
+  position: absolute;
+  top: 160px;
+  width: 27px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3374-1 {
+  display: flex;
+  height: 9px;
+  left: 30px;
+  position: absolute;
+  top: 139px;
+  width: 22px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3375-1 {
+  display: flex;
+  height: 7px;
+  left: 25px;
+  position: absolute;
+  top: 122px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3376-1 {
+  display: flex;
+  height: 9px;
+  left: 17px;
+  position: absolute;
+  top: 103px;
+  width: 22px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3377-1 {
+  display: flex;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 76px;
+  width: 16px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3378-1 {
+  display: flex;
+  height: 10px;
+  left: 13px;
+  position: absolute;
+  top: 47px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3379-1 {
+  display: flex;
+  height: 7px;
+  left: 16px;
+  position: absolute;
+  top: 92px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3380-1 {
+  display: flex;
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 62px;
+  width: 29px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3381-1 {
+  display: flex;
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 30px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3382-1 {
+  display: flex;
+  height: 4px;
+  left: 53px;
+  position: absolute;
+  top: 175px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3383-1 {
+  display: flex;
+  height: 5px;
+  left: 91px;
+  position: absolute;
+  top: 45px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3384-1 {
+  display: flex;
+  height: 5px;
+  left: 93px;
+  position: absolute;
+  top: 57px;
+  width: 20px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3385-1 {
+  display: flex;
+  height: 6px;
+  left: 91px;
+  position: absolute;
+  top: 69px;
+  width: 11px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3445-1 {
+  background-image: url(../img/caminho-2928-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-bottom: 49.61px;
+  margin-left: 1px;
+  width: 18px;
+}
+
+.chapter-2-driver-case-study-3-1280 .quote_-buttuon-1 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 162px;
+  left: 1365px;
+  min-width: 216px;
+  position: absolute;
+  top: 761px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-container-10 {
+  height: 162px;
+  margin-bottom: 0;
+  position: relative;
+  width: 216px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-231-1 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 188.87px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-307-1 {
+  height: 127px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-16.00deg);
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-308-1 {
+  height: 128px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-16.00deg);
+  width: 119px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-309-1 {
+  height: 130px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 116px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-310-1 {
+  height: 131px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 117px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-233-1 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-739-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 176px;
+  min-width: 40px;
+  padding: 0 7px;
+  position: absolute;
+  top: 91px;
+}
+
+.chapter-2-driver-case-study-3-1280 .text-27 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: -2px;
+  min-height: 36px;
+  min-width: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1280 .for-this-activity-w-1 {
+  left: 596px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1076px;
+  white-space: nowrap;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1280 .which-significant-tr-1 {
+  left: 646px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1123px;
+  width: 432px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-144324 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 626px;
+  min-height: 208px;
+  position: absolute;
+  top: 1136px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3499-1 {
+  display: flex;
+  height: 9px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-942-1 {
+  flex: 1;
+  margin-bottom: -1.0px;
+  margin-left: -1.0px;
+  margin-right: -1.0px;
+  margin-top: -1.0px;
+  object-fit: cover;
+  width: 10.58px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-350-1 {
+  display: flex;
+  height: 9px;
+  margin-top: 45px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-350-1b {
+  display: flex;
+  height: 9px;
+  margin-top: 75px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3502-2 {
+  display: flex;
+  height: 9px;
+  margin-top: 49px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1280 .what-we-did-we-used-1 {
+  height: 512px;
+  left: 594px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1529px;
+  width: 484px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-144325 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 595px;
+  position: absolute;
+  top: 1479px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-144326 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 595px;
+  position: absolute;
+  top: 2093px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1280 .what-happened-the-gr-1 {
+  left: 595px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2143px;
+  width: 483px;
+}
+
+.chapter-2-driver-case-study-3-1280 .fig-03 {
+  height: 404px;
+  left: 1126px;
+  object-fit: cover;
+  position: absolute;
+  top: 1163px;
+  width: 512px;
+}
+
+.chapter-2-driver-case-study-3-1280 .figure-3-example-o-1 {
+  left: 1126px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1077px;
+  width: 484px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-3495-2 {
+  display: flex;
+  height: 220px;
+  left: 1170px;
+  opacity: 0.2;
+  position: absolute;
+  top: 1543px;
+  transform: rotate(225.00deg);
+  width: 389px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-699-1 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  overflow: hidden;
+  width: 389.5px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-698-1 {
+  display: flex;
+  flex: 1;
+  margin-bottom: -123.3px;
+  margin-left: -57.1px;
+  margin-right: -27.2px;
+  margin-top: -132.1px;
+  mix-blend-mode: multiply;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-697-1 {
+  display: flex;
+  flex: 1;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-696-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 123.3px 27.2px;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-695-1 {
+  display: flex;
+  height: 220px;
+  margin-left: 30px;
+  width: 389px;
+}
+
+.chapter-2-driver-case-study-3-1280 .caminho-729-1 {
+  flex: 1;
+  margin-bottom: -105.6px;
+  margin-left: -20.6px;
+  margin-right: -20.6px;
+  margin-top: -105.6px;
+  object-fit: cover;
+  transform: rotate(-225.00deg);
+  width: 430.63px;
+}
+
+.chapter-2-driver-case-study-3-1280 .source-spc-and-uni-1 {
+  height: 63px;
+  left: 1126px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1507px;
+  width: 239px;
+}
+
+.chapter-2-driver-case-study-3-1280 .each-category-of-dri-1 {
+  left: 1126px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1644px;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1280 .significant-trend-h-1 {
+  left: 1176px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1716px;
+  width: 434px;
+}
+
+.chapter-2-driver-case-study-3-1280 .text-28 {
+  height: 139px;
+  left: 1147px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1719px;
+  width: 32px;
+}
+
+.chapter-2-driver-case-study-3-1280 .what-happened-driver-1 {
+  left: 1122px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1987px;
+  width: 488px;
+}
+
+.chapter-2-driver-case-study-3-1280 .grupo-144327 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 1126px;
+  position: absolute;
+  top: 1937px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1280 .footer-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2398px;
+  width: 1280px;
+}
+/* screen - chapter-2-driver-case-study-3-1920-all-breakpoints */
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2417px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group15 {
+  height: 2496px;
+  margin-left: -462.82px;
+  margin-top: -137px;
+  position: relative;
+  width: 2383px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .retngulo-369 {
+  background-color: var(--tan);
+  height: 2274px;
+  left: 463px;
+  position: absolute;
+  top: 223px;
+  width: 1920px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3481 {
+  align-items: flex-end;
+  display: flex;
+  height: 1275px;
+  left: 428px;
+  opacity: 0.39;
+  overflow: hidden;
+  position: absolute;
+  top: 706px;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-1 {
+  height: 1275px;
+  margin-bottom: 0;
+  position: relative;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3464 {
+  background-image: url(../img/caminho-2938@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 173px;
+  left: 269px;
+  position: absolute;
+  top: 185px;
+  width: 269px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3465 {
+  background-image: url(../img/caminho-2939@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 590px;
+  position: absolute;
+  top: 163px;
+  width: 116px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3466 {
+  background-image: url(../img/caminho-2940@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 218px;
+  left: 750px;
+  position: absolute;
+  top: 166px;
+  width: 136px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3467 {
+  background-image: url(../img/caminho-2941@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 370px;
+  left: 897px;
+  position: absolute;
+  top: 202px;
+  width: 362px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3468 {
+  background-image: url(../img/caminho-2942@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160px;
+  left: 743px;
+  position: absolute;
+  top: 54px;
+  width: 327px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3469 {
+  background-image: url(../img/caminho-2943-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 186px;
+  left: 190px;
+  position: absolute;
+  top: 0;
+  width: 673px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3471 {
+  background-image: url(../img/caminho-2945@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 194px;
+  left: 1053px;
+  position: absolute;
+  top: 726px;
+  width: 169px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3472 {
+  background-image: url(../img/caminho-2946@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 573px;
+  left: 802px;
+  position: absolute;
+  top: 509px;
+  width: 471px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3473 {
+  background-image: url(../img/caminho-2947-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 90px;
+  left: 710px;
+  position: absolute;
+  top: 1181px;
+  width: 221px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3475 {
+  background-image: url(../img/caminho-2949@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 108px;
+  left: 463px;
+  position: absolute;
+  top: 1097px;
+  width: 79px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3476 {
+  background-image: url(../img/caminho-2950@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 529px;
+  position: absolute;
+  top: 972px;
+  width: 54px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3478 {
+  background-image: url(../img/caminho-2952@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 561px;
+  width: 56px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3479 {
+  background-image: url(../img/caminho-2953@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 985px;
+  left: 51px;
+  position: absolute;
+  top: 290px;
+  width: 928px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3480 {
+  background-image: url(../img/caminho-2954@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 329px;
+  left: 158px;
+  position: absolute;
+  top: 236px;
+  width: 278px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .retngulo-370 {
+  background-color: var(--white);
+  height: 2086px;
+  left: 633px;
+  position: absolute;
+  top: 272px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .design-space-paper-textured-background {
+  height: 2082px;
+  left: 633px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 1640px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-de-mscara-9 {
+  display: flex;
+  height: 559px;
+  left: 415px;
+  opacity: 0.16;
+  overflow: hidden;
+  position: absolute;
+  top: 659px;
+  width: 1251px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3492 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  margin-bottom: -762.8px;
+  margin-left: 13.4px;
+  margin-right: -35.0px;
+  margin-top: 46.4px;
+  min-width: 1272.61px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-2 {
+  height: 1275px;
+  position: relative;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3484 {
+  background-image: url(../img/caminho-2916@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 42px;
+  left: 606px;
+  position: absolute;
+  top: 875px;
+  width: 30px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3490 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 1275px;
+  left: 0;
+  padding: 460.4px 538.1px;
+  position: absolute;
+  top: 0;
+  width: 1273px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3489 {
+  background-image: url(../img/caminho-2921@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  margin-right: 13.61px;
+  margin-top: 26px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3488 {
+  background-image: url(../img/caminho-2920@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 18px;
+  margin-top: 45px;
+  width: 7px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3487 {
+  background-image: url(../img/caminho-2919@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 23px;
+  margin-right: 1.01px;
+  margin-top: 50px;
+  width: 10px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3486 {
+  background-image: url(../img/caminho-2918@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 31px;
+  margin-right: 13.13px;
+  margin-top: 50px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3485 {
+  align-self: center;
+  background-image: url(../img/caminho-2917@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 36px;
+  margin-left: 79.97px;
+  margin-top: 56px;
+  width: 21px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3491 {
+  background-image: url(../img/caminho-2923@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 10px;
+  left: 690px;
+  position: absolute;
+  top: 437px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3493 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 463px;
+  min-height: 83px;
+  position: absolute;
+  top: 137px;
+  width: 1920px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group9 {
+  height: 81px;
+  position: relative;
+  width: 1920px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group {
+  height: 50px;
+  left: 17px;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-2 {
+  display: flex;
+  height: 4px;
+  left: 18px;
+  position: absolute;
+  top: 44px;
+  width: 4px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-1 {
+  height: 1px;
+  margin-left: 0.04px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-2 {
+  height: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-3 {
+  align-self: flex-end;
+  height: 3px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-row {
+  height: 13px;
+  margin-left: 3.97px;
+  min-width: 40px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-20 {
+  height: 3px;
+  margin-top: 2.23px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho {
+  height: 3px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-7 {
+  align-self: flex-end;
+  height: 3px;
+  object-fit: cover;
+  width: 3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 1px;
+  height: 13px;
+  margin-left: 2.86px;
+  margin-top: 1px;
+  min-width: 15px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-col {
+  align-self: flex-end;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 49px;
+  width: 66px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-6 {
+  background-image: url(../img/grupo-5-20@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  margin-left: 0.14px;
+  width: 57px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-8 {
+  background-image: url(../img/grupo-7-25@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  margin-left: 0.07px;
+  width: 66px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-9 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  min-width: 38.15px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-container-9 {
+  height: 23px;
+  position: relative;
+  width: 38px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .linha {
+  height: 3px;
+  object-fit: cover;
+  width: 30px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group6 {
+  height: 49px;
+  left: 821px;
+  position: absolute;
+  top: 20px;
+  width: 302px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .menu {
+  align-items: flex-end;
+  background-color: var(--green-blue);
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  left: 1839px;
+  min-width: 81px;
+  padding: 30.6px 25.1px;
+  position: absolute;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3494 {
+  background-color: var(--white);
+  display: flex;
+  height: 537px;
+  left: 633px;
+  position: absolute;
+  top: 274px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-3 {
+  height: 537px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-373 {
+  background-image: url(../img/caminho-426-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3-1 {
+  background-image: url(../img/caminho-426-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 42px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3-2 {
+  background-image: url(../img/caminho-426-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 44px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3-3 {
+  background-image: url(../img/caminho-426-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-top: 46px;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-423 {
+  background-image: url(../img/caminho-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 454px;
+  position: absolute;
+  top: 535px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-425 {
+  height: 537px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-432 {
+  align-items: flex-start;
+  display: flex;
+  height: 537px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-4 {
+  height: 536px;
+  margin-top: 0;
+  position: relative;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-430 {
+  background-image: url(../img/caminho-483-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 536px;
+  left: 1485px;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-431 {
+  background-image: url(../img/caminho-426-2@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1639px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .after-completing-the {
+  left: 783px;
+  letter-spacing: -0.25px;
+  line-height: 38px;
+  position: absolute;
+  top: 594px;
+  width: 1034px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .span1 {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .surname {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: 54px;
+  font-weight: 700;
+  height: 221px;
+  left: 775px;
+  letter-spacing: 0;
+  line-height: 70px;
+  position: absolute;
+  top: 355px;
+  width: 1300px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .figure-3-example-o {
+  left: 1439px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 863px;
+  width: 725px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .source-spc-and-uni {
+  height: 63px;
+  left: 1437px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1445px;
+  width: 333px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3495 {
+  display: flex;
+  height: 220px;
+  left: 1506px;
+  opacity: 0.2;
+  position: absolute;
+  top: 1460px;
+  transform: rotate(208.00deg);
+  width: 389px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-699 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  overflow: hidden;
+  width: 389.5px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-698 {
+  display: flex;
+  flex: 1;
+  margin-bottom: -123.3px;
+  margin-left: -57.1px;
+  margin-right: -27.2px;
+  margin-top: -132.1px;
+  mix-blend-mode: multiply;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-697 {
+  display: flex;
+  flex: 1;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-696 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 123.3px 27.2px;
+  width: 473.78px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-695 {
+  display: flex;
+  height: 220px;
+  margin-left: 30px;
+  width: 389px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-729 {
+  flex: 1;
+  margin-bottom: -78.6px;
+  margin-left: -28.7px;
+  margin-right: -28.7px;
+  margin-top: -78.6px;
+  object-fit: cover;
+  transform: rotate(-208.00deg);
+  width: 446.96px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .what-we-did-we-used {
+  left: 775px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1362px;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .for-this-activity-w {
+  left: 775px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 862px;
+  white-space: nowrap;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .each-category-of-dri {
+  left: 1423px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1593px;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .quote_-buttuon {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 162px;
+  left: 1834px;
+  min-width: 216px;
+  position: absolute;
+  top: 622px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-5 {
+  height: 162px;
+  margin-bottom: 0;
+  position: relative;
+  width: 216px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-231 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 188.87px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-307 {
+  height: 127px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-16.00deg);
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-308 {
+  height: 128px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-16.00deg);
+  width: 119px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-309 {
+  height: 130px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 116px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-310 {
+  height: 131px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 117px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-233 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-739-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 176px;
+  min-width: 40px;
+  padding: 0 7px;
+  position: absolute;
+  top: 91px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .text-6 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: -2px;
+  min-height: 36px;
+  min-width: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .retngulo-372 {
+  background-color: var(--green-blue);
+  height: 81px;
+  left: 2191px;
+  position: absolute;
+  top: 272px;
+  width: 81px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .text-7 {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-gaegulight-regular);
+  font-size: 82px;
+  font-weight: 400;
+  left: 2205px;
+  letter-spacing: 0;
+  line-height: 68px;
+  position: absolute;
+  top: 281px;
+  transform: rotate(45.00deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3496 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 776px;
+  position: absolute;
+  top: 1279px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3497 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 775px;
+  position: absolute;
+  top: 1913px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3498 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 1423px;
+  position: absolute;
+  top: 1913px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .what-happened-the-gr {
+  left: 775px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1979px;
+  width: 488px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .what-happened-driver {
+  left: 1423px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 1979px;
+  width: 488px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .which-significant-tr {
+  left: 825px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 909px;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .significant-trend-h {
+  left: 1473px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1665px;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .text-8 {
+  height: 139px;
+  left: 1443px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1668px;
+  width: 32px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-144323 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 805px;
+  min-height: 208px;
+  position: absolute;
+  top: 922px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3499 {
+  display: flex;
+  height: 9px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-942 {
+  flex: 1;
+  margin-bottom: -1.0px;
+  margin-left: -1.0px;
+  margin-right: -1.0px;
+  margin-top: -1.0px;
+  object-fit: cover;
+  width: 10.58px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-350 {
+  display: flex;
+  height: 9px;
+  margin-top: 44px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3502 {
+  display: flex;
+  height: 9px;
+  margin-top: 50px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group13 {
+  height: 617px;
+  left: 1439px;
+  position: absolute;
+  top: 926px;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3470-1 {
+  display: flex;
+  height: 617px;
+  justify-content: space-between;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3466-1 {
+  background-image: url(../img/grupo-3464@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 505.82px;
+  margin-left: -10.5px;
+  margin-top: 2.6px;
+  opacity: 0.1;
+  width: 198.48px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3469-1 {
+  align-self: flex-end;
+  background-image: url(../img/grupo-3467@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 92.56px;
+  margin-bottom: 26.2px;
+  margin-right: 34.4px;
+  opacity: 0.1;
+  width: 378.97px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  left: 393px;
+  min-height: 61px;
+  position: absolute;
+  top: 519px;
+  width: 315px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .the-groups-discussed {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  min-width: 315px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .they-had-chosen-its {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  min-width: 203px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group-2 {
+  height: 14px;
+  position: relative;
+  width: 100px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .w {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .e-invited-them-to {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .add-other-drivers-i {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .in-the-list-they-were-given {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-34 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group1 {
+  height: 49px;
+  left: 251px;
+  position: absolute;
+  top: 131px;
+  width: 138px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .import {
+  left: 0;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ant {
+  left: 86px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x {
+  color: var(--botticelli);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  left: 132px;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .c {
+  left: 14px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ontext {
+  left: 28px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .core-drivers {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: 16px;
+  font-weight: 700;
+  left: 36px;
+  letter-spacing: 0;
+  line-height: 16px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group2 {
+  height: 49px;
+  left: 261px;
+  position: absolute;
+  top: 378px;
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .w-1 {
+  left: 0;
+  letter-spacing: 0.48px;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ait {
+  left: 20px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .and {
+  left: 57px;
+  letter-spacing: 0.48px;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-1 {
+  color: var(--botticelli);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  left: 112px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .w-2 {
+  left: 17px;
+  letter-spacing: -1.46px;
+  top: 23px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .at {
+  left: 37px;
+  letter-spacing: -1.46px;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .c-1 {
+  left: 64px;
+  letter-spacing: -1.46px;
+  line-height: 24px;
+  top: 23px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .h {
+  left: 79px;
+  letter-spacing: -1.46px;
+  line-height: 24px;
+  position: absolute;
+  top: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3476-1 {
+  background-image: url(../img/caminho-2943-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 483px;
+  left: 463px;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3477-1 {
+  display: flex;
+  height: 5px;
+  left: 459px;
+  position: absolute;
+  top: 17px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-2944 {
+  flex: 1;
+  margin-bottom: -0.3px;
+  margin-left: -0.4px;
+  margin-right: -0.4px;
+  margin-top: -0.7px;
+  object-fit: cover;
+  width: 9.44px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3478-1 {
+  display: flex;
+  height: 5px;
+  left: 459px;
+  position: absolute;
+  top: 495px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-2945 {
+  flex: 1;
+  margin-bottom: -0.7px;
+  margin-left: -0.4px;
+  margin-right: -0.4px;
+  margin-top: -0.3px;
+  object-fit: cover;
+  width: 9.44px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3479-1 {
+  background-image: url(../img/caminho-2946-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 190px;
+  position: absolute;
+  top: 262px;
+  width: 538px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3480-1 {
+  display: flex;
+  height: 9px;
+  left: 724px;
+  position: absolute;
+  top: 259px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-2947 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.3px;
+  margin-right: -0.7px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 5.76px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3481-1 {
+  display: flex;
+  height: 9px;
+  left: 190px;
+  position: absolute;
+  top: 259px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-2948 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.7px;
+  margin-right: -0.3px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 5.76px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-5 {
+  align-items: flex-end;
+  display: flex;
+  gap: 1px;
+  height: 12px;
+  left: 190px;
+  min-width: 75px;
+  position: absolute;
+  top: 242px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group4 {
+  height: 14px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 50px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .price {
+  color: var(--polo-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: 11px;
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0.22px;
+  line-height: 11px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ow-imp {
+  left: 6px;
+  position: absolute;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group-1 {
+  height: 14px;
+  margin-bottom: -2px;
+  position: relative;
+  width: 24px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .a {
+  left: 0;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .c-2 {
+  left: 8px;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .t {
+  left: 16px;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 190px;
+  min-height: 25px;
+  position: absolute;
+  top: 270px;
+  width: 131px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group6-1 {
+  height: 14px;
+  position: relative;
+  width: 123px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .price-1 {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-italic);
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 10px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ower-potentital-impact-on {
+  left: 5px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group5 {
+  height: 13px;
+  margin-left: 0.12px;
+  position: relative;
+  width: 130px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .spcs {
+  left: 0;
+  letter-spacing: 0.11px;
+  line-height: 11px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .structure-and-activities {
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-14 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 469px;
+  min-height: 482px;
+  position: absolute;
+  top: 18px;
+  width: 78px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .tainty-as-to-how {
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -30.5px;
+  margin-top: 30px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .this-driver-will-impact-spc {
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -36.97px;
+  margin-top: 11px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .higher-cer {
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -17px;
+  margin-top: 24px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .tainty-as-to-how-1 {
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -30.5px;
+  margin-top: 292px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ower-cer {
+  letter-spacing: 0;
+  line-height: 11px;
+  margin-left: -13px;
+  margin-top: 20px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .price-2 {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-italic);
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 10px;
+  margin-left: 3.5px;
+  margin-top: 9px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-15 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  left: 595px;
+  min-height: 25px;
+  position: absolute;
+  top: 270px;
+  width: 131px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .higher-potentital-impact-on {
+  letter-spacing: 0;
+  line-height: 11px;
+  min-height: 13px;
+  min-width: 126px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group7 {
+  height: 13px;
+  margin-right: 0.6px;
+  position: relative;
+  width: 130px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-16 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 444px;
+  min-height: 481px;
+  position: absolute;
+  top: 19px;
+  width: 37px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ainty {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  margin-left: -10.5px;
+  margin-top: 10px;
+  min-height: 14px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .high-cert {
+  margin-left: -23px;
+  margin-top: 35px;
+  transform: rotate(-90deg);
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ainty-1 {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  margin-left: -10.5px;
+  margin-top: 327px;
+  min-height: 14px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ow-cert {
+  margin-left: -18.5px;
+  margin-top: 30px;
+  min-height: 14px;
+  transform: rotate(-90deg);
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .price-3 {
+  color: var(--polo-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.22px;
+  line-height: 11px;
+  margin-left: 3px;
+  margin-top: 15px;
+  min-height: 13px;
+  transform: rotate(-90deg);
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-17 {
+  align-items: flex-end;
+  display: flex;
+  gap: 1px;
+  height: 12px;
+  left: 649px;
+  min-width: 78px;
+  position: absolute;
+  top: 243px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .high-imp {
+  margin-bottom: -2px;
+  min-width: 53px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .a-1 {
+  left: 0;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .c-3 {
+  left: 8px;
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .t-1 {
+  left: 16px;
+  letter-spacing: 0.24px;
+  position: absolute;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-2 {
+  left: 18px;
+  line-height: 10px;
+  position: absolute;
+  top: 50px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .o {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  top: 50px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-18 {
+  display: flex;
+  gap: 4.8px;
+  height: 13px;
+  justify-content: flex-end;
+  left: 25px;
+  position: absolute;
+  top: 49px;
+  width: 93px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .social-change {
+  flex: 1;
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-bottom: -2px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-3 {
+  line-height: 13px;
+  margin-bottom: -2px;
+  margin-right: -2px;
+  width: 7px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-19 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 25px;
+  min-height: 82px;
+  position: absolute;
+  top: 68px;
+  width: 126px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .driven-by-demographics {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .globalisation-migration {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .changing-research-and {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .development-needs-of {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .members {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-4 {
+  left: 18px;
+  line-height: 10px;
+  position: absolute;
+  top: 162px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .o-1 {
+  top: 162px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .changing {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 161px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-20 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 25px;
+  min-height: 100px;
+  position: absolute;
+  top: 162px;
+  width: 115px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .technology {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .to-conduct-science {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .and-development-and {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .associated-challenges {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group9-1 {
+  height: 14px;
+  position: relative;
+  width: 107px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .to-c {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .yber-security-and {
+  left: 20px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .staffcapacity {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-5 {
+  left: 18px;
+  line-height: 10px;
+  position: absolute;
+  top: 274px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .o-2 {
+  top: 274px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .physical {
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 273px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-21 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 25px;
+  min-height: 100px;
+  position: absolute;
+  top: 274px;
+  width: 131px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .impacts-of {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 19.26px;
+  min-height: 14px;
+  min-width: 57px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .climate-change-on-the {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .environment-and-people {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .and-driving-demand-for {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 14px;
+  min-width: 131px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .more-and-better-suppor {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  min-width: 117px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .t-2 {
+  letter-spacing: 0;
+  min-height: 14px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .from-spc {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-6 {
+  left: 18px;
+  line-height: 10px;
+  position: absolute;
+  top: 386px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .o-3 {
+  top: 386px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .increasing {
+  color: var(--curious-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: 14px;
+  font-weight: 700;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 384px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-22 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  left: 25px;
+  min-height: 100px;
+  position: absolute;
+  top: 386px;
+  width: 125px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-row-3 {
+  align-items: flex-end;
+  display: flex;
+  gap: 1px;
+  height: 32px;
+  min-width: 125px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .of-work {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  min-width: 38px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-height: 32px;
+  width: 87px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .flex-row-4 {
+  align-items: flex-start;
+  display: flex;
+  height: 14px;
+  min-width: 65px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .impor {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  min-width: 34px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .tance {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ing-with-people {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-right: 4.65px;
+  min-height: 14px;
+  min-width: 82px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .including-youth {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .communities-traditional {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group10 {
+  height: 14px;
+  position: relative;
+  width: 119px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .k {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .nowledge-holders-and {
+  left: 6px;
+  letter-spacing: 0;
+  line-height: 12px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .local-solutions {
+  letter-spacing: 0;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3491-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 617px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3490-1 {
+  background-image: url(../img/caminho-2957-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 1px;
+  margin-bottom: 109.9px;
+  margin-right: 44.9px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3492-1 {
+  background-image: url(../img/caminho-2959-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 495px;
+  left: 737px;
+  position: absolute;
+  top: 12px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3495-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1px;
+  height: 617px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3494-1 {
+  background-image: url(../img/caminho-2957-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-right: 44.9px;
+  margin-top: 10.0px;
+  max-height: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3493-1 {
+  background-image: url(../img/caminho-2959-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 495.36px;
+  margin-left: 0.1px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3496-1 {
+  background-image: url(../img/caminho-1-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 616px;
+  position: absolute;
+  top: 20px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3501 {
+  display: flex;
+  height: 617px;
+  justify-content: flex-end;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3500 {
+  display: flex;
+  height: 81.01px;
+  margin-right: 39.7px;
+  margin-top: 19.9px;
+  opacity: 0.14;
+  width: 236.03px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3-4 {
+  display: flex;
+  flex: 1;
+  width: 236.03px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3-5 {
+  background-image: url(../img/caminho-2964@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  margin-bottom: 5.0px;
+  margin-left: 11.8px;
+  margin-right: 11.7px;
+  margin-top: 12.0px;
+  width: 212.6px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3502-1 {
+  background-image: url(../img/caminho-2966@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 72px;
+  left: 515px;
+  position: absolute;
+  top: 21px;
+  width: 214px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3507 {
+  align-items: flex-start;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 103.0px 39.7px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3506 {
+  display: flex;
+  height: 81px;
+  margin-left: 467px;
+  opacity: 0.14;
+  width: 236px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3508 {
+  background-image: url(../img/caminho-2969@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 72px;
+  left: 515px;
+  position: absolute;
+  top: 105px;
+  width: 214px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3513 {
+  align-items: flex-start;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 182.0px 40.1px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3512 {
+  display: flex;
+  height: 60px;
+  margin-left: 467px;
+  opacity: 0.14;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3511 {
+  display: flex;
+  flex: 1;
+  width: 235.3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3510 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  width: 235.3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3509 {
+  background-image: url(../img/caminho-2970@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 42.99px;
+  margin-bottom: 5.0px;
+  margin-left: 11.4px;
+  margin-right: 11.3px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3514 {
+  background-image: url(../img/caminho-2972@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 48px;
+  left: 515px;
+  position: absolute;
+  top: 186px;
+  width: 214px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3526 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  height: 617px;
+  left: 0;
+  padding: 96.2px 45.8px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-6 {
+  height: 74px;
+  position: relative;
+  width: 260px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-35 {
+  display: flex;
+  height: 74px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 0;
+  width: 74px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-35-1 {
+  display: flex;
+  flex: 1;
+  width: 73.64px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-35-2 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 14.7px 27.7px;
+  width: 73.64px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-35-3 {
+  background-image: url(../img/caminho-2973@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 40px;
+  margin-left: 5px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3525 {
+  background-image: url(../img/grupo-3523@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 50px;
+  left: 30px;
+  opacity: 0.1;
+  position: absolute;
+  top: 23px;
+  width: 230px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3518 {
+  align-self: center;
+  display: flex;
+  height: 74px;
+  margin-left: 245.19px;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  width: 74px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-23 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 71px;
+  left: 531px;
+  min-height: 173px;
+  position: absolute;
+  top: 29px;
+  width: 86px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-item {
+  letter-spacing: 0;
+  line-height: 9px;
+  min-height: 11px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3531 {
+  align-items: flex-end;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 246.4px 39.4px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3530 {
+  display: flex;
+  height: 76px;
+  margin-left: 469px;
+  opacity: 0.14;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3529 {
+  display: flex;
+  flex: 1;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3528 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3527 {
+  background-image: url(../img/caminho-2976@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 58.81px;
+  margin-bottom: 5.0px;
+  margin-left: 11.7px;
+  margin-right: 11.6px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3532 {
+  background-image: url(../img/caminho-2978@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  left: 516px;
+  position: absolute;
+  top: 303px;
+  width: 214px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3537 {
+  align-items: flex-end;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 175.1px 38.3px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3536 {
+  display: flex;
+  height: 76px;
+  margin-left: 471px;
+  opacity: 0.14;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3535 {
+  display: flex;
+  flex: 1;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3534 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3533 {
+  background-image: url(../img/caminho-2979@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 59.05px;
+  margin-bottom: 5.0px;
+  margin-left: 11.7px;
+  margin-right: 11.6px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3538 {
+  background-image: url(../img/caminho-2981@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 60px;
+  left: 518px;
+  position: absolute;
+  top: 374px;
+  width: 213px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3543 {
+  align-items: flex-end;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 111.2px 38.4px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3542 {
+  display: flex;
+  height: 70px;
+  margin-left: 471px;
+  opacity: 0.14;
+  width: 235px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3541 {
+  display: flex;
+  flex: 1;
+  width: 234.84px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3540 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  width: 234.84px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3539 {
+  background-image: url(../img/caminho-2982@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  height: 53.01px;
+  margin-bottom: 5.0px;
+  margin-left: 11.6px;
+  margin-right: 11.5px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3544 {
+  background-image: url(../img/caminho-2984@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 55px;
+  left: 518px;
+  position: absolute;
+  top: 444px;
+  width: 213px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .interconnected-systems {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 310px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3561 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 209px;
+  height: 617px;
+  left: 0;
+  padding: 14.0px 230.9px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3560 {
+  display: flex;
+  height: 74px;
+  margin-right: 0.87px;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  width: 74px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container-7 {
+  height: 210px;
+  position: relative;
+  width: 75px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3548 {
+  display: flex;
+  height: 74px;
+  left: 1px;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 67px;
+  width: 74px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3547 {
+  display: flex;
+  flex: 1;
+  width: 73.64px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3546 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  padding: 14.7px 27.7px;
+  width: 73.64px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3552 {
+  display: flex;
+  height: 74px;
+  left: 0;
+  mix-blend-mode: multiply;
+  opacity: 0.9;
+  position: absolute;
+  top: 136px;
+  width: 74px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .conflicting-priorities {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 452px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3565 {
+  align-items: flex-end;
+  display: flex;
+  height: 617px;
+  left: 0;
+  padding: 183.8px 57.2px;
+  position: absolute;
+  top: 0;
+  width: 782px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3564 {
+  display: flex;
+  height: 50px;
+  margin-left: 468px;
+  opacity: 0.1;
+  width: 200px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3563 {
+  display: flex;
+  flex: 1;
+  width: 199.83px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3562 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  padding: 0 25.1px;
+  width: 199.83px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group1-1 {
+  height: 43px;
+  margin-bottom: -0.14px;
+  position: relative;
+  width: 147px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .critical {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  left: 32px;
+  letter-spacing: 0.40px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-7 {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  left: 117px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .overlap-group-3 {
+  height: 23px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 147px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .uncert {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  left: 0;
+  letter-spacing: 0.42px;
+  line-height: 21px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ainties {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-m);
+  font-weight: 600;
+  left: 75px;
+  letter-spacing: 0.40px;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .funding-and-independence {
+  left: 531px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 381px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3463 {
+  align-items: center;
+  display: flex;
+  height: 195px;
+  left: 494px;
+  min-width: 168px;
+  position: absolute;
+  top: 353px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-container {
+  height: 195px;
+  position: relative;
+  width: 145px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3446 {
+  background-image: url(../img/caminho-2929-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 58px;
+  position: absolute;
+  top: 77px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3447 {
+  background-image: url(../img/caminho-2930-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 86px;
+  position: absolute;
+  top: 44px;
+  width: 15px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3448 {
+  background-image: url(../img/caminho-2931-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 31px;
+  position: absolute;
+  top: 48px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3449 {
+  background-image: url(../img/caminho-2932-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  left: 58px;
+  position: absolute;
+  top: 48px;
+  width: 11px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3454 {
+  background-image: url(../img/caminho-2937-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 71px;
+  position: absolute;
+  top: 84px;
+  width: 2px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3386 {
+  align-items: flex-start;
+  display: flex;
+  height: 195px;
+  left: 0;
+  overflow: hidden;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 145px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3364 {
+  display: flex;
+  height: 194px;
+  left: 27px;
+  position: absolute;
+  top: 1px;
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3365 {
+  display: flex;
+  height: 57px;
+  left: 60px;
+  position: absolute;
+  top: 30px;
+  width: 55px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3366 {
+  display: flex;
+  height: 54px;
+  left: 79px;
+  position: absolute;
+  top: 96px;
+  width: 7px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3367 {
+  display: flex;
+  height: 6px;
+  left: 106px;
+  position: absolute;
+  top: 89px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3368 {
+  display: flex;
+  height: 6px;
+  left: 100px;
+  position: absolute;
+  top: 106px;
+  width: 8px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3369 {
+  display: flex;
+  height: 7px;
+  left: 97px;
+  position: absolute;
+  top: 119px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3370 {
+  display: flex;
+  height: 7px;
+  left: 94px;
+  position: absolute;
+  top: 135px;
+  width: 6px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3371 {
+  display: flex;
+  height: 195px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 89px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3372 {
+  display: flex;
+  height: 50px;
+  left: 76px;
+  position: absolute;
+  top: 34px;
+  width: 20px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3373 {
+  display: flex;
+  height: 6px;
+  left: 38px;
+  position: absolute;
+  top: 160px;
+  width: 27px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3374 {
+  display: flex;
+  height: 9px;
+  left: 30px;
+  position: absolute;
+  top: 139px;
+  width: 22px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3375 {
+  display: flex;
+  height: 7px;
+  left: 25px;
+  position: absolute;
+  top: 122px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3376 {
+  display: flex;
+  height: 9px;
+  left: 17px;
+  position: absolute;
+  top: 103px;
+  width: 22px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3377 {
+  display: flex;
+  height: 10px;
+  left: 12px;
+  position: absolute;
+  top: 76px;
+  width: 16px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3378 {
+  display: flex;
+  height: 10px;
+  left: 13px;
+  position: absolute;
+  top: 47px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3379 {
+  display: flex;
+  height: 7px;
+  left: 16px;
+  position: absolute;
+  top: 92px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3380 {
+  display: flex;
+  height: 10px;
+  left: 3px;
+  position: absolute;
+  top: 62px;
+  width: 29px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3381 {
+  display: flex;
+  height: 8px;
+  left: 18px;
+  position: absolute;
+  top: 30px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3382 {
+  display: flex;
+  height: 4px;
+  left: 53px;
+  position: absolute;
+  top: 175px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3383 {
+  display: flex;
+  height: 5px;
+  left: 91px;
+  position: absolute;
+  top: 45px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3384 {
+  display: flex;
+  height: 5px;
+  left: 93px;
+  position: absolute;
+  top: 57px;
+  width: 20px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3385 {
+  display: flex;
+  height: 6px;
+  left: 91px;
+  position: absolute;
+  top: 69px;
+  width: 11px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3445 {
+  background-image: url(../img/caminho-2928-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-bottom: 49.61px;
+  margin-left: 1px;
+  width: 18px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-3482 {
+  display: flex;
+  height: 61px;
+  width: 1920px;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .footer {
+  align-items: flex-end;
+  background-color: var(--green-blue);
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: flex-start;
+  min-width: 1920px;
+  padding: 12.0px 840px;
+  width: auto;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .c-4 {
+  position: absolute;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .high {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  min-height: 14px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .o-4 {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 11px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .ow {
+  letter-spacing: 0.24px;
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .t-3 {
+  line-height: 12px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .w-3 {
+  line-height: 24px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-1920-all-breakpoints .x-8 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+/* screen - chapter-2-driver-case-study-3-375 */
+
+.chapter-2-driver-case-study-3-375 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 3958px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .overlap-group3-3 {
+  height: 984px;
+  margin-left: 1.0px;
+  position: relative;
+  width: 1498px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144151 {
+  height: 857px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 127px;
+  width: 1498px;
+}
+
+.chapter-2-driver-case-study-3-375 .retngulo-148492 {
+  height: 81px;
+  left: 561px;
+  top: 0;
+}
+
+.chapter-2-driver-case-study-3-375 .spc-cps-logo_27_stars-white-2 {
+  height: 50px;
+  left: 580px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-2-driver-case-study-3-375 .menu-2 {
+  height: 81px;
+  left: 855px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-143932 {
+  height: 5px;
+  left: 561px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .retngulo-148565 {
+  height: 46px;
+  left: 561px;
+  top: 81px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144152 {
+  cursor: pointer;
+  height: 54px;
+  left: 884px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 54px;
+}
+
+.chapter-2-driver-case-study-3-375 .case-study-3using-dr-2 {
+  height: 283px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 273px;
+}
+
+.chapter-2-driver-case-study-3-375 .after-completing-the-3 {
+  height: 318px;
+  left: 612px;
+  object-fit: cover;
+  position: absolute;
+  top: 523px;
+  width: 273px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144336 {
+  display: flex;
+  height: 93px;
+  left: 761px;
+  position: absolute;
+  top: 850px;
+  width: 124px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-container-14 {
+  height: 93px;
+  position: relative;
+  width: 124px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-container-15 {
+  align-self: flex-end;
+  height: 61px;
+  position: relative;
+  width: 53px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-22-1 {
+  display: flex;
+  height: 61px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 53px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-container-16 {
+  height: 63px;
+  margin-top: 0;
+  position: relative;
+  width: 51px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-2-1 {
+  display: flex;
+  height: 63px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 51px;
+}
+
+.chapter-2-driver-case-study-3-375 .caminho-309-3 {
+  flex: 1;
+  margin-bottom: -5.8px;
+  margin-left: -7.7px;
+  margin-right: -7.7px;
+  margin-top: -5.8px;
+  object-fit: cover;
+  transform: rotate(-16.00deg);
+  width: 66.59px;
+}
+
+.chapter-2-driver-case-study-3-375 .caminho-310-3 {
+  flex: 1;
+  margin-bottom: -6.1px;
+  margin-left: -8.0px;
+  margin-right: -8.0px;
+  margin-top: -6.1px;
+  object-fit: cover;
+  transform: rotate(-16.00deg);
+  width: 67.2px;
+}
+
+.chapter-2-driver-case-study-3-375 .text-65 {
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-bottom: -0.26px;
+  min-height: 20px;
+  min-width: 13px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-375 .overlap-group4-2 {
+  height: 2284px;
+  position: relative;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .caminho-747 {
+  height: 36px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 143px;
+  width: 136px;
+}
+
+.chapter-2-driver-case-study-3-375 .design-space-paper-textured-background-3 {
+  height: 2284px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144161 {
+  height: 4px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 391px;
+  width: 173px;
+}
+
+.chapter-2-driver-case-study-3-375 .what-we-didwe-used-c {
+  height: 393px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 446px;
+  width: 323px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144162 {
+  height: 4px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 901px;
+  width: 173px;
+}
+
+.chapter-2-driver-case-study-3-375 .what-happened-the-gr-3 {
+  height: 262px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 952px;
+  width: 323px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144164 {
+  height: 424px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 831px;
+  width: 290px;
+}
+
+.chapter-2-driver-case-study-3-375 .for-this-activity-w-3 {
+  height: 46px;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 46px;
+  width: 326px;
+}
+
+.chapter-2-driver-case-study-3-375 .which-significant-tr-3 {
+  left: 66px;
+  letter-spacing: -0.38px;
+  line-height: 20px;
+  position: absolute;
+  top: 103px;
+  width: 286px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144337 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 50px;
+  min-height: 172px;
+  position: absolute;
+  top: 114px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-3499-3 {
+  display: flex;
+  height: 5px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-375 .caminho-942-3 {
+  flex: 1;
+  margin-bottom: -1.0px;
+  margin-left: -1.1px;
+  margin-right: -1.0px;
+  margin-top: -1.0px;
+  object-fit: cover;
+  width: 6.75px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-350-3 {
+  display: flex;
+  height: 5px;
+  margin-top: 35px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-3501-1 {
+  display: flex;
+  height: 5px;
+  margin-top: 53px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-375 .fig-03-2 {
+  height: 273px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 1320px;
+  width: 346px;
+}
+
+.chapter-2-driver-case-study-3-375 .figure-3-example-o-3 {
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1240px;
+  width: 328px;
+}
+
+.chapter-2-driver-case-study-3-375 .source-spc-and-uni-3 {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: 10px;
+  font-style: italic;
+  font-weight: 300;
+  height: 33px;
+  left: 24px;
+  letter-spacing: 0;
+  line-height: 15px;
+  position: absolute;
+  top: 1550px;
+  width: 164px;
+}
+
+.chapter-2-driver-case-study-3-375 .each-category-of-dri-3 {
+  height: 41px;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 1608px;
+  width: 327px;
+}
+
+.chapter-2-driver-case-study-3-375 .significant-trend-h-3 {
+  left: 75px;
+  letter-spacing: -0.38px;
+  line-height: 20px;
+  position: absolute;
+  top: 1659px;
+  width: 277px;
+}
+
+.chapter-2-driver-case-study-3-375 .text-66 {
+  height: 139px;
+  left: 45px;
+  letter-spacing: -0.38px;
+  line-height: 20px;
+  position: absolute;
+  top: 1662px;
+  width: 32px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-144339 {
+  height: 4px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 1928px;
+  width: 173px;
+}
+
+.chapter-2-driver-case-study-3-375 .what-happeneddriver {
+  height: 262px;
+  left: 27px;
+  object-fit: cover;
+  position: absolute;
+  top: 1979px;
+  width: 323px;
+}
+
+.chapter-2-driver-case-study-3-375 .grupo-container-17 {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 86px;
+  margin-left: 1.31px;
+  margin-top: 72px;
+  min-width: 294px;
+}
+
+.chapter-2-driver-case-study-3-375 .it-is-not-an-elitist {
+  height: 238px;
+  margin-right: 1.0px;
+  margin-top: 24px;
+  object-fit: cover;
+  width: 274px;
+}
+
+.chapter-2-driver-case-study-3-375 .coral-pasisi-directo {
+  height: 80px;
+  margin-left: 0;
+  margin-top: 27px;
+  object-fit: cover;
+  width: 273px;
+}
+
+.chapter-2-driver-case-study-3-375 .overlap-group5-1 {
+  height: 107px;
+  margin-top: 56px;
+  position: relative;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .footer-3 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 375px;
+}
+
+.chapter-2-driver-case-study-3-375 .retngulo {
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+/* screen - chapter-2-driver-case-study-3-768 */
+
+.chapter-2-driver-case-study-3-768 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 4001px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.chapter-2-driver-case-study-3-768 .overlap-group3-2 {
+  height: 4037px;
+  margin-left: -346.72px;
+  margin-top: -137px;
+  position: relative;
+  width: 1594px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-container-12 {
+  height: 1358px;
+  left: 347px;
+  position: absolute;
+  top: 137px;
+  width: 1247px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144333 {
+  height: 714px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 644px;
+  width: 1247px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144140 {
+  height: 714px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1247px;
+}
+
+.chapter-2-driver-case-study-3-768 .design-space-paper-textured-background-2 {
+  height: 2542px;
+  left: 347px;
+  object-fit: cover;
+  position: absolute;
+  top: 1495px;
+  width: 768px;
+}
+
+.chapter-2-driver-case-study-3-768 .retngulo-148524 {
+  height: 46px;
+  left: 347px;
+  top: 222px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-143968 {
+  height: 645px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 641px;
+}
+
+.chapter-2-driver-case-study-3-768 .retngulo-148486 {
+  height: 81px;
+  left: 347px;
+  top: 137px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-143707 {
+  height: 47px;
+  left: 581px;
+  object-fit: cover;
+  position: absolute;
+  top: 156px;
+  width: 302px;
+}
+
+.chapter-2-driver-case-study-3-768 .spc-cps-logo_27_stars-white-1 {
+  height: 50px;
+  left: 366px;
+  object-fit: cover;
+  position: absolute;
+  top: 159px;
+  width: 122px;
+}
+
+.chapter-2-driver-case-study-3-768 .menu-1 {
+  height: 81px;
+  left: 1034px;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 81px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-143711 {
+  height: 5px;
+  left: 347px;
+  object-fit: cover;
+  position: absolute;
+  top: 218px;
+  width: 768px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144138 {
+  cursor: pointer;
+  height: 94px;
+  left: 1027px;
+  object-fit: cover;
+  position: absolute;
+  top: 265px;
+  width: 94px;
+}
+
+.chapter-2-driver-case-study-3-768 .case-study-3using-dr-1 {
+  height: 491px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 339px;
+  width: 525px;
+}
+
+.chapter-2-driver-case-study-3-768 .after-completing-the-2 {
+  height: 396px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 886px;
+  width: 525px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144149 {
+  height: 424px;
+  left: 586px;
+  object-fit: cover;
+  position: absolute;
+  top: 2420px;
+  width: 290px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144328 {
+  align-items: center;
+  display: flex;
+  height: 169px;
+  left: 363px;
+  min-width: 145px;
+  position: absolute;
+  top: 283px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-container-11 {
+  height: 169px;
+  position: relative;
+  width: 126px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3444-2 {
+  background-image: url(../img/caminho-2927-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 21px;
+  left: 99px;
+  position: absolute;
+  top: 74px;
+  width: 20px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3446-2 {
+  background-image: url(../img/caminho-2929-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 50px;
+  position: absolute;
+  top: 67px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3447-2 {
+  background-image: url(../img/caminho-2930-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 74px;
+  position: absolute;
+  top: 38px;
+  width: 13px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3448-2 {
+  background-image: url(../img/caminho-2931-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 27px;
+  position: absolute;
+  top: 42px;
+  width: 10px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3449-2 {
+  background-image: url(../img/caminho-2932-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  left: 51px;
+  position: absolute;
+  top: 42px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3452-2 {
+  background-image: url(../img/caminho-2935-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 87px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3453-2 {
+  background-image: url(../img/caminho-2936-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 38px;
+  position: absolute;
+  top: 42px;
+  width: 2px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3454-2 {
+  background-image: url(../img/caminho-2937-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 62px;
+  position: absolute;
+  top: 73px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3386-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 169px;
+  left: 0;
+  overflow: hidden;
+  padding: 0.0px 0;
+  position: absolute;
+  top: 0;
+  width: 126px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3364-2 {
+  display: flex;
+  height: 168px;
+  left: 23px;
+  position: absolute;
+  top: 1px;
+  width: 102px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2863-2 {
+  flex: 1;
+  margin-bottom: -0.7px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 103.55px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3365-2 {
+  display: flex;
+  height: 49px;
+  left: 52px;
+  position: absolute;
+  top: 26px;
+  width: 47px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2864-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.6px;
+  object-fit: cover;
+  width: 48.54px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3366-2 {
+  display: flex;
+  height: 47px;
+  left: 69px;
+  position: absolute;
+  top: 83px;
+  width: 6px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2865-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.4px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 7.11px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3367-2 {
+  display: flex;
+  height: 5px;
+  left: 92px;
+  position: absolute;
+  top: 77px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2866-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.4px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3368-2 {
+  display: flex;
+  height: 5px;
+  left: 87px;
+  position: absolute;
+  top: 91px;
+  width: 7px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2867-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 8.02px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3369-2 {
+  display: flex;
+  height: 6px;
+  left: 84px;
+  position: absolute;
+  top: 103px;
+  width: 10px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2868-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 11.59px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3370-2 {
+  display: flex;
+  height: 6px;
+  left: 81px;
+  position: absolute;
+  top: 117px;
+  width: 5px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2869-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 6.5px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3371-2 {
+  display: flex;
+  height: 169px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 77px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2870-2 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 78.46px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3372-2 {
+  display: flex;
+  height: 44px;
+  left: 66px;
+  position: absolute;
+  top: 29px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2871-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 18.48px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3373-2 {
+  display: flex;
+  height: 5px;
+  left: 33px;
+  position: absolute;
+  top: 138px;
+  width: 24px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2872-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 24.62px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3374-2 {
+  display: flex;
+  height: 7px;
+  left: 26px;
+  position: absolute;
+  top: 120px;
+  width: 19px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2873-2 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 19.99px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3375-2 {
+  display: flex;
+  height: 6px;
+  left: 22px;
+  position: absolute;
+  top: 106px;
+  width: 15px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2874-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 16.05px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3376-2 {
+  display: flex;
+  height: 8px;
+  left: 14px;
+  position: absolute;
+  top: 89px;
+  width: 19px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2875-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 20.26px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3377-2 {
+  display: flex;
+  height: 8px;
+  left: 11px;
+  position: absolute;
+  top: 66px;
+  width: 14px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2876-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 14.65px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3378-2 {
+  display: flex;
+  height: 9px;
+  left: 11px;
+  position: absolute;
+  top: 41px;
+  width: 15px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2877-2 {
+  flex: 1;
+  margin-bottom: -0.6px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 15.69px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3379-2 {
+  display: flex;
+  height: 6px;
+  left: 14px;
+  position: absolute;
+  top: 79px;
+  width: 11px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2878-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 11.86px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3380-2 {
+  display: flex;
+  height: 9px;
+  left: 2px;
+  position: absolute;
+  top: 54px;
+  width: 25px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2879-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 26.09px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3381-2 {
+  display: flex;
+  height: 7px;
+  left: 15px;
+  position: absolute;
+  top: 26px;
+  width: 12px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2880-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.6px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 13.06px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3382-2 {
+  display: flex;
+  height: 3px;
+  left: 46px;
+  position: absolute;
+  top: 152px;
+  width: 11px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2881-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 12.33px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3383-2 {
+  display: flex;
+  height: 4px;
+  left: 79px;
+  position: absolute;
+  top: 39px;
+  width: 15px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2882-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.4px;
+  object-fit: cover;
+  width: 16.06px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3384-2 {
+  display: flex;
+  height: 5px;
+  left: 81px;
+  position: absolute;
+  top: 49px;
+  width: 17px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2883-2 {
+  flex: 1;
+  margin-bottom: -0.4px;
+  margin-left: -0.5px;
+  margin-right: -0.6px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 18.18px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3385-2 {
+  display: flex;
+  height: 5px;
+  left: 78px;
+  position: absolute;
+  top: 59px;
+  width: 10px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-2884-2 {
+  flex: 1;
+  margin-bottom: -0.5px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  margin-top: -0.5px;
+  object-fit: cover;
+  width: 10.93px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3450-2 {
+  background-image: url(../img/caminho-2933-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-left: 1px;
+  margin-top: 18.59px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3445-2 {
+  background-image: url(../img/caminho-2928-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  margin-bottom: 42.99px;
+  margin-left: 1px;
+  width: 16px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3451-2 {
+  background-image: url(../img/caminho-2934-5@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  margin-bottom: 35.48px;
+  width: 1px;
+}
+
+.chapter-2-driver-case-study-3-768 .quote_-buttuon-2 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 162px;
+  left: 813px;
+  min-width: 216px;
+  position: absolute;
+  top: 1293px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-container-13 {
+  height: 162px;
+  margin-bottom: 0;
+  position: relative;
+  width: 216px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-231-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 188.87px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-307-2 {
+  height: 127px;
+  left: 16px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  transform: rotate(-16.00deg);
+  width: 118px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-308-2 {
+  height: 128px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-16.00deg);
+  width: 119px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-309-2 {
+  height: 130px;
+  left: 113px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 116px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-310-2 {
+  height: 131px;
+  left: 112px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-16.00deg);
+  width: 117px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-233-2 {
+  align-items: flex-end;
+  background-image: url(../img/caminho-739-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 176px;
+  min-width: 40px;
+  padding: 0 7px;
+  position: absolute;
+  top: 91px;
+}
+
+.chapter-2-driver-case-study-3-768 .text-44 {
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-bottom: -2px;
+  min-height: 36px;
+  min-width: 23px;
+  white-space: nowrap;
+}
+
+.chapter-2-driver-case-study-3-768 .for-this-activity-w-2 {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 1577px;
+  white-space: nowrap;
+  width: 496px;
+}
+
+.chapter-2-driver-case-study-3-768 .which-significant-tr-2 {
+  left: 477px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 1625px;
+  width: 559px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144329 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 457px;
+  min-height: 208px;
+  position: absolute;
+  top: 1637px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3499-2 {
+  display: flex;
+  height: 9px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-768 .caminho-942-2 {
+  flex: 1;
+  margin-bottom: -1.0px;
+  margin-left: -1.0px;
+  margin-right: -1.0px;
+  margin-top: -1.0px;
+  object-fit: cover;
+  width: 10.58px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-350-2 {
+  display: flex;
+  height: 9px;
+  margin-top: 45px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-3502-3 {
+  display: flex;
+  height: 9px;
+  margin-top: 48px;
+  width: 9px;
+}
+
+.chapter-2-driver-case-study-3-768 .what-we-did-we-used-2 {
+  height: 440px;
+  left: 427px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 2010px;
+  width: 609px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144330 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 427px;
+  position: absolute;
+  top: 1959px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144331 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 427px;
+  position: absolute;
+  top: 2491px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-768 .what-happened-the-gr-2 {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2542px;
+  width: 609px;
+}
+
+.chapter-2-driver-case-study-3-768 .fig-03-1 {
+  height: 506px;
+  left: 429px;
+  object-fit: cover;
+  position: absolute;
+  top: 2911px;
+  width: 641px;
+}
+
+.chapter-2-driver-case-study-3-768 .figure-3-example-o-2 {
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 2826px;
+  width: 607px;
+}
+
+.chapter-2-driver-case-study-3-768 .source-spc-and-uni-2 {
+  height: 63px;
+  left: 429px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 3345px;
+  width: 288px;
+}
+
+.chapter-2-driver-case-study-3-768 .each-category-of-dri-2 {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 3437px;
+  white-space: nowrap;
+  width: 609px;
+}
+
+.chapter-2-driver-case-study-3-768 .significant-trend-h-2 {
+  left: 477px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 3481px;
+  width: 559px;
+}
+
+.chapter-2-driver-case-study-3-768 .text-45 {
+  height: 139px;
+  left: 447px;
+  letter-spacing: -0.50px;
+  line-height: 28px;
+  position: absolute;
+  top: 3484px;
+  width: 32px;
+}
+
+.chapter-2-driver-case-study-3-768 .what-happened-driver-2 {
+  left: 427px;
+  letter-spacing: 0;
+  line-height: 25px;
+  position: absolute;
+  top: 3749px;
+  width: 609px;
+}
+
+.chapter-2-driver-case-study-3-768 .grupo-144332 {
+  background-image: url(../img/caminho-73-16@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 5px;
+  left: 427px;
+  position: absolute;
+  top: 3698px;
+  width: 199px;
+}
+
+.chapter-2-driver-case-study-3-768 .overlap-group4-1 {
+  height: 107px;
+  position: relative;
+  width: 768px;
+}
+
+.chapter-2-driver-case-study-3-768 .footer-2 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 768px;
+}
+
+.chapter-2-driver-case-study-3-768 .retngulo {
+  object-fit: cover;
+  position: absolute;
+  width: 768px;
+}
+@media screen and (max-width: 767px) {
+  .screen.chapter-2-driver-case-study-3-1920-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-1280 { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-768 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.chapter-2-driver-case-study-3-1920-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-1280 { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.chapter-2-driver-case-study-3-1920-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-768 { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.chapter-2-driver-case-study-3-1280 { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-768 { 
+    display: none;
+   }
+  .screen.chapter-2-driver-case-study-3-375 { 
+    display: none;
+   }
+}

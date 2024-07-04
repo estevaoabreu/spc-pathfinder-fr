@@ -1,0 +1,755 @@
+/* screen - chapter-1-1280-all-breakpoints */
+
+.chapter-1-1280-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.chapter-1-1280-all-breakpoints .overlap-group-1 {
+  height: 1300px;
+  position: relative;
+  width: 1570px;
+}
+
+.chapter-1-1280-all-breakpoints .retngulo-148513 {
+  height: 1219px;
+  top: 81px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-de-mscara-4-1 {
+  height: 802px;
+  left: 265px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-143855 {
+  height: 298px;
+  left: 333px;
+  top: 407px;
+  width: 615px;
+}
+
+.chapter-1-1280-all-breakpoints .footer-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1280px;
+}
+
+.chapter-1-1280-all-breakpoints .retngulo-148516 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-143857 {
+  height: 47px;
+  left: 490px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-1-1280-all-breakpoints .spc-cps-logo_27_stars-white {
+  height: 50px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-143859 {
+  height: 45px;
+  left: 917px;
+  top: 675px;
+  width: 282px;
+}
+
+.chapter-1-1280-all-breakpoints .gathering-intelligence-about-the-future-1 {
+  height: 335px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 1121px;
+}
+
+.chapter-1-1280-all-breakpoints .chapter-1-1 {
+  height: 78px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 312px;
+}
+
+.chapter-1-1280-all-breakpoints .menu-v {
+  height: 81px;
+  left: 1199px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-1-1280-all-breakpoints .strategic-foresight-1 {
+  height: 159px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 1114px;
+}
+
+.chapter-1-1280-all-breakpoints .we-do-it-together-1 {
+  height: 41px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 331px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-143934 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 1280px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-144185 {
+  height: 466px;
+  left: 19px;
+  top: 114px;
+  width: 480px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-144186 {
+  cursor: pointer;
+  height: 514px;
+  left: 372px;
+  top: 690px;
+  width: 360px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-144187 {
+  cursor: pointer;
+  height: 514px;
+  left: 39px;
+  top: 690px;
+  width: 360px;
+}
+
+.chapter-1-1280-all-breakpoints .grupo-144188 {
+  cursor: pointer;
+  height: 162px;
+  left: 950px;
+  top: 862px;
+  width: 216px;
+}
+
+.chapter-1-1280-all-breakpoints .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1280px;
+}
+/* screen - chapter-1-1920 */
+
+.chapter-1-1920 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.chapter-1-1920 .overlap-group {
+  height: 1300px;
+  position: relative;
+  width: 2205px;
+}
+
+.chapter-1-1920 .retngulo-35 {
+  height: 1219px;
+  left: 0;
+  top: 81px;
+  width: 1920px;
+}
+
+.chapter-1-1920 .grupo-de-mscara-4 {
+  height: 802px;
+  left: 900px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-1-1920 .strategic-foresight {
+  height: 304px;
+  left: 1297px;
+  object-fit: cover;
+  position: absolute;
+  top: 252px;
+  width: 528px;
+}
+
+.chapter-1-1920 .we-do-it-together {
+  height: 40px;
+  left: 1294px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 321px;
+}
+
+.chapter-1-1920 .retngulo-53 {
+  border-radius: 5px;
+  height: 440px;
+  left: 1262px;
+  top: 166px;
+  width: 658px;
+}
+
+.chapter-1-1920 .grupo-1062 {
+  cursor: pointer;
+  height: 162px;
+  left: 1375px;
+  top: 818px;
+  width: 216px;
+}
+
+.chapter-1-1920 .grupo-241 {
+  height: 298px;
+  left: 631px;
+  top: 320px;
+  width: 615px;
+}
+
+.chapter-1-1920 .footer {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1920px;
+}
+
+.chapter-1-1920 .grupo-1060 {
+  cursor: pointer;
+  height: 514px;
+  left: 437px;
+  top: 606px;
+  width: 360px;
+}
+
+.chapter-1-1920 .grupo-1059 {
+  cursor: pointer;
+  height: 514px;
+  left: 104px;
+  top: 606px;
+  width: 360px;
+}
+
+.chapter-1-1920 .header {
+  height: 86px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: auto;
+}
+
+.headerlogo {
+  width: auto;
+}
+
+.chapter-1-1920 .grupo-2222 {
+  height: 45px;
+  left: 1268px;
+  top: 641px;
+  width: 282px;
+}
+
+.chapter-1-1920 .grupo-2446 {
+  height: 466px;
+  left: 51px;
+  top: 114px;
+  width: 480px;
+}
+
+.chapter-1-1920 .gathering-intelligence-about-the-future {
+  height: 375px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 1029px;
+}
+
+.chapter-1-1920 .chapter-1 {
+  height: 78px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 312px;
+}
+
+.chapter-1-1920 .retngulo {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - chapter-1-375 */
+
+.chapter-1-375 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2836px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.chapter-1-375 .overlap-group-3 {
+  align-self: flex-start;
+  height: 1922px;
+  margin-left: -4.0px;
+  position: relative;
+  width: 629px;
+}
+
+.chapter-1-375 .retngulo-148521 {
+  height: 1841px;
+  top: 81px;
+}
+
+.chapter-1-375 .grupo-de-mscara-20 {
+  height: 384px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 1538px;
+  width: 625px;
+}
+
+.chapter-1-375 .gathering-intelligence-about-the-future-3 {
+  height: 485px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 274px;
+}
+
+.chapter-1-375 .retngulo-148492 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-1-375 .spc-cps-logo_27_stars-white-2 {
+  height: 50px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-1-375 .caminho-747-1 {
+  height: 36px;
+  left: 126px;
+  object-fit: cover;
+  position: absolute;
+  top: 812px;
+  width: 136px;
+}
+
+.chapter-1-375 .menu-1 {
+  height: 81px;
+  left: 298px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-1-375 .grupo-143932 {
+  height: 5px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 375px;
+}
+
+.chapter-1-375 .chapter-1-3 {
+  height: 36px;
+  left: 53px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 144px;
+}
+
+.chapter-1-375 .strategic-foresight-3 {
+  height: 367px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 428px;
+  width: 277px;
+}
+
+.chapter-1-375 .we-do-it-together-3 {
+  height: 25px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 380px;
+  width: 208px;
+}
+
+.chapter-1-375 .componente-59-1 {
+  height: 73px;
+  left: 261px;
+  object-fit: cover;
+  position: absolute;
+  top: 790px;
+  width: 67px;
+}
+
+.chapter-1-375 .grupo-143898 {
+  height: 34px;
+  left: 51px;
+  object-fit: cover;
+  position: absolute;
+  top: 812px;
+  width: 184px;
+}
+
+.chapter-1-375 .grupo-143904 {
+  height: 346px;
+  left: 131px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 182px;
+}
+
+.chapter-1-375 .grupo-144221 {
+  height: 331px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 341px;
+}
+
+.chapter-1-375 .grupo-144223 {
+  cursor: pointer;
+  height: 470px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 888px;
+  width: 330px;
+}
+
+.chapter-1-375 .grupo-144224 {
+  cursor: pointer;
+  height: 470px;
+  left: 10px;
+  object-fit: cover;
+  position: absolute;
+  top: 1373px;
+  width: 330px;
+}
+
+.chapter-1-375 .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 86px;
+  margin-left: 4.56px;
+  margin-top: 70px;
+  min-width: 294px;
+}
+
+.chapter-1-375 .grupo-143901 {
+  align-self: flex-end;
+  height: 78px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.chapter-1-375 .grupo-143902 {
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.chapter-1-375 .strateg-container {
+  height: 597px;
+  margin-left: 2.29px;
+  margin-top: 24px;
+  position: relative;
+  width: 276px;
+}
+
+.chapter-1-375 .we-looked-beyond-the {
+  height: 558px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 270px;
+}
+
+.chapter-1-375 .sarah-mecartneyprinc {
+  height: 40px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 557px;
+  width: 273px;
+}
+
+.chapter-1-375 .footer-3 {
+  height: 61px;
+  margin-top: 76px;
+  object-fit: cover;
+  width: 375px;
+}
+
+.chapter-1-375 .retngulo {
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+/* screen - chapter-1-768 */
+
+.chapter-1-768 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 768px;
+}
+
+.chapter-1-768 .overlap-group-2 {
+  height: 1811px;
+  position: relative;
+  width: 1305px;
+}
+
+.chapter-1-768 .retngulo-148517 {
+  height: 1668px;
+  top: 83px;
+}
+
+.chapter-1-768 .grupo-de-mscara-19 {
+  height: 802px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 949px;
+  width: 1305px;
+}
+
+.chapter-1-768 .grupo-144217 {
+  cursor: pointer;
+  height: 514px;
+  left: 354px;
+  top: 1157px;
+  width: 360px;
+}
+
+.chapter-1-768 .grupo-144218 {
+  cursor: pointer;
+  height: 514px;
+  left: 21px;
+  top: 1157px;
+  width: 360px;
+}
+
+.chapter-1-768 .retngulo-148486 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-1-768 .grupo-143707 {
+  height: 47px;
+  left: 234px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-1-768 .spc-cps-logo_27_stars-white-1 {
+  height: 50px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-1-768 .menu {
+  height: 81px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-1-768 .caminho-747 {
+  height: 60px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 1425px;
+  width: 226px;
+}
+
+.chapter-1-768 .grupo-143888 {
+  height: 450px;
+  left: 334px;
+  top: 544px;
+  width: 236px;
+}
+
+.chapter-1-768 .gathering-intelligence-about-the-future-2 {
+  height: 379px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 611px;
+}
+
+.chapter-1-768 .chapter-1-2 {
+  height: 78px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 312px;
+}
+
+.chapter-1-768 .strategic-foresight-2 {
+  height: 304px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 658px;
+  width: 611px;
+}
+
+.chapter-1-768 .we-do-it-together-2 {
+  height: 42px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 599px;
+  width: 340px;
+}
+
+.chapter-1-768 .grupo-143890 {
+  height: 45px;
+  left: 80px;
+  top: 1041px;
+  width: 282px;
+}
+
+.chapter-1-768 .grupo-143933 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 768px;
+}
+
+.chapter-1-768 .grupo-144189 {
+  height: 466px;
+  left: 31px;
+  top: 120px;
+  width: 480px;
+}
+
+.chapter-1-768 .grupo-144219 {
+  cursor: pointer;
+  height: 162px;
+  left: 471px;
+  top: 979px;
+  width: 216px;
+}
+
+.chapter-1-768 .footer-2 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1750px;
+  width: 768px;
+}
+
+.chapter-1-768 .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 768px;
+}
+@media screen and (max-width: 767px) {
+  .screen.chapter-1-1920 { 
+    display: none;
+   }
+  .screen.chapter-1-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-1-768 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.chapter-1-1920 { 
+    display: none;
+   }
+  .screen.chapter-1-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-1-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.chapter-1-1920 { 
+    display: none;
+   }
+  .screen.chapter-1-768 { 
+    display: none;
+   }
+  .screen.chapter-1-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.chapter-1-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-1-768 { 
+    display: none;
+   }
+  .screen.chapter-1-375 { 
+    display: none;
+   }
+}

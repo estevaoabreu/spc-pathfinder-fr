@@ -1,0 +1,44 @@
+/* screen - casestudy1-quote-1920-1280-768 */
+
+.casestudy1-quote-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 581px;
+  padding: 30.0px 28.1px;
+  width: 673px;
+}
+
+#overlay-casestudy1-quote-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.componente-40-2 {
+  cursor: pointer;
+  position: absolute;
+  right: 80px;
+  top: 120px;
+  width: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  #overlay-casestudy1-quote-1920-1280-768 {
+    top:650px;
+    left: 200px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  #overlay-casestudy1-quote-1920-1280-768 {
+    top:350px;
+    left: 580px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  #overlay-casestudy1-quote-1920-1280-768 {
+    top:400px;
+    left: 1100px;
+  }
+}

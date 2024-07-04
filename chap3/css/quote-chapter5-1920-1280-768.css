@@ -1,0 +1,50 @@
+/* screen - quote-chapter5-1920-1280-768 */
+
+.quote-chapter5-1920-1280-768 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 574px;
+  padding: 29.4px 22.8px;
+  width: 660px;
+}
+
+#overlay-quote-chapter5-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.quote-chapter5-1920-1280-768 .componente-40-1 {
+  height: 509px;
+  object-fit: cover;
+  width: 614px;
+}
+
+.componente-40-2 {
+  position: absolute;
+  right: 80px;
+  top: 120px;
+  width: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-quote-chapter5-1920-1280-768 {
+  top:650px;
+  left: 120px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-quote-chapter5-1920-1280-768 {
+  top:400px;
+  left: 620px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-quote-chapter5-1920-1280-768 {
+  top: 700px;
+  left: 1150px;
+}
+}

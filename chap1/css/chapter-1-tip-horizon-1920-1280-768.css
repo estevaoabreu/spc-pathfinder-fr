@@ -1,0 +1,70 @@
+/* screen - chapter-1-tip-horizon-1920-1280-768 */
+
+.chapter-1-tip-horizon-1920-1280-768 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  padding: 0 11px;
+  width: 509px;
+}
+
+#overlay-chapter-1-tip-horizon-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.chapter-1-tip-horizon-1920-1280-768 .grupo-container {
+  height: 484px;
+  margin-top: 0;
+  position: relative;
+  width: 486px;
+}
+
+.chapter-1-tip-horizon-1920-1280-768 .grupo-1006 {
+  height: 443px;
+  left: 22px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 443px;
+}
+
+.chapter-1-tip-horizon-1920-1280-768 .grupo-1068 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-1-tip-horizon-1920-1280-768 .grupo-1069 {
+  height: 100px;
+  left: 379px;
+  object-fit: cover;
+  position: absolute;
+  top: 384px;
+  width: 107px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-1-tip-horizon-1920-1280-768 {
+  top:700px;
+  left: 350px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-1-tip-horizon-1920-1280-768 {
+  top:300px;
+  left: 750px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-1-tip-horizon-1920-1280-768 {
+  top: 400px;
+  left: 1000px;
+}
+}

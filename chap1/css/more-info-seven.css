@@ -1,0 +1,84 @@
+/* screen - more-info-seven */
+
+.more-info-seven {
+  align-items: flex-start;
+  display: flex;
+  height: 511px;
+  padding: 0 10px;
+  width: 668px;
+  position: relative;
+}
+
+#overlay-more-info-seven {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.more-info-seven .overlap-group {
+  height: 487px;
+  margin-top: -0.28px;
+  position: relative;
+  width: 645px;
+}
+
+.more-info-seven .retngulo-105 {
+  border-radius: 5px;
+  height: 459px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 645px;
+}
+
+.more-info-seven .the-uk-futures-toolk {
+  height: 244px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 546px;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 235px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 388px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-more-info-seven {
+  top:800px;
+  left: 150px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-more-info-seven {
+  top:900px;
+  right: 40px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-more-info-seven {
+  top:850px;
+  right: 60px;
+}
+}
+

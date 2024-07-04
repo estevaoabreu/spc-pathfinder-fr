@@ -1,0 +1,149 @@
+/* screen - casestudy3-quote-1920-1280-768 */
+
+.casestudy3-quote-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 551px;
+  overflow: hidden;
+  padding: 0 21.1px;
+  width: 666px;
+}
+
+#overlay-casestudy3-quote-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.casestudy3-quote-1920-1280-768 .overlap-group1 {
+  height: 509px;
+  margin-left: 9px;
+  margin-top: 41.84px;
+  position: relative;
+  width: 614px;
+}
+
+.casestudy3-quote-1920-1280-768 .grupo-714 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  padding: 0.0px 0.0px;
+  width: 614.42px;
+}
+
+.casestudy3-quote-1920-1280-768 .grupo-container {
+  height: 507px;
+  position: relative;
+  width: 613px;
+}
+
+.casestudy3-quote-1920-1280-768 .grupo-711 {
+  background-image: url(../img/caminho-735@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 19px;
+  left: 257px;
+  position: absolute;
+  top: 469px;
+  width: 139px;
+}
+
+.casestudy3-quote-1920-1280-768 .grupo-713 {
+  background-image: url(../img/caminho-737-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 59px;
+  left: 31px;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.casestudy3-quote-1920-1280-768 .text-57 {
+  letter-spacing: 0;
+  line-height: 28px;
+  min-height: 36px;
+  min-width: 23px;
+  transform: rotate(45.00deg) translate(-3px,3px);
+  white-space: nowrap;
+}
+
+.casestudy3-quote-1920-1280-768 .it-is-not-an-elitist {
+  color: var(--neon-carrot);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 67px;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: absolute;
+  top: 195px;
+  transform: rotate(6.00deg);
+  width: 485px;
+}
+
+.casestudy3-quote-1920-1280-768 .grupo-730 {
+  display: flex;
+  height: 76px;
+  justify-content: space-between;
+  left: 76px;
+  position: absolute;
+  top: 81px;
+  transform: rotate(8.00deg);
+  width: 128px;
+}
+
+.casestudy3-quote-1920-1280-768 .caminho-310 {
+  margin-bottom: -3.7px;
+  margin-left: -4.6px;
+  margin-right: -4.6px;
+  margin-top: -3.7px;
+  transform: rotate(-187.00deg);
+  width: 69.53px;
+}
+
+.casestudy3-quote-1920-1280-768 .caminho-308 {
+  margin-bottom: -3.8px;
+  margin-left: -4.4px;
+  margin-right: -4.4px;
+  margin-top: -3.9px;
+  transform: rotate(-187.00deg);
+  width: 71.34px;
+}
+
+.casestudy3-quote-1920-1280-768 .coral-pasisi-dire {
+  left: 55px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 338px;
+  transform: rotate(6.00deg);
+  width: 382px;
+}
+
+.casestudy3-quote-1920-1280-768 .caminho {
+  flex: 1;
+  object-fit: cover;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  #overlay-casestudy3-quote-1920-1280-768 {
+    top:1000px;
+    left: 200px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  #overlay-casestudy3-quote-1920-1280-768 {
+    top:500px;
+    left: 600px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  #overlay-casestudy3-quote-1920-1280-768 {
+    top:400px;
+    left: 1100px;
+  }
+}

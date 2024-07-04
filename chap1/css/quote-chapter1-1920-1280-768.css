@@ -1,0 +1,51 @@
+/* screen - quote-chapter1-1920-1280-768 */
+
+.quote-chapter1-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 572px;
+  padding: 29.4px 22.8px;
+  width: 660px;
+}
+
+#overlay-quote-chapter1-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.quote-chapter1-1920-1280-768 .grupo-735 {
+  height: 509px;
+  object-fit: cover;
+  width: 614px;
+}
+
+.componente-40-2 {
+  cursor: pointer;
+  position: absolute;
+  right: 80px;
+  top: 110px;
+  width: auto;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-quote-chapter1-1920-1280-768 {
+  top:750px;
+  right: 100px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-quote-chapter1-1920-1280-768 {
+  top:650px;
+  right: 30px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-quote-chapter1-1920-1280-768 {
+  top:650px;
+  right: 150px;
+}
+}
+

@@ -1,0 +1,103 @@
+/* screen - more-info-futuretriangle */
+
+.more-info-futuretriangle {
+  align-items: flex-start;
+  display: flex;
+  height: 468px;
+  padding: 0 10px;
+  width: 668px;
+  position: relative;
+}
+
+#overlay-more-info-futuretriangle {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+    position: absolute;
+  z-index: 9;
+}
+
+
+.more-information {
+  z-index: 10;
+}
+
+.more-info-futuretriangle .overlap-group {
+  height: 457px;
+  margin-top: -0.28px;
+  position: relative;
+  width: 645px;
+}
+
+.more-info-futuretriangle .retngulo-105 {
+  border-radius: 5px;
+  height: 429px;
+  left: 0;
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+  top: 28px;
+  width: 645px;
+}
+
+.more-info-futuretriangle .the-pacific-communit {
+  height: 224px;
+  left: 62px;
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+  top: 198px;
+  width: 521px;
+}
+
+.more-info-futuretriangle .grupo {
+  object-fit: cover;
+    position: absolute;
+  z-index: 9;
+}
+
+.componente-40-2 {
+  cursor: pointer;
+  position: absolute;
+  right: 45%;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 255px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 395px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  #overlay-more-info-futuretriangle {
+    top:850px;
+    left: 130px;
+  }
+  }
+  @media screen and (min-width: 1280px) and (max-width: 1919px) {
+  #overlay-more-info-futuretriangle {
+    top:830px;
+    left: 630px;
+  }
+  }
+  @media screen and (min-width: 1920px) {
+  #overlay-more-info-futuretriangle {
+    top: 850px;
+    left: 1290px;
+  }
+  }

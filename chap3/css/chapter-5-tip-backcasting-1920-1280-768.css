@@ -1,0 +1,45 @@
+/* screen - chapter-5-tip-backcasting-1920-1280-768 */
+
+.chapter-5-tip-backcasting-1920-1280-768 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 270px;
+  overflow: hidden;
+  width: 509px;
+}
+
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+    position: absolute;
+  z-index: 50;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768 .componente-38-1 {
+  cursor: pointer;
+  height: 261px;
+  margin-top: 0;
+  object-fit: cover;
+  width: 487px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top:900px;
+  left:400px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top:500px;
+  left: 800px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top: 500px;
+  left: 1050px;
+}
+}
