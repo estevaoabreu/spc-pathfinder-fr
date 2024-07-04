@@ -3610,7 +3610,8 @@
   margin-top: 15px;
   min-height: 112px;
   text-align: center;
-  width: 526px;
+  width: 576px;
+  font-size: 50px;
 }
 
 .index-1920 .grupo-12-1 {
@@ -4048,6 +4049,7 @@
 }
 
 .index-1920 .explore {
+  font-size: 16px;
   letter-spacing: 0;
   line-height: 21px;
   margin-bottom: -2px;
@@ -5078,13 +5080,13 @@
 
 .index-1920 .for-feedback-and-enq {
   height: 99px;
-  left: 562px;
+  left: 462px;
   letter-spacing: -1.17px;
   line-height: 40px;
   position: absolute;
   text-align: center;
   top: 2024px;
-  width: 799px;
+  width: 999px;
 }
 
 .index-1920 .grupo-de-mscara-6 {
@@ -5405,6 +5407,7 @@
   position: absolute;
   top: 552px;
   width: 758px;
+  font-size: 18px;
 }
 
 .index-1920 .grupo-2314 {
@@ -6070,7 +6073,7 @@
 .index-375 .a-toolkit-to-imagine-and-create-futures-3 {
   color: var(--white);
   font-family: var(--font-family-gaegu);
-  font-size: 36px;
+  font-size: 27px;
   font-weight: 400;
   height: 181px;
   left: 185px;
@@ -6363,6 +6366,7 @@
   position: absolute;
   top: 766px;
   width: 321px;
+  font-size: 13px;
 }
 
 .index-375 .grupo-143759 {
@@ -6573,13 +6577,13 @@
   font-size: var(--font-size-xxxl);
   font-weight: 700;
   height: 80px;
-  left: 186px;
+  left: 136px;
   letter-spacing: -0.72px;
   line-height: 28px;
   position: absolute;
   text-align: center;
   top: 4559px;
-  width: 282px;
+  width: 382px;
 }
 
 .index-375 .footer-3 {
@@ -6616,6 +6620,7 @@
 }
 
 .index-375 .explore-6 {
+  font-size: 11px;
   margin-bottom: -2px;
 }
 
@@ -6787,6 +6792,7 @@
 }
 
 .index-375 .explore-5 {
+  font-size: 11px;
   margin-bottom: -1.6px;
 }
 
@@ -8372,13 +8378,14 @@
 }
 
 .index-768 .a-toolkit-to-imagine-and-create-futures-2 {
-  left: 171px;
+  left: 136px;
+  font-size: 40px;
   letter-spacing: 0;
   line-height: 50px;
   position: absolute;
   text-align: center;
   top: 325px;
-  width: 430px;
+  width: 500px;
 }
 
 .index-768 .grupo-143668 {
@@ -8657,6 +8664,7 @@
   position: absolute;
   top: 1204px;
   width: 609px;
+  font-size: 16.5px;
 }
 
 .index-768 .grupo-143714 {
@@ -8843,6 +8851,7 @@
   line-height: 21px;
   margin-bottom: -2px;
   width: 77px;
+  font-size: 15px;
 }
 
 .index-768 .grupo-39-5 {
@@ -9306,6 +9315,7 @@
 }
 
 .index-768 .explore-3 {
+  font-size: 15px;
   line-height: 18px;
   margin-bottom: -1.2px;
   width: 66px;
@@ -9632,7 +9642,7 @@
   margin-left: 2.0px;
   margin-top: 69px;
   text-align: center;
-  width: 410px;
+  width: 510px;
 }
 
 .index-768 .splspcint-2 {
