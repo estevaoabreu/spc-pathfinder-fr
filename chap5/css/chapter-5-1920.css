@@ -1,0 +1,941 @@
+/* screen - chapter-5-1280-all-breakpoints */
+
+.chapter-5-1280-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .overlap-group-1 {
+  height: 1300px;
+  position: relative;
+  width: 1558px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo-148513 {
+  height: 1219px;
+  top: 81px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143826 {
+  height: 407px;
+  left: 36px;
+  top: 117px;
+  width: 606px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-de-mscara-14 {
+  height: 802px;
+  left: 253px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143855 {
+  height: 298px;
+  left: 333px;
+  top: 407px;
+  width: 615px;
+}
+
+.chapter-5-1280-all-breakpoints .footer-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .entrada-de-capitulo-1 {
+  border-radius: 5px;
+  height: 249px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 951px;
+  width: 308px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo-47-1 {
+  border-radius: 5px;
+  height: 310px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 720px;
+  width: 326px;
+}
+
+.chapter-5-1280-all-breakpoints .backcasting-1 {
+  height: 68px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 888px;
+  width: 286px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-187-1 {
+  height: 196px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 686px;
+  width: 183px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-188-1 {
+  cursor: pointer;
+  height: 21px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 972px;
+  width: 105px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-8799-1 {
+  height: 120px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 727px;
+  width: 128px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo-148516 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143857 {
+  height: 47px;
+  left: 490px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-1280-all-breakpoints .spc-cps-logo_27_stars-white-1 {
+  height: 50px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143859 {
+  height: 45px;
+  left: 917px;
+  top: 630px;
+  width: 282px;
+}
+
+.chapter-5-1280-all-breakpoints .developing-and-testing-strategy-1 {
+  height: 335px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 1121px;
+}
+
+.chapter-5-1280-all-breakpoints .chapter-5-1 {
+  height: 78px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 319px;
+}
+
+.chapter-5-1280-all-breakpoints .menu-v-1 {
+  height: 81px;
+  left: 1199px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-1280-all-breakpoints .the-final-step-in-st-1 {
+  height: 114px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 1121px;
+}
+
+.chapter-5-1280-all-breakpoints .we-create-the-future-1 {
+  height: 41px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 399px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143854 {
+  cursor: pointer;
+  height: 162px;
+  left: 950px;
+  top: 862px;
+  width: 216px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143934 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1280px;
+}
+/* screen - chapter-5-1920 */
+
+.chapter-5-1920 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.chapter-5-1920 .overlap-group {
+  height: 1300px;
+  position: relative;
+  width: 2205px;
+}
+
+.chapter-5-1920 .retngulo-35 {
+  height: 1219px;
+  left: 0;
+  top: 81px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .grupo-8754 {
+  height: 407px;
+  left: 36px;
+  top: 117px;
+  width: 606px;
+}
+
+.chapter-5-1920 .grupo-de-mscara-4 {
+  height: 802px;
+  left: 900px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-5-1920 .the-final-step-in-st {
+  height: 219px;
+  left: 1294px;
+  object-fit: cover;
+  position: absolute;
+  top: 256px;
+  width: 558px;
+}
+
+.chapter-5-1920 .we-create-the-future {
+  height: 41px;
+  left: 1294px;
+  object-fit: cover;
+  position: absolute;
+  top: 191px;
+  width: 399px;
+}
+
+.chapter-5-1920 .retngulo-53 {
+  border-radius: 5px;
+  height: 284px;
+  left: 1262px;
+  top: 166px;
+  width: 658px;
+}
+
+.chapter-5-1920 .grupo-1062 {
+  cursor: pointer;
+  height: 162px;
+  left: 1375px;
+  top: 818px;
+  width: 216px;
+}
+
+.chapter-5-1920 .grupo-241 {
+  height: 298px;
+  left: 631px;
+  top: 320px;
+  width: 615px;
+}
+
+.chapter-5-1920 .footer {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .entrada-de-capitulo {
+  border-radius: 5px;
+  height: 249px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 308px;
+}
+
+.chapter-5-1920 .retngulo-47 {
+  border-radius: 5px;
+  height: 310px;
+  left: 138px;
+  top: 641px;
+  width: 326px;
+}
+
+.chapter-5-1920 .backcasting {
+  height: 68px;
+  left: 169px;
+  object-fit: cover;
+  position: absolute;
+  top: 809px;
+  width: 286px;
+}
+
+.chapter-5-1920 .grupo-187 {
+  height: 196px;
+  left: 104px;
+  top: 606px;
+  width: 183px;
+}
+
+.chapter-5-1920 .grupo-188 {
+  cursor: pointer;
+  height: 21px;
+  left: 169px;
+  top: 892px;
+  width: 105px;
+}
+
+.chapter-5-1920 .grupo-8799 {
+  height: 120px;
+  left: 140px;
+  top: 647px;
+  width: 128px;
+}
+
+.chapter-5-1920 .retngulo-80 {
+  height: 81px;
+  left: 0;
+  top: 0;
+  width: 1920px;
+}
+
+.chapter-5-1920 .grupo-788 {
+  height: 47px;
+  left: 821px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-1920 .menu-v {
+  height: 81px;
+  left: 1839px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-1920 .spc-cps-logo_27_stars-white {
+  height: 50px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-1920 .grupo-2222 {
+  height: 45px;
+  left: 1262px;
+  top: 476px;
+  width: 282px;
+}
+
+.chapter-5-1920 .developing-and-testing-strategy {
+  height: 335px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 1084px;
+}
+
+.chapter-5-1920 .chapter-5 {
+  height: 78px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 319px;
+}
+
+.chapter-5-1920 .grupo-143935 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .retngulo {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - chapter-5-375 */
+
+.chapter-5-375 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2001px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.chapter-5-375 .overlap-group-3 {
+  align-self: flex-start;
+  height: 1334px;
+  position: relative;
+  width: 652px;
+}
+
+.chapter-5-375 .retngulo-148521 {
+  height: 1253px;
+  top: 81px;
+}
+
+.chapter-5-375 .grupo-de-mscara-16 {
+  height: 401px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 933px;
+  width: 652px;
+}
+
+.chapter-5-375 .developing-and-testing-strategy-3 {
+  height: 485px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 274px;
+}
+
+.chapter-5-375 .retngulo-148492 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-375 .spc-cps-logo_27_stars-white-3 {
+  height: 50px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-375 .purpose-of-this-toolkit {
+  height: 14px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 812px;
+  width: 161px;
+}
+
+.chapter-5-375 .caminho-747-1 {
+  height: 36px;
+  left: 122px;
+  object-fit: cover;
+  position: absolute;
+  top: 812px;
+  width: 136px;
+}
+
+.chapter-5-375 .menu-1 {
+  height: 81px;
+  left: 294px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-375 .grupo-143932 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 375px;
+}
+
+.chapter-5-375 .chapter-5-3 {
+  height: 36px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 147px;
+}
+
+.chapter-5-375 .the-final-step-in-st-3 {
+  height: 239px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 277px;
+}
+
+.chapter-5-375 .we-create-the-future-3 {
+  height: 25px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 358px;
+  width: 251px;
+}
+
+.chapter-5-375 .entrada-de-capitulo-3 {
+  border-radius: 5px;
+  height: 225px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 1063px;
+  width: 278px;
+}
+
+.chapter-5-375 .retngulo-47-3 {
+  border-radius: 5px;
+  height: 310px;
+  left: 38px;
+  object-fit: cover;
+  position: absolute;
+  top: 809px;
+  width: 296px;
+}
+
+.chapter-5-375 .backcasting-3 {
+  height: 68px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 977px;
+  width: 238px;
+}
+
+.chapter-5-375 .grupo-187-3 {
+  height: 196px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 774px;
+  width: 183px;
+}
+
+.chapter-5-375 .grupo-188-3 {
+  cursor: pointer;
+  height: 21px;
+  left: 69px;
+  object-fit: cover;
+  position: absolute;
+  top: 1060px;
+  width: 105px;
+}
+
+.chapter-5-375 .grupo-8799-3 {
+  height: 120px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 815px;
+  width: 128px;
+}
+
+.chapter-5-375 .grupo-143896 {
+  height: 73px;
+  left: 257px;
+  object-fit: cover;
+  position: absolute;
+  top: 704px;
+  width: 67px;
+}
+
+.chapter-5-375 .grupo-143898 {
+  height: 34px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 726px;
+  width: 184px;
+}
+
+.chapter-5-375 .grupo-143903 {
+  height: 227px;
+  left: 23px;
+  object-fit: cover;
+  position: absolute;
+  top: 124px;
+  width: 338px;
+}
+
+.chapter-5-375 .grupo-143904 {
+  height: 346px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 361px;
+  width: 182px;
+}
+
+.chapter-5-375 .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 86px;
+  margin-left: 4.56px;
+  margin-top: 46px;
+  min-width: 294px;
+}
+
+.chapter-5-375 .grupo-143901 {
+  align-self: flex-end;
+  height: 78px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.chapter-5-375 .grupo-143902 {
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.chapter-5-375 .participa-container {
+  height: 422px;
+  margin-left: 1.29px;
+  margin-top: 24px;
+  position: relative;
+  width: 277px;
+}
+
+.chapter-5-375 .learning-about-strat {
+  height: 375px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 271px;
+}
+
+.chapter-5-375 .spc-staff-member-and {
+  height: 60px;
+  left: 4px;
+  object-fit: cover;
+  position: absolute;
+  top: 362px;
+  width: 273px;
+}
+
+.chapter-5-375 .footer-3 {
+  height: 61px;
+  margin-top: 28px;
+  object-fit: cover;
+  width: 375px;
+}
+
+.chapter-5-375 .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+/* screen - chapter-5-768 */
+
+.chapter-5-768 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 768px;
+}
+
+.chapter-5-768 .overlap-group-2 {
+  height: 1671px;
+  position: relative;
+  width: 1305px;
+}
+
+.chapter-5-768 .retngulo-148517 {
+  height: 1588px;
+  top: 83px;
+}
+
+.chapter-5-768 .grupo-de-mscara-15 {
+  height: 802px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 869px;
+  width: 1305px;
+}
+
+.chapter-5-768 .retngulo-148486 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-768 .grupo-143707 {
+  height: 47px;
+  left: 234px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-768 .spc-cps-logo_27_stars-white-2 {
+  height: 50px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-768 .menu {
+  height: 81px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-768 .caminho-747 {
+  height: 60px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 1425px;
+  width: 226px;
+}
+
+.chapter-5-768 .grupo-143860 {
+  height: 407px;
+  left: 36px;
+  top: 119px;
+  width: 606px;
+}
+
+.chapter-5-768 .grupo-143888 {
+  height: 621px;
+  left: 275px;
+  top: 544px;
+  width: 326px;
+}
+
+.chapter-5-768 .developing-and-testing-strategy-2 {
+  height: 485px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 611px;
+}
+
+.chapter-5-768 .chapter-5-2 {
+  height: 78px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 319px;
+}
+
+.chapter-5-768 .the-final-step-in-st-2 {
+  height: 219px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 658px;
+  width: 611px;
+}
+
+.chapter-5-768 .we-create-the-future-2 {
+  height: 42px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 599px;
+  width: 410px;
+}
+
+.chapter-5-768 .grupo-143890 {
+  height: 45px;
+  left: 405px;
+  top: 899px;
+  width: 282px;
+}
+
+.chapter-5-768 .footer-2 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1610px;
+  width: 768px;
+}
+
+.chapter-5-768 .entrada-de-capitulo-2 {
+  border-radius: 5px;
+  height: 225px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 1332px;
+  width: 278px;
+}
+
+.chapter-5-768 .retngulo-47-2 {
+  border-radius: 5px;
+  height: 310px;
+  left: 71px;
+  object-fit: cover;
+  position: absolute;
+  top: 1078px;
+  width: 296px;
+}
+
+.chapter-5-768 .backcasting-2 {
+  height: 68px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 1246px;
+  width: 238px;
+}
+
+.chapter-5-768 .grupo-187-2 {
+  height: 196px;
+  left: 36px;
+  object-fit: cover;
+  position: absolute;
+  top: 1043px;
+  width: 183px;
+}
+
+.chapter-5-768 .grupo-188-2 {
+  cursor: pointer;
+  height: 21px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 1329px;
+  width: 105px;
+}
+
+.chapter-5-768 .grupo-8799-2 {
+  height: 120px;
+  left: 73px;
+  object-fit: cover;
+  position: absolute;
+  top: 1084px;
+  width: 128px;
+}
+
+.chapter-5-768 .grupo-143893 {
+  cursor: pointer;
+  height: 162px;
+  left: 438px;
+  top: 1224px;
+  width: 216px;
+}
+
+.chapter-5-768 .grupo-143933 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 768px;
+}
+
+.chapter-5-768 .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 768px;
+}
+@media screen and (max-width: 767px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}

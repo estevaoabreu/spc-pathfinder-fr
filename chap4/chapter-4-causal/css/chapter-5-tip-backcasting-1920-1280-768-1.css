@@ -1,0 +1,69 @@
+/* screen - chapter-5-tip-backcasting-1920-1280-768-1 */
+
+.chapter-5-tip-backcasting-1920-1280-768-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 484px;
+  width: 509px;
+}
+
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-container {
+  height: 474px;
+  margin-top: 0;
+  position: relative;
+  width: 484px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-2867 {
+  height: 433px;
+  left: 41px;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 423px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-2868 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768-1 .grupo-2869 {
+  height: 100px;
+  left: 377px;
+  object-fit: cover;
+  position: absolute;
+  top: 374px;
+  width: 107px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top:650px;
+  left: 130px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top:350px;
+  left: 400px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768-1 {
+  top: 100px;
+  left: 280px;
+}
+}

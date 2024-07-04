@@ -1,0 +1,111 @@
+/* screen - chapter-5-tip-backcasting-1920-1280-768 */
+
+.chapter-5-tip-backcasting-1920-1280-768 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 484px;
+  width: 509px;
+}
+
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 5;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768 .grupo-container {
+  height: 286px;
+  margin-top: 0;
+  position: relative;
+  width: 482px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768 .grupo-2867 {
+  height: 276px;
+  left: 43px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 423px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768 .grupo-2868 {
+  height: 100px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.chapter-5-tip-backcasting-1920-1280-768 .grupo-2869 {
+  height: 100px;
+  left: 375px;
+  object-fit: cover;
+  position: absolute;
+  top: 155px;
+  width: 107px;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 258px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 416px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link3 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 550px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+
+.link4 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 620px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top:650px;
+  left: 130px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top:350px;
+  left: 400px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-chapter-5-tip-backcasting-1920-1280-768 {
+  top: 100px;
+  left: 280px;
+}
+}

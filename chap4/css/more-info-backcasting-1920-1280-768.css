@@ -1,0 +1,96 @@
+/* screen - more-info-backcasting-1920-1280-768 */
+
+.more-info-backcasting-1920-1280-768 {
+  align-items: flex-start;
+  position: relative;
+  display: flex;
+  height: 770px;
+  padding: 0 10px;
+  width: 668px;
+}
+
+#overlay-more-info-backcasting-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.more-info-backcasting-1920-1280-768 .overlap-group {
+  height: 753px;
+  margin-top: -0.28px;
+  position: relative;
+  width: 645px;
+}
+
+.more-info-backcasting-1920-1280-768 .retngulo-105 {
+  border-radius: 5px;
+  height: 725px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 645px;
+}
+
+.more-info-backcasting-1920-1280-768 .save-the-children-20 {
+  height: 504px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 546px;
+}
+
+.more-info-backcasting-1920-1280-768 .grupo-100888 {
+  cursor: pointer;
+  position: absolute;
+  height: 57px;
+  left: 300px;
+  top: 0;
+  width: auto;
+}
+
+.more-info-backcasting-1920-1280-768 .more-information {
+  height: 53px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 351px;
+}
+
+.more-info-backcasting-1920-1280-768 .grupo-1010 {
+  height: 94px;
+  left: 102px;
+  top: 64px;
+  width: 34px;
+}
+
+.more-info-backcasting-1920-1280-768 .grupo-1011 {
+  height: 94px;
+  left: 508px;
+  top: 64px;
+  width: 34px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-more-info-backcasting-1920-1280-768 {
+  top:650px;
+  left: 0px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-more-info-backcasting-1920-1280-768 {
+  top:850px;
+  left: 310px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-more-info-backcasting-1920-1280-768 {
+  top: 500px;
+  left: 600px;
+}
+}
+

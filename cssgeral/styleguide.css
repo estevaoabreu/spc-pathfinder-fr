@@ -1,0 +1,208 @@
+:root { 
+  --azure: #3160ad;
+  --ceramic: #fcfcfa;
+  --crusta: #f78428;
+  --curious-blue: #3a9cd5;
+  --curious-blue-2: #2e92cc;
+  --emerald: #57c16f;
+  --fern: #4db765;
+  --green-blue: #1860b3;
+  --green-blue-2: #1860b3f2;
+  --mahogany: #d84750;
+  --mandy: #e7545e;
+  --neon-carrot: #ff9540;
+  --razzmic-berry: #825291;
+  --trendy-pink: #9161a0;
+  --white: #ffffff;
+ 
+  --font-size-l: 18px;
+  --font-size-m: 14px;
+  --font-size-s: 13px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 21px;
+  --font-size-xxxl: 24px;
+  --font-size-xxxxl: 30px;
+ 
+  --font-family-gaegu: "Gaegu", Helvetica;
+  --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
+  --font-family-helveticaneue-light: "HelveticaNeue-Light", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.gaegu-bold-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-bold-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+}
+
+.roboto-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+}
+
+.roboto-bold-ceramic-14px {
+  color: var(--ceramic);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-bold-white-20px-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-light-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-bold-white-14px-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-light-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-white-18px-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+}
+
+.roboto-medium-green-blue-45px {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.gaegu-normal-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.helveticaneue-light-green-blue-30px {
+  color: var(--green-blue);
+  font-family: var(--font-family-helveticaneue-light);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-bold-green-blue-39px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: 39px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-light-white-13px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.corpo_todooo {
+  z-index: -1;
+}
+
+html {
+  width:100vw;
+overflow-x: hidden;
+}

@@ -1,0 +1,789 @@
+/* screen - chapter-5-1280-all-breakpoints */
+
+.chapter-5-1280-all-breakpoints {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .overlap-group-1 {
+  height: 1300px;
+  position: relative;
+  width: 1558px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo-148513 {
+  height: 1219px;
+  top: 81px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-de-mscara-14 {
+  height: 802px;
+  left: 253px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143855 {
+  height: 298px;
+  left: 333px;
+  top: 407px;
+  width: 615px;
+}
+
+.chapter-5-1280-all-breakpoints .footer-1 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo-148516 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143857 {
+  height: 47px;
+  left: 490px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-1280-all-breakpoints .spc-cps-logo_27_stars-white-1 {
+  height: 50px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143859 {
+  height: 45px;
+  left: 917px;
+  top: 630px;
+  width: 282px;
+}
+
+.chapter-5-1280-all-breakpoints .creating-alternatives-1 {
+  height: 335px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 1121px;
+}
+
+.chapter-5-1280-all-breakpoints .chapter-4-1 {
+  height: 78px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 150px;
+  width: 324px;
+}
+
+.chapter-5-1280-all-breakpoints .menu-v-1 {
+  height: 81px;
+  left: 1199px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-1280-all-breakpoints .strategic-foresight-1 {
+  height: 114px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 516px;
+  width: 786px;
+}
+
+.chapter-5-1280-all-breakpoints .we-prepare-for-more-than-one-future-1 {
+  height: 41px;
+  left: 78px;
+  object-fit: cover;
+  position: absolute;
+  top: 458px;
+  width: 707px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143854 {
+  cursor: pointer;
+  height: 162px;
+  left: 950px;
+  top: 862px;
+  width: 216px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-143934 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 1280px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-144185 {
+  height: 513px;
+  left: 369px;
+  top: 686px;
+  width: 360px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-5490-1 {
+  height: 440px;
+  left: 104px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 751px;
+}
+
+.chapter-5-1280-all-breakpoints .grupo-144186 {
+  cursor: pointer;
+  height: 514px;
+  left: 36px;
+  top: 686px;
+  width: 360px;
+}
+
+.chapter-5-1280-all-breakpoints .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 1280px;
+}
+/* screen - chapter-5-1920 */
+
+.chapter-5-1920 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.chapter-5-1920 .overlap-group {
+  height: 1300px;
+  position: relative;
+  width: 2205px;
+}
+
+.chapter-5-1920 .retngulo-35 {
+  height: 1219px;
+  left: 0;
+  top: 81px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .grupo-de-mscara-4 {
+  height: 802px;
+  left: 900px;
+  object-fit: cover;
+  position: absolute;
+  top: 498px;
+  width: 1305px;
+}
+
+.chapter-5-1920 .grupo-1062 {
+  cursor: pointer;
+  height: 162px;
+  left: 1375px;
+  top: 818px;
+  width: 216px;
+}
+
+.chapter-5-1920 .footer {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1239px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .retngulo-80 {
+  height: 81px;
+  left: 0;
+  top: 0;
+  width: 1920px;
+}
+
+.chapter-5-1920 .grupo-788 {
+  height: 47px;
+  left: 821px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-1920 .menu-v {
+  height: 81px;
+  left: 1839px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-1920 .spc-cps-logo_27_stars-white {
+  height: 50px;
+  left: 17px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-1920 .grupo-143935 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 1920px;
+}
+
+.chapter-5-1920 .grupo-1060 {
+  height: 513px;
+  left: 437px;
+  top: 606px;
+  width: 360px;
+}
+
+.chapter-5-1920 .grupo-1059 {
+  cursor: pointer;
+  height: 514px;
+  left: 104px;
+  top: 606px;
+  width: 360px;
+}
+
+.chapter-5-1920 .grupo-5490 {
+  height: 440px;
+  left: 104px;
+  top: 147px;
+  width: 751px;
+}
+
+.chapter-5-1920 .strategic-foresight {
+  height: 129px;
+  left: 1294px;
+  object-fit: cover;
+  position: absolute;
+  top: 287px;
+  width: 558px;
+}
+
+.chapter-5-1920 .we-prepare-for-more-than-one-future {
+  height: 110px;
+  left: 1294px;
+  object-fit: cover;
+  position: absolute;
+  top: 186px;
+  width: 490px;
+}
+
+.chapter-5-1920 .retngulo-53 {
+  border-radius: 5px;
+  height: 284px;
+  left: 1262px;
+  top: 166px;
+  width: 658px;
+}
+
+.chapter-5-1920 .grupo-241 {
+  height: 298px;
+  left: 631px;
+  top: 320px;
+  width: 615px;
+}
+
+.chapter-5-1920 .grupo-2222 {
+  height: 45px;
+  left: 1262px;
+  top: 476px;
+  width: 282px;
+}
+
+.chapter-5-1920 .creating-alternatives {
+  height: 335px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 205px;
+  width: 1084px;
+}
+
+.chapter-5-1920 .chapter-4 {
+  height: 78px;
+  left: 140px;
+  object-fit: cover;
+  position: absolute;
+  top: 147px;
+  width: 324px;
+}
+
+.chapter-5-1920 .retngulo {
+  object-fit: cover;
+  position: absolute;
+}
+/* screen - chapter-5-375 */
+
+.chapter-5-375 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 2501px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.chapter-5-375 .overlap-group-3 {
+  align-self: flex-end;
+  height: 1734px;
+  margin-right: -277.5px;
+  position: relative;
+  width: 708px;
+}
+
+.chapter-5-375 .retngulo-148521 {
+  height: 1653px;
+  top: 81px;
+}
+
+.chapter-5-375 .grupo-de-mscara-16 {
+  height: 401px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 1333px;
+  width: 652px;
+}
+
+.chapter-5-375 .creating-alternatives-3 {
+  height: 485px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 192px;
+  width: 274px;
+}
+
+.chapter-5-375 .retngulo-148492 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-375 .spc-cps-logo_27_stars-white-3 {
+  height: 50px;
+  left: 75px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-375 .purpose-of-this-toolkit {
+  height: 14px;
+  left: 164px;
+  object-fit: cover;
+  position: absolute;
+  top: 742px;
+  width: 161px;
+}
+
+.chapter-5-375 .menu-1 {
+  height: 81px;
+  left: 350px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-375 .grupo-143932 {
+  height: 5px;
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 375px;
+}
+
+.chapter-5-375 .chapter-4-3 {
+  height: 36px;
+  left: 105px;
+  object-fit: cover;
+  position: absolute;
+  top: 160px;
+  width: 150px;
+}
+
+.chapter-5-375 .strategic-foresight-3 {
+  height: 239px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 406px;
+  width: 277px;
+}
+
+.chapter-5-375 .we-prepare-for-more-than-one-future-3 {
+  height: 49px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 344px;
+  width: 250px;
+}
+
+.chapter-5-375 .grupo-143896 {
+  height: 73px;
+  left: 313px;
+  object-fit: cover;
+  position: absolute;
+  top: 634px;
+  width: 67px;
+}
+
+.chapter-5-375 .grupo-143898 {
+  height: 34px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 656px;
+  width: 184px;
+}
+
+.chapter-5-375 .grupo-143904 {
+  height: 346px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 291px;
+  width: 182px;
+}
+
+.chapter-5-375 .grupo-5490-3 {
+  height: 201px;
+  left: 68px;
+  object-fit: cover;
+  position: absolute;
+  top: 139px;
+  width: 344px;
+}
+
+.chapter-5-375 .caminho-62185 {
+  left: 306px;
+  top: 1057px;
+}
+
+.chapter-5-375 .grupo-144189 {
+  cursor: pointer;
+  height: 472px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 707px;
+  width: 332px;
+}
+
+.chapter-5-375 .caminho-62186 {
+  left: 0;
+  top: 1547px;
+}
+
+.chapter-5-375 .grupo-144190 {
+  height: 472px;
+  left: 63px;
+  object-fit: cover;
+  position: absolute;
+  top: 1197px;
+  width: 332px;
+}
+
+.chapter-5-375 .grupo-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 110px;
+  height: 86px;
+  margin-left: 4.56px;
+  margin-top: 56px;
+  min-width: 294px;
+}
+
+.chapter-5-375 .grupo-143901 {
+  align-self: flex-end;
+  height: 78px;
+  object-fit: cover;
+  width: 128px;
+}
+
+.chapter-5-375 .grupo-143902 {
+  height: 57px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.chapter-5-375 .i-found-that-the-act {
+  height: 430px;
+  margin-right: 3.4px;
+  margin-top: 24px;
+  object-fit: cover;
+  width: 270px;
+}
+
+.chapter-5-375 .dr-frances-k-vakauta {
+  height: 60px;
+  margin-left: 4.98px;
+  margin-top: 22px;
+  object-fit: cover;
+  width: 273px;
+}
+
+.chapter-5-375 .footer-3 {
+  height: 61px;
+  margin-top: 28px;
+  object-fit: cover;
+  width: 375px;
+}
+
+.chapter-5-375 .caminho {
+  height: 55px;
+  object-fit: cover;
+  position: absolute;
+  width: 208px;
+}
+
+.chapter-5-375 .retngulo {
+  left: 56px;
+  object-fit: cover;
+  position: absolute;
+  width: 375px;
+}
+/* screen - chapter-5-768 */
+
+.chapter-5-768 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 1609px;
+  overflow: hidden;
+  width: 768px;
+}
+
+.chapter-5-768 .overlap-group-2 {
+  height: 1611px;
+  position: relative;
+  width: 1305px;
+}
+
+.chapter-5-768 .retngulo-148517 {
+  height: 1528px;
+  top: 83px;
+}
+
+.chapter-5-768 .grupo-de-mscara-15 {
+  height: 802px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 809px;
+  width: 1305px;
+}
+
+.chapter-5-768 .retngulo-148486 {
+  height: 81px;
+  top: 0;
+}
+
+.chapter-5-768 .grupo-143707 {
+  height: 47px;
+  left: 234px;
+  top: 19px;
+  width: 302px;
+}
+
+.chapter-5-768 .spc-cps-logo_27_stars-white-2 {
+  height: 50px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 122px;
+}
+
+.chapter-5-768 .menu {
+  height: 81px;
+  left: 687px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 81px;
+}
+
+.chapter-5-768 .caminho-747 {
+  height: 60px;
+  left: 271px;
+  object-fit: cover;
+  position: absolute;
+  top: 1365px;
+  width: 226px;
+}
+
+.chapter-5-768 .grupo-143888 {
+  height: 621px;
+  left: 275px;
+  top: 394px;
+  width: 326px;
+}
+
+.chapter-5-768 .creating-alternatives-2 {
+  height: 485px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 207px;
+  width: 611px;
+}
+
+.chapter-5-768 .chapter-4-2 {
+  height: 78px;
+  left: 76px;
+  object-fit: cover;
+  position: absolute;
+  top: 149px;
+  width: 324px;
+}
+
+.chapter-5-768 .strategic-foresight-2 {
+  height: 129px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 598px;
+  width: 611px;
+}
+
+.chapter-5-768 .we-prepare-for-more-than-one-future-2 {
+  height: 82px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 500px;
+  width: 515px;
+}
+
+.chapter-5-768 .grupo-143890 {
+  height: 45px;
+  left: 80px;
+  top: 839px;
+  width: 282px;
+}
+
+.chapter-5-768 .footer-2 {
+  height: 61px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1550px;
+  width: 768px;
+}
+
+.chapter-5-768 .grupo-143893 {
+  cursor: pointer;
+  height: 162px;
+  left: 471px;
+  top: 802px;
+  width: 216px;
+}
+
+.chapter-5-768 .grupo-143933 {
+  height: 5px;
+  left: 0;
+  top: 80px;
+  width: 768px;
+}
+
+.chapter-5-768 .grupo-144187 {
+  height: 513px;
+  left: 340px;
+  top: 984px;
+  width: 360px;
+}
+
+.chapter-5-768 .grupo-5490-2 {
+  height: 365px;
+  left: 54px;
+  object-fit: cover;
+  position: absolute;
+  top: 121px;
+  width: 624px;
+}
+
+.chapter-5-768 .grupo-144188 {
+  cursor: pointer;
+  height: 514px;
+  left: 7px;
+  top: 984px;
+  width: 360px;
+}
+
+.chapter-5-768 .retngulo {
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  width: 768px;
+}
+@media screen and (max-width: 767px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .screen.chapter-5-1920 { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.chapter-5-1280-all-breakpoints { 
+    display: none;
+   }
+  .screen.chapter-5-768 { 
+    display: none;
+   }
+  .screen.chapter-5-375 { 
+    display: none;
+   }
+}

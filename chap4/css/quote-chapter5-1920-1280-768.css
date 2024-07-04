@@ -1,0 +1,122 @@
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .quote-chapter5-1920-1280-768 {
+    cursor: pointer;
+    display: flex;
+    min-height: 572px;
+    min-width: 660px;
+  }
+  
+  #overlay-quote-chapter5-1920-1280-768 {
+    align-items: center;
+    background-color: #ffffff00;
+    justify-content: center;
+    position: absolute;
+    z-index: 9;
+  }
+  
+  .quote-chapter5-1920-1280-768 .grupo-735 {
+    flex: 1;
+    margin-bottom: 33.4px;
+    margin-left: 22.8px;
+    margin-right: 22.8px;
+    margin-top: 29.4px;
+    width: 400px;
+    height: auto;
+  }
+  
+  .componente-40-2 {
+    position: absolute;
+    right: -150px;
+    top: 120px;
+    width: auto;
+    width: 50px;
+    height: auto;
+  }
+#overlay-quote-chapter5-1920-1280-768 {
+  top:700px;
+  left: 480px;
+  width: 200px;
+}
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .quote-chapter5-1920-1280-768 {
+    cursor: pointer;
+    display: flex;
+    min-height: 572px;
+    min-width: 660px;
+  }
+  
+  #overlay-quote-chapter5-1920-1280-768 {
+    align-items: center;
+    background-color: #ffffff00;
+    justify-content: center;
+    position: absolute;
+    z-index: 9;
+  }
+  
+  .quote-chapter5-1920-1280-768 .grupo-735 {
+    flex: 1;
+    margin-bottom: 33.4px;
+    margin-left: 22.8px;
+    margin-right: 22.8px;
+    margin-top: 29.4px;
+    width: 600px;
+    height: auto;
+  }
+  
+  .componente-40-2 {
+    position: absolute;
+    right: -100px;
+    top: 110px;
+    width: auto;
+    width: 50px;
+    height: auto;
+  }
+#overlay-quote-chapter5-1920-1280-768 {
+  top:650px;
+  left: 800px;
+  width: 300px;
+}
+}
+
+@media screen and (min-width: 1920px) {
+  .quote-chapter5-1920-1280-768 {
+    cursor: pointer;
+    display: flex;
+    min-height: 572px;
+    min-width: 660px;
+  }
+  
+  #overlay-quote-chapter5-1920-1280-768 {
+    align-items: center;
+    background-color: #ffffff00;
+    justify-content: center;
+    position: absolute;
+    z-index: 9;
+  }
+  
+  .quote-chapter5-1920-1280-768 .grupo-735 {
+    flex: 1;
+    margin-bottom: 33.4px;
+    margin-left: 22.8px;
+    margin-right: 22.8px;
+    margin-top: 29.4px;
+    width: 800px;
+    height: auto;
+  }
+  
+  .componente-40-2 {
+    position: absolute;
+    right: 170px;
+    top: 150px;
+    width: auto;
+    width: 60px;
+    height: auto;
+  }
+#overlay-quote-chapter5-1920-1280-768 {
+  top: 550px;
+  left: 950px;
+  width: 1000px;
+}
+}

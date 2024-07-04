@@ -1,0 +1,82 @@
+:root { 
+  --charade: #2b2e34;
+  --curious-blue: #3a9cd5;
+  --green-blue: #1860b3;
+  --white: #ffffff;
+ 
+  --font-size-l: 7px;
+  --font-size-m: 5px;
+  --font-size-s: 4px;
+  --font-size-xl: 8px;
+  --font-size-xs: 1px;
+  --font-size-xxl: 16px;
+  --font-size-xxxl: 47px;
+ 
+  --font-family-gaegu: "Gaegu", Helvetica;
+  --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
+  --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
+  --font-family-myriadpro-semibold: "MyriadPro-Semibold", Helvetica;
+}
+.myriadpro-light-charade-5px {
+  color: var(--charade);
+  font-family: var(--font-family-myriadpro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-normal-green-blue-4px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gaegu-bold-green-blue-4px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-green-blue-7px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-curious-blue-7px {
+  color: var(--curious-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.myriadpro-semi-bold-green-blue-4px {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gaegu-bold-green-blue-5px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-white-8px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}

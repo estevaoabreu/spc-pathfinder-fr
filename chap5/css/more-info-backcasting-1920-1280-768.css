@@ -1,0 +1,80 @@
+/* screen - more-info-backcasting-1920-1280-768 */
+
+.more-info-backcasting-1920-1280-768 {
+  align-items: flex-start;
+  display: flex;
+  height: 622px;
+  padding: 0 10px;
+  width: 668px;
+  position: relative;
+}
+
+#overlay-more-info-backcasting-1920-1280-768 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.more-info-backcasting-1920-1280-768 .componente-39-1 {
+  height: 604px;
+  margin-top: -0.28px;
+  object-fit: cover;
+  width: 645px;
+}
+
+.componente-40-2 {
+  position: absolute;
+  right: 45%;
+  cursor: pointer;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 254px;
+  width: 95%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 416px;
+  width: 95%;
+  height: auto;
+  z-index: 70;
+}
+
+.link3 {
+  cursor: pointer;
+  position: absolute;
+  right: 10px;
+  top: 478px;
+  width: 95%;
+  height: auto;
+  z-index: 70;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  #overlay-more-info-backcasting-1920-1280-768 {
+    top:650px;
+    left: 150px;
+  }
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  #overlay-more-info-backcasting-1920-1280-768 {
+    top:800px;
+    right: 0px;
+  }
+}
+@media screen and (min-width: 1920px) {
+  #overlay-more-info-backcasting-1920-1280-768 {
+    top:750px;
+    right: 50px;
+  }
+}

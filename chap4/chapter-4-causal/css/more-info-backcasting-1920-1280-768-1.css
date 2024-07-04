@@ -1,0 +1,135 @@
+/* screen - more-info-backcasting-1920-1280-768-1 */
+
+.more-info-backcasting-1920-1280-768-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 770px;
+  padding: 0 10px;
+  width: 668px;
+  position: relative;
+}
+
+#overlay-more-info-backcasting-1920-1280-768-1 {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.more-info-backcasting-1920-1280-768-1 .overlap-group {
+  height: 753px;
+  margin-top: -0.28px;
+  position: relative;
+  width: 645px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .retngulo-105 {
+  border-radius: 5px;
+  height: 725px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 28px;
+  width: 645px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .save-the-children-20 {
+  height: 504px;
+  left: 37px;
+  object-fit: cover;
+  position: absolute;
+  top: 198px;
+  width: 546px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .grupo-100888 {
+  cursor: pointer;
+  height: 57px;
+  left: 294px;
+  top: 0;
+  width: 57px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .more-information {
+  height: 53px;
+  left: 147px;
+  object-fit: cover;
+  position: absolute;
+  top: 81px;
+  width: 351px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .grupo-1010 {
+  height: 94px;
+  left: 102px;
+  top: 64px;
+  width: 34px;
+}
+
+.more-info-backcasting-1920-1280-768-1 .grupo-1011 {
+  height: 94px;
+  left: 508px;
+  top: 64px;
+  width: 34px;
+}
+
+.link1 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 258px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link2 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 416px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+.link3 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 545px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+
+.link4 {
+  cursor: pointer;
+  position: absolute;
+  right: 70px;
+  top: 617px;
+  width: 80%;
+  height: auto;
+  z-index: 70;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+#overlay-more-info-backcasting-1920-1280-768-1 {
+  top:700px;
+  left: -20px;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+#overlay-more-info-backcasting-1920-1280-768-1 {
+  top: 700px;
+  left: 300px;
+}
+}
+@media screen and (min-width: 1920px) {
+#overlay-more-info-backcasting-1920-1280-768-1 {
+  top: 600px;
+  left: 610px;
+}
+}

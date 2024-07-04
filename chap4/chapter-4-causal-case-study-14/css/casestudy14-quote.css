@@ -1,0 +1,71 @@
+/* screen - casestudy14-quote */
+
+.casestudy14-quote {
+  cursor: pointer;
+  display: flex;
+  min-height: 654px;
+  min-width: 741px;
+}
+
+#overlay-casestudy14-quote {
+  align-items: center;
+  background-color: #ffffff00;
+  justify-content: center;
+  position: absolute;
+  z-index: 9;
+}
+
+.casestudy14-quote .grupo-731 {
+  flex: 1;
+  margin-bottom: 29.8px;
+  margin-right: 16.7px;
+  margin-top: 24.0px;
+  object-fit: cover;
+  width: 724.32px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+
+  .componente-40-2 {
+    position: absolute;
+    right: -250px;
+    top: 120px;
+    width: auto;
+  }
+#overlay-casestudy14-quote {
+  top:400px;
+  left: 480px;
+  width: 100px;
+  height: auto;
+}
+}
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+
+  .componente-40-2 {
+    position: absolute;
+    right: -150px;
+    top: 120px;
+    width: auto;
+  }
+#overlay-casestudy14-quote {
+  top:250px;
+  left: 700px;
+  width: 300px;
+  height: auto;
+}
+}
+@media screen and (min-width: 1920px) {
+
+  .componente-40-2 {
+    position: absolute;
+    right: 200px;
+    top: 120px;
+    width: auto;
+  }
+#overlay-casestudy14-quote {
+  top: 400px;
+  left: 950px;
+  width: 1000px;
+  height: auto;
+}
+}

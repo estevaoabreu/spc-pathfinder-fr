@@ -1,0 +1,2035 @@
+/* screen - 1280-menu */
+
+.x1280-menu {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 720px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.topinho{
+  position: absolute;
+  top:0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  height: 100vh;
+  background-color: white;
+  padding-left: 18px;
+}
+
+.x1280-menu .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.5px;
+  margin-top: -4px;
+  min-height: 532px;
+  width: 1281px;
+}
+
+.x1280-menu .overlap-group15 {
+  height: 62px;
+  position: relative;
+  width: 1281px;
+}
+
+.x1280-menu .retngulo-148503 {
+  background-color: var(--green-blue-2);
+  height: 53px;
+  left: 0;
+  position: absolute;
+  width: 1278px;
+  top: 0;
+}
+
+.x1280-menu .overlap-group {
+  height: 31px;
+  left: 549px;
+  position: absolute;
+  top: 14px;
+  width: 197px;
+}
+
+.x1280-menu .the-pacific-pathfinder {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.x1280-menu .a-toolkit-to-imagine {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: 11px;
+  font-weight: 400;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: 9px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+}
+
+.x1280-menu .grupo-12 {
+  display: flex;
+  height: 1px;
+  left: 77px;
+  position: absolute;
+  top: 14px;
+  transform: rotate(-90deg);
+  width: 28px;
+}
+
+.x1280-menu .grupo-11 {
+  display: flex;
+  flex: 1;
+  width: 27.9px;
+}
+
+.x1280-menu .grupo-10 {
+  display: flex;
+  flex: 1;
+  margin-bottom: 0;
+  margin-top: 0;
+  width: 27.9px;
+}
+
+.x1280-menu .caminho-73 {
+  flex: 1;
+  margin-bottom: -13.6px;
+  margin-left: 13.6px;
+  margin-right: 13.6px;
+  margin-top: -13.6px;
+  object-fit: cover;
+  transform: rotate(90deg);
+  width: 1px;
+}
+
+.x1280-menu .componente-5-2 {
+  align-items: flex-end;
+  cursor: pointer;
+  display: flex;
+  height: 62px;
+  justify-content: flex-end;
+  left: 1220px;
+  min-width: 62px;
+  position: absolute;
+  top: 0;
+}
+
+.x1280-menu .overlap-group1 {
+  height: 64px;
+  margin-bottom: -6.91px;
+  position: relative;
+  width: 64px;
+}
+
+.x1280-menu .retngulo-81 {
+  background-color: var(--green-blue);
+  height: 53px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 57px;
+}
+
+.x1280-menu .text-2 {
+  color: var(--white);
+  font-family: var(--font-family-gaegulight-regular);
+  font-size: 54px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 4px;
+  transform: rotate(45.00deg);
+  white-space: nowrap;
+}
+
+.x1280-menu .spc-cps-logo_27_stars-white {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  left: 12px;
+  min-width: 80px;
+  position: absolute;
+  top: 16px;
+}
+
+.x1280-menu .overlap-group5 {
+  height: 32px;
+  position: relative;
+  width: 80px;
+}
+
+.x1280-menu .texte_noir {
+  align-items: flex-start;
+  display: flex;
+  gap: 6px;
+  height: 32px;
+  left: 0;
+  min-width: 80px;
+  position: absolute;
+  top: 0;
+}
+
+.x1280-menu .overlap-group3 {
+  height: 31px;
+  position: relative;
+  width: 31px;
+}
+
+.x1280-menu .grupo-2 {
+  display: flex;
+  height: 2px;
+  left: 12px;
+  position: absolute;
+  top: 29px;
+  width: 3px;
+}
+
+.x1280-menu .grupo-1 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  min-width: 2.78px;
+}
+
+.x1280-menu .caminho-container {
+  height: 2px;
+  margin-bottom: 0;
+  position: relative;
+  width: 3px;
+}
+
+.x1280-menu .caminho-1-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.x1280-menu .caminho-2-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.x1280-menu .caminho-3-1 {
+  height: 2px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1280-menu .grupo-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 30px;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.x1280-menu .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 2.59px;
+  min-width: 26px;
+}
+
+.x1280-menu .caminho-container-1 {
+  align-self: flex-end;
+  height: 6px;
+  margin-bottom: 0.1px;
+  position: relative;
+  width: 6px;
+}
+
+.x1280-menu .caminho-17 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.x1280-menu .caminho {
+  height: 2px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 2px;
+  width: 2px;
+}
+
+.x1280-menu .caminho-19 {
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1280-menu .caminho-20 {
+  height: 2px;
+  margin-top: 1.45px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-21 {
+  height: 2px;
+  margin-top: 0.47px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-28 {
+  height: 2px;
+  margin-left: 1px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-4 {
+  height: 2px;
+  margin-left: 1px;
+  margin-top: 0.03px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-5 {
+  height: 2px;
+  margin-left: 1px;
+  margin-top: 0.61px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-6 {
+  height: 2px;
+  margin-top: 1.64px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-container-2 {
+  align-self: flex-end;
+  height: 6px;
+  position: relative;
+  width: 5px;
+}
+
+.x1280-menu .caminho-1 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 2px;
+}
+
+.x1280-menu .caminho-2 {
+  height: 2px;
+  left: 3px;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 2px;
+}
+
+.x1280-menu .caminho-container-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 24px;
+  margin-left: 1.21px;
+  min-width: 29px;
+}
+
+.x1280-menu .caminho-1-1 {
+  align-self: flex-end;
+  height: 2px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-3 {
+  height: 2px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-container-4 {
+  align-items: flex-start;
+  display: flex;
+  gap: 26px;
+  margin-left: 0.35px;
+  min-width: 30px;
+}
+
+.x1280-menu .caminho-container-5 {
+  align-items: flex-start;
+  display: flex;
+  gap: 27px;
+  min-width: 31px;
+}
+
+.x1280-menu .caminho-container-6 {
+  align-items: flex-start;
+  display: flex;
+  gap: 27px;
+  margin-left: 0.16px;
+  min-width: 31px;
+}
+
+.x1280-menu .caminho-12 {
+  height: 2px;
+  margin-left: 0.78px;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .grupo-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 9px;
+  margin-left: 1.87px;
+  min-width: 10px;
+}
+
+.x1280-menu .caminho-container-7 {
+  height: 7px;
+  margin-top: 0;
+  position: relative;
+  width: 7px;
+}
+
+.x1280-menu .caminho-26 {
+  height: 2px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}
+
+.x1280-menu .caminho-27 {
+  align-self: flex-end;
+  height: 2px;
+  margin-bottom: 0;
+  object-fit: cover;
+  width: 2px;
+}
+
+.x1280-menu .caminho-30 {
+  height: 9px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 22px;
+  width: 13px;
+}
+
+.x1280-menu .flex-col-1 {
+  align-items: flex-start;
+  align-self: flex-end;
+  gap: 1px;
+  min-height: 32px;
+  width: 43px;
+}
+
+.x1280-menu .grupo-6 {
+  background-image: url(../img/grupo-5-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 15px;
+  margin-left: 0.09px;
+  width: 37px;
+}
+
+.x1280-menu .retngulo-1 {
+  background-color: var(--white);
+  height: 1px;
+  width: 43px;
+}
+
+.x1280-menu .grupo-8 {
+  background-image: url(../img/grupo-7-6@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 14px;
+  margin-left: 0.05px;
+  width: 43px;
+}
+
+.x1280-menu .caminho-container-8 {
+  height: 3px;
+  left: 4px;
+  position: absolute;
+  top: 19px;
+  width: 26px;
+}
+
+.x1280-menu .caminho-68 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.x1280-menu .caminho-69 {
+  height: 2px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 20px;
+}
+
+.x1280-menu .cocotier {
+  display: flex;
+  height: 15px;
+  left: 3px;
+  position: absolute;
+  top: 5px;
+  width: 25px;
+}
+
+.x1280-menu .grupo-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  min-width: 24.94px;
+}
+
+.x1280-menu .caminho-container-9 {
+  height: 15px;
+  margin-top: 0;
+  position: relative;
+  width: 25px;
+}
+
+.x1280-menu .caminho-70 {
+  height: 1px;
+  left: 8px;
+  object-fit: cover;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.x1280-menu .caminho-71 {
+  height: 1px;
+  left: 6px;
+  object-fit: cover;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x1280-menu .caminho-72 {
+  height: 15px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+
+.x1280-menu .linha-4 {
+  height: 5px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 253px;
+}
+
+.x1280-menu .linha-5 {
+  height: 5px;
+  left: 252px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 257px;
+}
+
+.x1280-menu .linha-6 {
+  height: 5px;
+  left: 509px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 257px;
+}
+
+.x1280-menu .linha-7 {
+  height: 5px;
+  left: 766px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 257px;
+}
+
+.x1280-menu .linha-8 {
+  height: 5px;
+  left: 1023px;
+  object-fit: cover;
+  position: absolute;
+  top: 53px;
+  width: 258px;
+}
+
+.x1280-menu .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 146px;
+  margin-left: 18.36px;
+  margin-top: 14px;
+  min-width: 1088px;
+}
+
+.x1280-menu .overlap-group14 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 67px;
+  width: 201px;
+}
+
+.x1280-menu .foreword {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 18.71px;
+  margin-top: 9px;
+  min-height: 17px;
+  min-width: 71px;
+  white-space: nowrap;
+}
+
+.x1280-menu .overlap-group21 {
+  height: 35px;
+  margin-left: 0.65px;
+  position: relative;
+  width: 201px;
+}
+
+.x1280-menu .grupo-143810 {
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  left: 126px;
+  position: absolute;
+  top: 13px;
+  width: 68px;
+}
+
+.x1280-menu .explore {
+  letter-spacing: 0;
+  line-height: 13px;
+  margin-bottom: -2px;
+  white-space: nowrap;
+  width: 48px;
+}
+
+.x1280-menu .grupo-39 {
+  display: flex;
+  margin-bottom: 0;
+  margin-top: 0.7px;
+  width: 15.15px;
+}
+
+.x1280-menu .grupo-38 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+  width: 15.15px;
+}
+
+.x1280-menu .grupo-container {
+  height: 12px;
+  margin-top: 0;
+  position: relative;
+  width: 15px;
+}
+
+.x1280-menu .grupo-18 {
+  background-image: url(../img/caminho-174-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  left: 0;
+  position: absolute;
+  top: 4px;
+  width: 7px;
+}
+
+.x1280-menu .grupo-19 {
+  background-image: url(../img/caminho-175-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 11px;
+  left: 6px;
+  position: absolute;
+  top: 2px;
+  width: 8px;
+}
+
+.x1280-menu .grupo-20 {
+  background-image: url(../img/caminho-176-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 2px;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-21 {
+  background-image: url(../img/caminho-177-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-22 {
+  background-image: url(../img/caminho-178-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-23 {
+  background-image: url(../img/caminho-179-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-24 {
+  background-image: url(../img/caminho-180-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  left: 6px;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+
+.x1280-menu .grupo-25 {
+  background-image: url(../img/caminho-181-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.x1280-menu .grupo-26 {
+  background-image: url(../img/caminho-182-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 3px;
+  width: 2px;
+}
+
+.x1280-menu .grupo-27 {
+  background-image: url(../img/caminho-183-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-28 {
+  background-image: url(../img/caminho-184-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 4px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-29 {
+  background-image: url(../img/caminho-185-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 1px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-30 {
+  background-image: url(../img/caminho-186-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 8px;
+  position: absolute;
+  top: 2px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-31 {
+  background-image: url(../img/caminho-187-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 10px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-32 {
+  background-image: url(../img/caminho-188-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 3px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-33 {
+  background-image: url(../img/caminho-189-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-34 {
+  background-image: url(../img/caminho-190-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 12px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-35 {
+  background-image: url(../img/caminho-191-18@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-36 {
+  background-image: url(../img/caminho-192-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x1280-menu .grupo-37 {
+  background-image: url(../img/caminho-193-33@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 6px;
+  width: 1px;
+}
+
+.x1280-menu .linha-container-1 {
+  height: 35px;
+  top: 0;
+  width: 201px;
+}
+
+.x1280-menu .linha {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 201px;
+}
+
+.x1280-menu .linha-1 {
+  height: 33px;
+  left: 103px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.x1280-menu .download-1 {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-1 {
+  height: 14px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 11px;
+}
+
+.x1280-menu .flex-col-2 {
+  align-items: flex-start;
+  gap: 17px;
+  margin-left: 25px;
+  min-height: 146px;
+  width: 473px;
+}
+
+.x1280-menu .flex-row-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  min-width: 313px;
+}
+
+.x1280-menu .grupo-143806 {
+  align-self: flex-end;
+  display: flex;
+  height: 61px;
+  width: 22px;
+}
+
+.x1280-menu .grupo-107 {
+  align-items: flex-end;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  overflow: hidden;
+  width: 22.37px;
+}
+
+.x1280-menu .grupo-105 {
+  background-image: url(../img/caminho-233-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 7px;
+  margin-right: 0.24px;
+  width: 4px;
+}
+
+.x1280-menu .grupo-103 {
+  background-image: url(../img/caminho-231-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 8px;
+  margin-right: 3.6px;
+  margin-top: 6px;
+  width: 9px;
+}
+
+.x1280-menu .grupo-102 {
+  background-image: url(../img/caminho-230-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 4px;
+  margin-right: 4.15px;
+  margin-top: 7px;
+  width: 18px;
+}
+
+.x1280-menu .grupo-104 {
+  background-image: url(../img/caminho-232-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  margin-right: 2.01px;
+  margin-top: 9px;
+  width: 9px;
+}
+
+.x1280-menu .grupo-106 {
+  background-image: url(../img/caminho-234-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 6px;
+  margin-right: 0;
+  margin-top: 9px;
+  width: 4px;
+}
+
+.x1280-menu .flex-col-3 {
+  align-items: center;
+  align-self: center;
+  gap: 3px;
+  margin-left: 12px;
+  margin-top: 5.53px;
+  min-height: 42px;
+  width: 242px;
+}
+
+.x1280-menu .title {
+  color: var(--green-blue);
+  font-family: var(--font-family-roboto);
+  font-size: 29px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  min-height: 36px;
+  min-width: 242px;
+  white-space: nowrap;
+}
+
+.x1280-menu .grupo-143803 {
+  background-image: url(../img/caminho-73-14@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 3px;
+  margin-left: 15.95px;
+  width: 194px;
+}
+
+.x1280-menu .grupo-143807 {
+  display: flex;
+  height: 61px;
+  margin-left: 13px;
+  transform: rotate(180deg);
+  width: 22px;
+}
+
+.x1280-menu .grupo-105-1 {
+  display: flex;
+  height: 7px;
+  margin-right: 0.24px;
+  width: 4px;
+}
+
+.x1280-menu .caminho-233 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 4.43px;
+}
+
+.x1280-menu .grupo-103-1 {
+  display: flex;
+  height: 8px;
+  margin-right: 3.6px;
+  margin-top: 6px;
+  width: 9px;
+}
+
+.x1280-menu .caminho-231 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 8.85px;
+}
+
+.x1280-menu .grupo-102-1 {
+  display: flex;
+  height: 4px;
+  margin-right: 4.15px;
+  margin-top: 7px;
+  width: 18px;
+}
+
+.x1280-menu .caminho-230 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 18.22px;
+}
+
+.x1280-menu .grupo-104-1 {
+  display: flex;
+  height: 6px;
+  margin-right: 2.01px;
+  margin-top: 9px;
+  width: 9px;
+}
+
+.x1280-menu .caminho-232 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 8.81px;
+}
+
+.x1280-menu .grupo-106-1 {
+  display: flex;
+  height: 6px;
+  margin-right: 0;
+  margin-top: 9px;
+  width: 4px;
+}
+
+.x1280-menu .caminho-234 {
+  flex: 1;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  object-fit: cover;
+  transform: rotate(-180deg);
+  width: 4.08px;
+}
+
+.x1280-menu .overlap-group17 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-height: 67px;
+  padding: 0 0.6px;
+  width: 420px;
+}
+
+.x1280-menu .introduction {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-left: 2.32px;
+  margin-top: 9px;
+  min-height: 17px;
+  min-width: 95px;
+  white-space: nowrap;
+}
+
+.x1280-menu .overlap-group23 {
+  height: 35px;
+  margin-right: 1.33px;
+  position: relative;
+  width: 417px;
+}
+
+.x1280-menu .grupo-143811 {
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  left: 292px;
+  position: absolute;
+  top: 13px;
+  width: 68px;
+}
+
+.x1280-menu .linha-container-2 {
+  height: 35px;
+  top: 0;
+  width: 417px;
+}
+
+.x1280-menu .linha-133 {
+  height: 2px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 417px;
+}
+
+.x1280-menu .linha-134 {
+  height: 33px;
+  left: 210px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.x1280-menu .download-2 {
+  left: 62px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-2 {
+  height: 14px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 11px;
+}
+
+.x1280-menu .grupo-143824 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 60px;
+  display: flex;
+  gap: 13px;
+  justify-content: flex-end;
+  margin-bottom: 11.45px;
+  margin-left: 205px;
+  min-width: 184px;
+  padding: 0.0px 0;
+}
+
+.x1280-menu .download-full-report {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 11px;
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-top: 0.58px;
+  min-width: 132px;
+  white-space: nowrap;
+}
+
+.x1280-menu .overlap-group12 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  border: 1px solid;
+  border-color: var(--azure);
+  border-radius: 14.67px;
+  display: flex;
+  height: 29px;
+  min-width: 29px;
+  padding: 4.2px 6.3px;
+}
+
+.x1280-menu .icon-ionic-md-download-3 {
+  height: 18px;
+  object-fit: cover;
+  width: 15px;
+}
+
+.x1280-menu .overlap-group13 {
+  height: 307px;
+  margin-right: 1.88px;
+  margin-top: 4px;
+  position: relative;
+  width: 1124px;
+}
+
+.x1280-menu .retngulo-148504 {
+  background-color: var(--emerald);
+  border-radius: 10px;
+  height: 280px;
+  left: 922px;
+  position: absolute;
+  top: 25px;
+  width: 201px;
+}
+
+.x1280-menu .chapter-5developing {
+  height: 66px;
+  left: 936px;
+  width: 172px;
+}
+
+.x1280-menu .grupo-143804 {
+  background-image: url(../img/grupo-13-46@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 890px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.x1280-menu .number {
+  color: var(--fern);
+  font-family: var(--font-family-roboto);
+  font-size: 98px;
+  font-weight: 700;
+  left: 1060px;
+  letter-spacing: 0;
+  line-height: 73px;
+  position: absolute;
+  top: 36px;
+  white-space: nowrap;
+}
+
+.x1280-menu .retngulo-148505 {
+  background-color: var(--curious-blue);
+  border-radius: 10px;
+  height: 280px;
+  left: 698px;
+  position: absolute;
+  top: 25px;
+  width: 201px;
+}
+
+.x1280-menu .chapter-4creating-alternatives {
+  height: 66px;
+  left: 712px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 129px;
+  width: 173px;
+}
+
+.x1280-menu .grupo-143805 {
+  background-image: url(../img/grupo-13-48@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 668px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.x1280-menu .number-1 {
+  color: var(--curious-blue-2);
+  left: 837px;
+  top: 36px;
+}
+
+.x1280-menu .entrada-de-capitulo {
+  height: 78px;
+  left: 698px;
+  object-fit: cover;
+  position: absolute;
+  top: 196px;
+  width: 201px;
+}
+
+.x1280-menu .entrada-de-capitulo-1 {
+  height: 78px;
+  left: 922px;
+  top: 196px;
+}
+
+.x1280-menu .retngulo-29 {
+  background-color: var(--trendy-pink);
+  border-radius: 10px;
+  height: 279px;
+  left: 474px;
+  position: absolute;
+  top: 25px;
+  width: 201px;
+}
+
+.x1280-menu .chapter-3describing-our-future {
+  height: 65px;
+  left: 489px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 129px;
+  width: 171px;
+}
+
+.x1280-menu .grupo-116 {
+  background-image: url(../img/grupo-13-50@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 446px;
+  position: absolute;
+  top: 2px;
+  width: 120px;
+}
+
+.x1280-menu .number-2 {
+  color: var(--razzmic-berry);
+  left: 619px;
+  top: 38px;
+}
+
+.x1280-menu .entrada-de-capitulo-2 {
+  height: 78px;
+  left: 474px;
+  top: 194px;
+}
+
+.x1280-menu .grupo-2225 {
+  height: 33px;
+  left: 475px;
+  position: absolute;
+  top: 272px;
+  width: 201px;
+}
+
+.x1280-menu .grupo-127 {
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  left: 121px;
+  position: absolute;
+  top: 11px;
+  width: 68px;
+}
+
+.x1280-menu .linha-container {
+  height: 34px;
+  left: 0;
+  position: absolute;
+  top: -1px;
+  width: 201px;
+}
+
+.x1280-menu .download {
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download {
+  height: 14px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 11px;
+}
+
+.x1280-menu .grupo-143808 {
+  height: 33px;
+  left: 698px;
+  position: absolute;
+  top: 274px;
+  width: 201px;
+}
+
+.x1280-menu .grupo-127-1 {
+  left: 1044px;
+  top: 285px;
+}
+
+.x1280-menu .linha-34 {
+  height: 2px;
+  left: 922px;
+  object-fit: cover;
+  position: absolute;
+  top: 273px;
+  width: 201px;
+}
+
+.x1280-menu .linha-35 {
+  height: 33px;
+  left: 1026px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 2px;
+}
+
+.x1280-menu .download-3 {
+  left: 933px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-4 {
+  height: 14px;
+  left: 1002px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 11px;
+}
+
+.x1280-menu .retngulo-148511 {
+  background-color: var(--neon-carrot);
+  border-radius: 10px;
+  height: 280px;
+  left: 254px;
+  position: absolute;
+  top: 25px;
+  width: 201px;
+}
+
+.x1280-menu .chapter-2exploring-dynamics-of-change {
+  height: 67px;
+  left: 268px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 129px;
+  width: 171px;
+}
+
+.x1280-menu .grupo-143815 {
+  background-image: url(../img/grupo-13-52@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 224px;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.x1280-menu .retngulo-148512 {
+  background-color: var(--mandy);
+  border-radius: 10px;
+  height: 279px;
+  left: 28px;
+  position: absolute;
+  top: 25px;
+  width: 201px;
+}
+
+.x1280-menu .chapter-1gathering {
+  height: 67px;
+  left: 43px;
+  width: 178px;
+}
+
+.x1280-menu .grupo-143816 {
+  background-image: url(../img/grupo-13-54@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}
+
+.x1280-menu .number-3 {
+  color: var(--mahogany);
+  left: 178px;
+  top: 36px;
+}
+
+.x1280-menu .entrada-de-capitulo-3 {
+  height: 77px;
+  left: 28px;
+  top: 196px;
+}
+
+.x1280-menu .entrada-de-capitulo-4 {
+  height: 78px;
+  left: 254px;
+  top: 196px;
+}
+
+.x1280-menu .number-4 {
+  color: var(--crusta);
+  left: 394px;
+  top: 36px;
+}
+
+.x1280-menu .grupo-143817 {
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  left: 155px;
+  position: absolute;
+  top: 285px;
+  width: 68px;
+}
+
+.x1280-menu .linha-135 {
+  height: 2px;
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 272px;
+  width: 201px;
+}
+
+.x1280-menu .linha-136 {
+  height: 33px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 2px;
+}
+
+.x1280-menu .download-4 {
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 285px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-5 {
+  height: 14px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 285px;
+  width: 11px;
+}
+
+.x1280-menu .grupo-143818 {
+  height: 33px;
+  left: 254px;
+  position: absolute;
+  top: 274px;
+  width: 201px;
+}
+
+.x1280-menu .overlap-group11 {
+  height: 66px;
+  left: 475px;
+  position: absolute;
+  top: 26px;
+  width: 65px;
+}
+
+.x1280-menu .caminho-2031 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 16px;
+}
+
+.x1280-menu .grupo-2263 {
+  background-image: url(../img/grupo-2262-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 66px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.x1280-menu .grupo-143820 {
+  background-image: url(../img/grupo-2258-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 69px;
+  left: 248px;
+  position: absolute;
+  top: 23px;
+  width: 70px;
+}
+
+.x1280-menu .grupo-143821 {
+  display: flex;
+  height: 30px;
+  left: 678px;
+  position: absolute;
+  top: 51px;
+  transform: rotate(-28.00deg);
+  width: 106px;
+}
+
+.x1280-menu .grupo-2265 {
+  flex: 1;
+  margin-bottom: -23.1px;
+  margin-left: -0.9px;
+  margin-right: -0.9px;
+  margin-top: -23.1px;
+  object-fit: cover;
+  transform: rotate(28.00deg);
+  width: 107.77px;
+}
+
+.x1280-menu .grupo-143822 {
+  background-image: url(../img/grupo-2274-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 81px;
+  left: 22px;
+  position: absolute;
+  top: 21px;
+  width: 84px;
+}
+
+.x1280-menu .grupo-143823 {
+  background-image: url(../img/grupo-2275-10@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 61px;
+  left: 909px;
+  position: absolute;
+  top: 28px;
+  width: 91px;
+}
+
+.x1280-menu .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 125px;
+  margin-right: 195.66px;
+  min-width: 873px;
+}
+
+.x1280-menu .overlap-group19 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 125px;
+  padding: 0.0px 0;
+  width: 201px;
+}
+
+.x1280-menu .annex-1secrets-toworkshop-success {
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-right: 7.8px;
+  margin-top: 10px;
+  width: 178px;
+}
+
+.x1280-menu .grupo-143812 {
+  height: 33px;
+  margin-left: 0.65px;
+  position: relative;
+  width: 201px;
+}
+
+.x1280-menu .overlap-group18 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-left: 25px;
+  min-height: 125px;
+  padding: 0.0px 0.3px;
+  width: 419px;
+}
+
+.x1280-menu .annex-2organisation {
+  margin-right: 5.91px;
+  margin-top: 10px;
+  width: 397px;
+}
+
+.x1280-menu .grupo-143814 {
+  height: 33px;
+  margin-left: 0;
+  position: relative;
+  width: 418px;
+}
+
+.x1280-menu .grupo-127-2 {
+  left: 289px;
+  top: 11px;
+}
+
+.x1280-menu .linha-container-3 {
+  height: 34px;
+  top: -1px;
+  width: 418px;
+}
+
+.x1280-menu .linha-34-1 {
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 418px;
+}
+
+.x1280-menu .linha-35-1 {
+  height: 33px;
+  left: 208px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 2px;
+}
+
+.x1280-menu .download-5 {
+  left: 66px;
+  letter-spacing: 0;
+  line-height: 13px;
+  position: absolute;
+  top: 11px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-6 {
+  height: 14px;
+  left: 135px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 11px;
+}
+
+.x1280-menu .overlap-group16 {
+  align-items: center;
+  background-color: var(--green-blue);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-left: 26px;
+  min-height: 125px;
+  padding: 8.2px 0;
+  width: 201px;
+}
+
+.x1280-menu .annex-3templates {
+  margin-right: 8.25px;
+  margin-top: 2px;
+  width: 178px;
+}
+
+.x1280-menu .grupo-143813 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-left: 0.67px;
+  min-height: 25px;
+  width: 201px;
+}
+
+.x1280-menu .linha-34-2 {
+  margin-top: -1px;
+  width: 201px;
+}
+
+.x1280-menu .download-container {
+  align-items: flex-start;
+  display: flex;
+  gap: 7px;
+  height: 15px;
+  margin-right: 11.43px;
+  min-width: 81px;
+}
+
+.x1280-menu .download-6 {
+  letter-spacing: 0;
+  line-height: 13px;
+  min-height: 15px;
+  min-width: 62px;
+  white-space: nowrap;
+}
+
+.x1280-menu .icon-ionic-md-download-7 {
+  height: 14px;
+  margin-top: 0.1px;
+  object-fit: cover;
+  width: 11px;
+}
+
+.x1280-menu .annex {
+  height: 80px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.x1280-menu .chapter {
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 129px;
+}
+
+.x1280-menu .entrada-de-capitulo-5 {
+  object-fit: cover;
+  position: absolute;
+  width: 201px;
+}
+
+.x1280-menu .flex-col-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.x1280-menu .grupo-127-3 {
+  display: flex;
+  height: 13px;
+  justify-content: space-between;
+  position: absolute;
+  width: 68px;
+}
+
+.x1280-menu .linha-34-3 {
+  height: 2px;
+  object-fit: cover;
+}
+
+.x1280-menu .linha-container-4 {
+  left: 0;
+  position: absolute;
+}
+
+.x1280-menu .number-5 {
+  font-family: var(--font-family-roboto);
+  font-size: 98px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 73px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+#overlay-1280-menu-overlay {
+  z-index: 100;
+  position: absolute;
+  left: -10px;
+}
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.overlay-base {
+  display: none;
+  height: 100%;
+  opacity: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.overlay-base.animate-appear {
+  align-items: center;
+  animation: reveal 0.3s ease-in-out 1 normal forwards;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  opacity: 0;
+}
+
+.overlay-base.animate-disappear {
+  animation: reveal 0.3s ease-in-out 1 reverse forwards;
+  display: block;
+  opacity: 1;
+  pointer-events: none;
+}
+
+.overlay-base.animate-disappear * {
+  pointer-events: none;
+}
+
+@keyframes reveal {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}

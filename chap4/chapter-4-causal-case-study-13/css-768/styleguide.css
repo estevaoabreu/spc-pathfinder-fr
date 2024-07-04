@@ -1,0 +1,107 @@
+:root { 
+  --charade: #2b2e34;
+  --curious-blue: #3a9cd5;
+  --green-blue: #1860b3;
+  --white: #ffffff;
+ 
+  --font-size-l: 15px;
+  --font-size-m: 13px;
+  --font-size-s: 12px;
+  --font-size-xl: 17px;
+  --font-size-xs: 9px;
+  --font-size-xxl: 21px;
+  --font-size-xxs: 5px;
+ 
+  --font-family-gaegu: "Gaegu", Helvetica;
+  --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
+  --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
+  --font-family-myriadpro-semibold: "MyriadPro-Semibold", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.myriadpro-light-charade-13px {
+  color: var(--charade);
+  font-family: var(--font-family-myriadpro-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-normal-green-blue-9px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gaegu-bold-green-blue-15px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-curious-blue-15px {
+  color: var(--curious-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.myriadpro-semi-bold-green-blue-9px {
+  color: var(--green-blue);
+  font-family: var(--font-family-myriadpro-semibold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.gaegu-bold-green-blue-12px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.myriadpro-light-charade-12px {
+  color: var(--charade);
+  font-family: var(--font-family-myriadpro-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-bold-green-blue-9px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gaegu-bold-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.myriadpro-light-charade-9px {
+  color: var(--charade);
+  font-family: var(--font-family-myriadpro-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-bold-green-blue-13px {
+  color: var(--green-blue);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
