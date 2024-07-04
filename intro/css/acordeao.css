@@ -1,0 +1,199 @@
+.divmaior {
+  display: flex;  
+  flex-direction: column;
+  row-gap: 5px;
+  z-index:15;
+}
+
+.divtextochap1 {
+  align-items: center;
+  display: flex;
+  width: 308px;
+  border: 1px solid var(--mandy);
+  border-radius: 5px;
+  padding: 10px;
+  z-index:15;
+}
+
+.divtextochap2 {
+  align-items: center;
+  display: flex;  
+  width: 308px;
+  border: 1px solid #f78428dc;
+  border-radius: 5px;
+  padding: 10px;
+  z-index:15;
+}
+
+.divtextochap3 {
+  align-items: center;
+  display: flex;  
+  width: 308px;
+  border: 1px solid #825291dc;
+  border-radius: 5px;
+  padding: 10px;
+  z-index:15;
+}
+
+.divtextochap4 {
+  align-items: center;
+  display: flex;  
+  width: 308px;
+  border: 1px solid #2e92ccdc;
+  border-radius: 5px;
+  padding: 10px;
+  z-index:15;
+}
+
+.divtextochap5 {
+  align-items: center;
+  display: flex;  
+  width: 308px;
+  border: 1px solid #4db765dc;
+  border-radius: 5px;
+  margin-top: -5px;
+  padding: 10px;
+  z-index:15;
+}
+
+.divbotao1 {
+  background-color: var(--mahogany);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  width: 308px;
+  padding: 7.9px 7.0px;
+  z-index:15;
+}
+
+.divbotao2 {
+  background-color: var(--crusta);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  width: 308px;
+  padding: 7.9px 7.0px;
+  z-index:15;
+}
+
+.divbotao3 {
+  background-color: var(--razzmic-berry);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  width: 308px;
+  padding: 7.9px 7.0px;
+  z-index:15;
+}
+
+.divbotao4 {
+  background-color: var(--curious-blue);
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  width: 308px;
+  padding: 7.9px 7.0px;
+  z-index:15;
+}
+
+.divbotao5 {
+  background-color: #4db765;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
+  width: 308px;
+  padding: 7.9px 7.0px;
+  z-index:15;
+}
+
+.botaocima2 {
+  margin-top:7px;
+  z-index:15;
+}
+
+.esconder {
+  display:none;
+  z-index:15;
+}
+
+.tab_2 .divmaior{
+  margin-top: -6px;
+  z-index:15;
+}
+.tab_3 .divmaior{
+  margin-top: 5px;
+  z-index:15;
+}
+.tab_4 .divmaior{
+  margin-top: -35px;
+  z-index:15;
+}
+.tab_5 .divmaior{
+  margin-top: -21px;
+  z-index:15;
+}
+
+#box20 {
+  margin-left: -308px;
+  margin-top: 78px;
+  z-index:15;
+}
+
+.divmaior1 {
+  width:308px;
+  position: absolute;
+  left:43px;
+  top:450px;
+}
+
+.divmaior2 {
+  width:308px;
+  position: absolute;
+  left:43px;
+  top:425px;
+}
+
+.divmaior3 {
+  width:308px;
+  position: absolute;
+  left:43px;
+  top:380px;
+}
+
+.divmaior4 {
+  width:308px;
+  position: absolute;
+  left:43px;
+  top:450px;
+}
+
+.divmaior5 {
+  width:308px;
+  position: absolute;
+  left:43px;
+  top:520px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .divbotao5{margin-top: 8px;}
+  .divbotao1{margin-top: -3px;}
+  .divbotao3{
+  height:71px;}
+  .divbotao4{
+  margin-top: -5px;}
+}
+
+@media screen and (min-width: 1280px) and (max-width: 1919px) {
+  .divbotao5{margin-top: 8px;}
+  .divbotao1{margin-top: -12px;}
+  .divbotao3{
+  height:71.5px;}
+}
+
+@media screen and (min-width: 1920px) {
+}
