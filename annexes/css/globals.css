@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,700,500|Gaegu:400,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,700,500|Kalam:400,700");
 /* The following line is used to measure usage of this code. You can remove it if you want. */
 @import url("https://px.animaapp.com/64e8e25a508fe1ef25bcbef2.64e8e25b508fe1ef25bcbef5.Leq2WE4.hcp.png");
 
@@ -14,14 +14,14 @@
   font-family: "GaeguLight-Regular";
   font-style: light;
   font-weight: 300;
-  src: url("../fonts/Gaegu-Light.ttf")
+  src: url("../fonts/Kalam-Light.ttf")
 }
 
 @font-face {
   font-family: "Gaegu";
   font-style: normal;
   font-weight: 400;
-  src: url("../fonts/Gaegu-Regular.ttf")
+  src: url("../fonts/Kalam-Regular.ttf")
 }
 
 
