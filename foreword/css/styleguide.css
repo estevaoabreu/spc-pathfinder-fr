@@ -1,0 +1,61 @@
+:root { 
+  --green-blue: #1860b3;
+  --green-blue-2: #1860b3f2;
+  --white: #ffffff;
+ 
+  --font-size-l: 21px;
+  --font-size-m: 20px;
+  --font-size-s: 17px;
+  --font-size-xl: 30px;
+  --font-size-xs: 15px;
+  --font-size-xxl: 39px;
+  --font-size-xxxl: 84px;
+ 
+  --font-family-gaegu: "Gaegu", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-light-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-84px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-light-white-21px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.gaegu-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gaegu-light-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+}
+
+.gaegu-bold-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-gaegu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
