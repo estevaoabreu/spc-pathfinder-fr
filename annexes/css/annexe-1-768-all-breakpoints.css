@@ -5563,11 +5563,14 @@
 }
 
 .annexe-1-1920 .grupo-container-7 {
-  height: 681px;
+  height: 2776.4px;
   left: 560px;
   position: absolute;
   top: 640px;
-  width: 813px;
+  width: 1053.8px;
+  background-image: url(../img/layer-1-1@1x.png);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 
 .annexe-1-1920 .grupo-3234-1 {
@@ -10717,6 +10720,8 @@
   height: 62px;
   width: 768px;
 }
+
+
 @media screen and (max-width: 767px) {
   .screen.annexe-1-1920 { 
     display: none;
