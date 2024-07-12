@@ -1269,6 +1269,7 @@
   margin-top: 0.58px;
   min-width: 132px;
   white-space: nowrap;
+  margin-left: 20px;
 }
 
 .x1280-menu .overlap-group12 {
@@ -2032,4 +2033,9 @@
 
 * {
   box-sizing: border-box;
+}
+
+.txtfr {
+  font-size: 11px;
+  margin-left: -5px;
 }
