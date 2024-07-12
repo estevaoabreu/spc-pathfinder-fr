@@ -837,7 +837,7 @@
   line-height: 28px;
   overflow: hidden;
   position: absolute;
-  top: 380px;
+  top: 320px;
   width: 758px;
 }
 
@@ -1158,7 +1158,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 380px;
+  top: 320px;
   width: 758px;
 }
 
@@ -2251,8 +2251,9 @@
   letter-spacing: -0.30px;
   line-height: 20px;
   position: absolute;
-  top: 214px;
+  top: 170px;
   width: 276px;
+  font-size: 13px;
 }
 
 .foreword-375 .grupo-143935-2 {
@@ -3109,7 +3110,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 297px;
+  top: 220px;
   width: 609px;
 }
 
@@ -4623,7 +4624,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 299px;
+  top: 220px;
   width: 537px;
 }
 
@@ -4633,7 +4634,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 299px;
+  top: 220px;
   width: 536px;
 }
 
@@ -4720,6 +4721,7 @@
   margin-top: 18px;
   width: 8px;
 }
+
 @media screen and (max-width: 767px) {
   .screen.foreword-1920 { 
     display: none;
