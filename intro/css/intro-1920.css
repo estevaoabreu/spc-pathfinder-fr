@@ -551,6 +551,7 @@
   display: flex;
   gap: 2px;
   min-width: 31.72px;
+  margin-left: 80px;
 }
 
 .index .overlap-group1-3 {
@@ -1171,7 +1172,7 @@
   align-items: flex-end;
   display: flex;
   height: 119px;
-  margin-left: 2.0px;
+  margin-left: -200px;
   margin-top: 89px;
   min-width: 330px;
 }
@@ -1896,6 +1897,7 @@
   position: absolute;
   top: 575px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .index .annex-2-1 {
@@ -1905,6 +1907,7 @@
   position: absolute;
   top: 660px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .index .annex-3-1 {
@@ -1914,6 +1917,7 @@
   position: absolute;
   top: 746px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .index .the-toolkit-does-not-1 {
@@ -4802,7 +4806,7 @@
   height: 83px;
   left: 1206px;
   position: absolute;
-  top: 513px;
+  top: 433px;
   width: 314px;
 }
 
@@ -6463,7 +6467,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 633px;
+  top: 553px;
   width: 758px;
 }
 
@@ -6491,6 +6495,7 @@
   display: flex;
   gap: 2px;
   min-width: 31.72px;
+  margin-left: 80px;
 }
 
 .intro-1920 .overlap-group-3 {
@@ -6633,14 +6638,17 @@
 
 .intro-1920 .annex-1 {
   top: 57px;
+  margin-left: -20px;
 }
 
 .intro-1920 .annex-2 {
   top: 142px;
+  margin-left: -20px;
 }
 
 .intro-1920 .annex-3 {
   top: 228px;
+  margin-left: -20px;
 }
 
 .intro-1920 .provides-some-useful {
@@ -9966,7 +9974,7 @@
   letter-spacing: 0;
   line-height: 20px;
   position: absolute;
-  top: 322px;
+  top: 222px;
   width: 279px;
 }
 
@@ -9977,7 +9985,7 @@
   height: 35px;
   left: 473px;
   position: absolute;
-  top: 193px;
+  top: 173px;
   width: 134px;
 }
 
@@ -10175,6 +10183,7 @@
   display: flex;
   gap: 2px;
   min-width: 31.72px;
+  margin-left: 80px;
 }
 
 .intro-375 .overlap-group1-9 {
@@ -10505,7 +10514,7 @@
   align-self: flex-end;
   border-radius: 5px 0px 0px 5px;
   height: 412px;
-  margin-top: 40px;
+  margin-top: 140px;
   position: relative;
   width: 338px;
 }
@@ -10558,6 +10567,7 @@
   position: absolute;
   top: 55px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-375 .annex-2-3 {
@@ -10567,6 +10577,7 @@
   position: absolute;
   top: 168px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-375 .annex-3-3 {
@@ -10576,6 +10587,7 @@
   position: absolute;
   top: 277px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-375 .table-1-strategic-3 {
@@ -14042,7 +14054,7 @@
   height: 72px;
   left: 412px;
   position: absolute;
-  top: 436px;
+  top: 336px;
   width: 274px;
 }
 
@@ -14221,7 +14233,7 @@
   letter-spacing: -0.40px;
   line-height: 28px;
   position: absolute;
-  top: 556px;
+  top: 456px;
   width: 609px;
 }
 
@@ -14249,6 +14261,7 @@
   display: flex;
   gap: 2px;
   min-width: 31.72px;
+  margin-left: 80px;
 }
 
 .intro-768 .overlap-group-13 {
@@ -14297,7 +14310,7 @@
   align-items: flex-end;
   display: flex;
   height: 119px;
-  margin-left: 2.0px;
+  margin-left: -200px;
   margin-top: 93px;
   min-width: 330px;
 }
@@ -14990,7 +15003,7 @@
   border-radius: 5px 0px 0px 5px;
   height: 337px;
   margin-right: -21px;
-  margin-top: 76px;
+  margin-top: 126px;
   position: relative;
   width: 709px;
 }
@@ -15043,6 +15056,7 @@
   position: absolute;
   top: 51px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-768 .annex-2-2 {
@@ -15052,6 +15066,7 @@
   position: absolute;
   top: 136px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-768 .annex-3-2 {
@@ -15061,6 +15076,7 @@
   position: absolute;
   top: 222px;
   white-space: nowrap;
+  margin-left: -20px;
 }
 
 .intro-768 .table-1-strategic-2 {
