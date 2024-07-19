@@ -25,6 +25,13 @@
   width: 1280px;
 }
 
+#diagram4555{
+  position: relative;
+  top: 20px;
+  left: -10px;
+  width: 800px;
+}
+
 .chapter-2-driver-case-study-3-1280 .grupo-3481-2 {
   align-items: flex-end;
   display: flex;
@@ -1552,7 +1559,6 @@
   height: 221px;
   left: 775px;
   letter-spacing: 0;
-  line-height: 70px;
   position: absolute;
   top: 355px;
   width: 1300px;
