@@ -176,21 +176,19 @@
 }
 
 .chapter-5-backcasting-1280 .pre-exercise-1 {
-  height: 21px;
   left: 602px;
-  object-fit: cover;
   position: absolute;
-  top: 2206px;
+  top: 2185px;
   width: 108px;
+  height: auto;
 }
 
 .chapter-5-backcasting-1280 .post-exercise-1 {
-  height: 21px;
   left: 602px;
-  object-fit: cover;
   position: absolute;
-  top: 2850px;
-  width: 114px;
+  top: 2825px;
+  width: 130px;
+  height: auto;
 }
 
 .chapter-5-backcasting-1280 .grupo-3406 {
@@ -769,21 +767,19 @@
 }
 
 .chapter-5-backcasting-1920 .pre-exercise {
-  height: 21px;
   left: 828px;
-  object-fit: cover;
   position: absolute;
-  top: 2205px;
+  top: 2185px;
   width: 108px;
+  height: auto;
 }
 
 .chapter-5-backcasting-1920 .post-exercise {
-  height: 21px;
   left: 828px;
-  object-fit: cover;
   position: absolute;
-  top: 2937px;
+  top: 2915px;
   width: 114px;
+  height: auto;
 }
 
 .chapter-5-backcasting-1920 .x10-minutes {
@@ -1391,7 +1387,6 @@
 .chapter-5-backcasting-375 .pre-exercise-3 {
   height: 34px;
   left: 488px;
-  object-fit: cover;
   position: absolute;
   top: 2984px;
   width: 69px;
@@ -1400,7 +1395,6 @@
 .chapter-5-backcasting-375 .postexercise {
   height: 34px;
   left: 488px;
-  object-fit: cover;
   position: absolute;
   top: 3642px;
   width: 69px;
@@ -1880,12 +1874,11 @@
 }
 
 .chapter-5-backcasting-768-all-breakpoints .pre-exercise-2 {
-  height: 21px;
   left: 59px;
-  object-fit: cover;
   position: absolute;
-  top: 17px;
+  top: 0px;
   width: 108px;
+  height: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .step-1organise-and-a-2 {
@@ -1982,12 +1975,11 @@
 }
 
 .chapter-5-backcasting-768-all-breakpoints .post-exercise-2 {
-  height: 21px;
   left: 59px;
-  object-fit: cover;
   position: absolute;
-  top: 17px;
+  top: 0px;
   width: 114px;
+  height: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .step-4collect-all-li-2 {
