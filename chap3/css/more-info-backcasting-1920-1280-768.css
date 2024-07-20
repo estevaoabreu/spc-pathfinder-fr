@@ -34,7 +34,7 @@
   cursor: pointer;
   position: absolute;
   right: 15px;
-  top: 260px;
+  top: 255px;
   width: 95%;
   height: auto;
   z-index: 70;
@@ -44,7 +44,7 @@
   cursor: pointer;
   position: absolute;
   right: 15px;
-  top: 440px;
+  top: 473px;
   width: 95%;
   height: auto;
   z-index: 70;
@@ -54,8 +54,8 @@
   cursor: pointer;
   position: absolute;
   right: 75px;
-  top: 4620px;
-  width: 65%;
+  top: 4610px;
+  width: 63%;
   height: auto;
   z-index: 70;
 }
@@ -64,7 +64,7 @@
   cursor: pointer;
   position: absolute;
   right: 75px;
-  top: 4835px;
+  top: 4840px;
   width: 65%;
   height: auto;
   z-index: 70;
