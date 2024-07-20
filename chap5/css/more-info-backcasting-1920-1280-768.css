@@ -33,9 +33,9 @@
 .link1 {
   cursor: pointer;
   position: absolute;
-  right: 10px;
-  top: 254px;
-  width: 95%;
+  right: 30px;
+  top: 290px;
+  width: 90%;
   height: auto;
   z-index: 70;
 }
@@ -44,7 +44,7 @@
   cursor: pointer;
   position: absolute;
   right: 10px;
-  top: 416px;
+  top: 445px;
   width: 95%;
   height: auto;
   z-index: 70;
@@ -54,7 +54,7 @@
   cursor: pointer;
   position: absolute;
   right: 10px;
-  top: 478px;
+  top: 535px;
   width: 95%;
   height: auto;
   z-index: 70;
