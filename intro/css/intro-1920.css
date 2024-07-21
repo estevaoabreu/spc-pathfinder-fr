@@ -2268,6 +2268,7 @@
   margin-bottom: -1.14px;
   min-height: 36px;
   min-width: 23px;
+  cursor: pointer;
 }
 
 .index .e-container-1 {
@@ -3182,7 +3183,7 @@
   min-width: 44px;
   padding: 0 8.6px;
   position: absolute;
-  top: 6px;
+  top: 15px;
 }
 
 .index .system-1 {
@@ -3564,6 +3565,7 @@
   left: 12px;
   position: absolute;
   top: 9px;
+  cursor: pointer;
 }
 
 .index .seven-2 {
@@ -4443,6 +4445,7 @@
   letter-spacing: 0;
   line-height: 29px;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .index .x-container {
@@ -6883,6 +6886,7 @@
   min-height: 36px;
   min-width: 23px;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .intro-1920 .grupo-2057 {
@@ -8407,7 +8411,7 @@
   min-width: 44px;
   padding: 0 8.6px;
   position: absolute;
-  top: 6px;
+  top: 15px;
   cursor: pointer;
 }
 
@@ -8769,6 +8773,7 @@
   position: absolute;
   top: 9px;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .intro-1920 .seven {
@@ -10163,7 +10168,7 @@
   display: flex;
   height: 28px;
   justify-content: space-between;
-  left: 438px;
+  left: 400px;
   position: absolute;
   top: 1024px;
   width: 198px;
@@ -10739,6 +10744,7 @@
   left: 12px;
   position: absolute;
   top: 9px;
+  cursor: pointer;
 }
 
 .intro-375 .retngulo-148582 {
@@ -10957,6 +10963,7 @@
   margin-bottom: -1.14px;
   min-height: 36px;
   min-width: 23px;
+  cursor: pointer;
 }
 
 .intro-375 .grupo-144081 {
@@ -11467,7 +11474,7 @@
   min-width: 44px;
   padding: 0 8.6px;
   position: absolute;
-  top: 6px;
+  top: 15px;
 }
 
 .intro-375 .system-3 {
@@ -13129,6 +13136,7 @@
   letter-spacing: 0;
   line-height: 29px;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .intro-375 .x-container {
@@ -14947,10 +14955,10 @@
 
 .intro-768 .caminho-1034-1 {
   flex: 1;
-  margin-bottom: -104.2px;
+  margin-bottom: -150px;
   margin-left: 14.0px;
   margin-right: 14.0px;
-  margin-top: -104.2px;
+  margin-top: -150px;
   object-fit: cover;
   transform: rotate(-62.00deg);
   width: 311.62px;
@@ -15635,13 +15643,14 @@
   min-width: 44px;
   padding: 0 8.6px;
   position: absolute;
-  top: 6px;
+  top: 15px;
 }
 
 .intro-768 .text-2 {
   margin-bottom: -1.14px;
   min-height: 36px;
   min-width: 23px;
+  cursor: pointer;
 }
 
 .intro-768 .system-2 {
@@ -16023,6 +16032,7 @@
   left: 12px;
   position: absolute;
   top: 9px;
+  cursor: pointer;
 }
 
 .intro-768 .seven-4 {
@@ -17662,6 +17672,7 @@
   letter-spacing: 0;
   line-height: 29px;
   white-space: nowrap;
+  cursor: pointer;
 }
 
 .intro-768 .x-container {
