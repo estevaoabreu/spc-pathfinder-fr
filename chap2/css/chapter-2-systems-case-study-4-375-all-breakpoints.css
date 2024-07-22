@@ -524,7 +524,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1100px;
+  top: 1095px;
   width: 48px;
 }
 
@@ -534,7 +534,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1166px;
+  top: 1120px;
   width: 48px;
 }
 
@@ -544,7 +544,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1229px;
+  top: 1180px;
   width: 48px;
 }
 
@@ -2555,7 +2555,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1030px;
+  top: 1025px;
   width: 48px;
 }
 
@@ -2585,7 +2585,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1095px;
+  top: 1055px;
   width: 48px;
 }
 
@@ -2595,7 +2595,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1159px;
+  top: 1108px;
   width: 48px;
 }
 
@@ -20405,6 +20405,8 @@
   position: absolute;
   top: 0;
   width: 1231px;
+  background-image: url(../img/fig-04@1x.png);
+  background-size: contain;
 }
 
 .chapter-2-systems-case-study-4-1920 .grupo-5411 {
@@ -22701,7 +22703,7 @@
   letter-spacing: -0.38px;
   line-height: 20px;
   position: absolute;
-  top: 142px;
+  top: 138px;
   width: 26px;
 }
 
@@ -22711,7 +22713,7 @@
   letter-spacing: -0.38px;
   line-height: 20px;
   position: absolute;
-  top: 196px;
+  top: 182px;
   white-space: nowrap;
   width: 26px;
 }
@@ -22722,7 +22724,7 @@
   letter-spacing: -0.38px;
   line-height: 20px;
   position: absolute;
-  top: 248px;
+  top: 220px;
   white-space: nowrap;
   width: 26px;
 }
@@ -23348,6 +23350,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   width: 48px;
+  margin-top: -8px;
 }
 
 .chapter-2-systems-case-study-4-768 .text-52 {
@@ -23355,6 +23358,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   width: 48px;
+  margin-top: -33px;
 }
 
 .chapter-2-systems-case-study-4-768 .text-53 {
@@ -23362,6 +23366,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   width: 48px;
+  margin-top: -15px;
 }
 
 .chapter-2-systems-case-study-4-768 .business-as-usual-2 {
