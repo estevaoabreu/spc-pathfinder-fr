@@ -2203,6 +2203,11 @@
   width: 375px;
 }
 
+.fig-annexes-2-2 {
+  position: relative;
+  top: 30px;
+}
+
 .annexe-2-375 .grupo-container-13 {
   align-items: flex-start;
   display: flex;
