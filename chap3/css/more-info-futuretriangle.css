@@ -65,9 +65,9 @@
 .link1 {
   cursor: pointer;
   position: absolute;
-  right: 70px;
-  top: 255px;
-  width: 80%;
+  right: 85px;
+  top: 250px;
+  width: 45%;
   height: auto;
   z-index: 70;
 }
@@ -75,9 +75,9 @@
 .link2 {
   cursor: pointer;
   position: absolute;
-  right: 70px;
-  top: 395px;
-  width: 80%;
+  right: 85px;
+  top: 400px;
+  width: 45%;
   height: auto;
   z-index: 70;
 }

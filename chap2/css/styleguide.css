@@ -529,3 +529,25 @@
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
 }
+
+.cartsize {
+  font-size: 18.5px;
+}
+
+.exploresiz {
+  font-size: 14px;
+}
+
+.dersize {
+  font-size: 34px;
+}
+
+.conseilsiz {
+  font-size: 70px;
+  margin-top: 5px;
+}
+
+.unefoisiz {
+  margin-top: -5px;
+  font-size:15px;
+}

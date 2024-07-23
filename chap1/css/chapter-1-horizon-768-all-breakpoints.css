@@ -869,7 +869,6 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 6262px;
   overflow: hidden;
   width: 375px;
 }
@@ -1042,7 +1041,6 @@
   display: flex;
   flex-direction: column;
   margin-left: 1.0px;
-  min-height: 1984px;
   padding: 80.4px 222.5px;
   width: 768px;
 }
@@ -1056,7 +1054,7 @@
 }
 
 .chapter-1-horizon-375 .overlap-group4 {
-  height: 657px;
+  height: 400px;
   margin-top: 60px;
   position: relative;
   width: 317px;
@@ -1072,7 +1070,7 @@
 
 .chapter-1-horizon-375 .retngulo-148586 {
   border-radius: 30px;
-  height: 654px;
+  height: 400px;
   left: 0;
   top: 2px;
   width: 316px;
@@ -1096,12 +1094,11 @@
 }
 
 .chapter-1-horizon-375 .step-1explain-what-h-2 {
-  height: 573px;
-  left: 60px;
-  object-fit: cover;
+  height: 650px;
+  left: 30px;
   position: absolute;
   top: 76px;
-  width: 230px;
+  width: auto;
 }
 
 .chapter-1-horizon-375 .retngulo-148592 {
@@ -1134,14 +1131,14 @@
   align-items: center;
   background-image: url(../img/ret-ngulo-148587@1x.png);
   background-position: 50% 50%;
-  background-size: cover;
+  background-size: 316px 330px;
   border-radius: 30px;
   display: flex;
   flex-direction: column;
   gap: 22px;
   margin-right: 0.75px;
   margin-top: 17px;
-  min-height: 559px;
+  height: 330px;
   width: 316px;
 }
 
@@ -1197,24 +1194,25 @@
 }
 
 .chapter-1-horizon-375 .step-3get-participan-2 {
-  height: 477px;
-  margin-left: 34.21px;
+  height: 550px;
+  margin-left: 10px;
+  margin-top:50px;
   object-fit: cover;
-  width: 230px;
+  width: auto;
 }
 
 .chapter-1-horizon-375 .overlap-group6 {
   align-items: center;
   background-image: url(../img/ret-ngulo-148588@1x.png);
   background-position: 50% 50%;
-  background-size: cover;
+  background-size: 316px 290px;
   border-radius: 30px;
   display: flex;
   flex-direction: column;
   gap: 21px;
   margin-right: 0.75px;
   margin-top: 16px;
-  min-height: 430px;
+  height: 290px;
   width: 316px;
 }
 
@@ -1235,10 +1233,11 @@
 }
 
 .chapter-1-horizon-375 .step4consolidate-and-2 {
-  height: 358px;
-  margin-left: 34.21px;
+  height: 400px;
+  margin-left: 10px;
+  margin-top: 50px;
   object-fit: cover;
-  width: 230px;
+  width: auto;
 }
 
 .chapter-1-horizon-375 .grupo-144075 {
@@ -1843,7 +1842,7 @@
   cursor: pointer;
   position: absolute;
   right: 90px;
-  top: 5586px;
+  top: 4965px;
   width: 60%;
   height: auto;
   z-index: 70;
@@ -1853,7 +1852,7 @@
   cursor: pointer;
   position: absolute;
   right: 90px;
-  top: 5720px;
+  top: 5090px;
   width: 60%;
   height: auto;
   z-index: 70;
@@ -1863,7 +1862,7 @@
   cursor: pointer;
   position: absolute;
   right: 90px;
-  top: 5831px;
+  top: 5231px;
   width: 60%;
   height: auto;
   z-index: 70;
@@ -1873,7 +1872,7 @@
   cursor: pointer;
   position: absolute;
   right: 90px;
-  top: 5966px;
+  top: 5360px;
   width: 60%;
   height: auto;
   z-index: 70;

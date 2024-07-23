@@ -1000,7 +1000,6 @@
   gap: 63px;
   margin-left: 1.0px;
   margin-top: 20px;
-  min-height: 1636px;
   padding: 79.4px 223.2px;
   width: 768px;
 }
@@ -1016,9 +1015,9 @@
 .chapter-1-seven-375-all-breakpoints .overlap-group4 {
   background-image: url(../img/ret-ngulo-148586-1@1x.png);
   background-position: 50% 50%;
-  background-size: cover;
+  background-size: 316px 1055px;
   border-radius: 30px;
-  height: 1350px;
+  height: 1055px;
   position: relative;
   width: 316px;
 }
@@ -1034,22 +1033,22 @@
 
 .chapter-1-seven-375-all-breakpoints .linha-139 {
   left: 26px;
-  top: 229px;
+  top: 190px;
 }
 
 .chapter-1-seven-375-all-breakpoints .linha-144 {
   left: 21px;
-  top: 522px;
+  top: 390px;
 }
 
 .chapter-1-seven-375-all-breakpoints .linha-145 {
   left: 26px;
-  top: 814px;
+  top: 614px;
 }
 
 .chapter-1-seven-375-all-breakpoints .linha-146 {
   left: 26px;
-  top: 1054px;
+  top: 794px;
 }
 
 .chapter-1-seven-375-all-breakpoints .grupo-144075 {

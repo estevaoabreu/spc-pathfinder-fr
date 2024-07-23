@@ -983,6 +983,7 @@
   min-height: 55px;
   min-width: 375px;
   white-space: nowrap;
+  font-size: 40px;
 }
 
 .x1920-menu .grupo-125 {
@@ -1620,6 +1621,10 @@
   position: absolute;
   top: 23px;
   width: 24px;
+}
+
+.textomenor {
+  font-size: 17px;
 }
 
 .x1920-menu .grupo-2263 {
