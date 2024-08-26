@@ -88,7 +88,7 @@
   text-align: center;
   top: 360px;
   width: 430px;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 .index-1280-all-breakpoints .grupo-12-2 {
@@ -137,9 +137,9 @@
 .index-1280-all-breakpoints .a-toolkit-to-imagine-1 {
   left: 153px;
   letter-spacing: 0;
-  line-height: 14px;
+  line-height: 17px;
   position: absolute;
-  top: 7px;
+  top: -2px;
   white-space: nowrap;
 }
 
@@ -3079,9 +3079,9 @@
 .index-1920 .a-toolkit-to-imagine {
   left: 153px;
   letter-spacing: 0;
-  line-height: 14px;
+  line-height: 17px;
   position: absolute;
-  top: 7px;
+  top: -2px;
   white-space: nowrap;
 }
 
@@ -3617,7 +3617,7 @@
   min-height: 112px;
   text-align: center;
   width: 576px;
-  font-size: 50px;
+  font-size: 38px;
 }
 
 .index-1920 .grupo-12-1 {
@@ -6080,7 +6080,7 @@
 .index-375 .a-toolkit-to-imagine-and-create-futures-3 {
   color: var(--white);
   font-family: var(--font-family-gaegu);
-  font-size: 27px;
+  font-size: 20px;
   font-weight: 400;
   height: 181px;
   left: 185px;
@@ -8142,9 +8142,9 @@
 .index-768 .a-toolkit-to-imagine-2 {
   left: 153px;
   letter-spacing: 0;
-  line-height: 14px;
+  line-height: 17px;
   position: absolute;
-  top: 7px;
+  top: -2px;
   white-space: nowrap;
 }
 
@@ -8387,7 +8387,7 @@
 
 .index-768 .a-toolkit-to-imagine-and-create-futures-2 {
   left: 136px;
-  font-size: 40px;
+  font-size: 35px;
   letter-spacing: 0;
   line-height: 50px;
   position: absolute;
