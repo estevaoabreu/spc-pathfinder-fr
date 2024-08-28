@@ -51,7 +51,7 @@
 }
 
 .roboto-light-black-20px-2 {
-  color: var(--black-2);
+  color: var(--green-blue);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -479,7 +479,7 @@
 }
 
 .roboto-light-black-15px-3 {
-  color: var(--black-2);
+  color: var(--green-blue);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
   font-style: normal;
