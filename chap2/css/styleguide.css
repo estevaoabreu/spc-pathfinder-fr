@@ -51,7 +51,7 @@
 }
 
 .roboto-light-black-20px-2 {
-  color: var(--green-blue);
+  color: var(--black);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -199,7 +199,7 @@
 }
 
 .roboto-light-green-blue-20px {
-  color: var(--green-blue);
+  color: var(--black);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-m);
   font-style: italic;
@@ -245,7 +245,7 @@
 }
 
 .roboto-light-green-blue-15px {
-  color: var(--green-blue);
+  color: var(--black);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
   font-style: italic;
@@ -479,7 +479,7 @@
 }
 
 .roboto-light-black-15px-3 {
-  color: var(--green-blue);
+  color: var(--black);
   font-family: var(--font-family-roboto);
   font-size: var(--font-size-s);
   font-style: normal;

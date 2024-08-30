@@ -58,8 +58,9 @@
   letter-spacing: 0;
   line-height: 14px;
   position: absolute;
-  top: 7px;
+  top: 1px;
   white-space: nowrap;
+  font-size: 13px;
 }
 
 .x1920-menu .grupo-12 {

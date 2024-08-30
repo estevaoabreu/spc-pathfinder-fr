@@ -724,8 +724,9 @@
   left: 153px;
   letter-spacing: 0;
   line-height: 14px;
+  font-size: 12px;
   position: absolute;
-  top: 7px;
+  top: 1px;
   white-space: nowrap;
 }
 
@@ -2805,8 +2806,9 @@
   left: 153px;
   letter-spacing: 0;
   line-height: 14px;
+  font-size: 12px;
   position: absolute;
-  top: 7px;
+  top: 1px;
   white-space: nowrap;
 }
 
@@ -3987,8 +3989,9 @@
   left: 153px;
   letter-spacing: 0;
   line-height: 14px;
+  font-size: 12px;
   position: absolute;
-  top: 7px;
+  top: 1px;
   white-space: nowrap;
 }
 

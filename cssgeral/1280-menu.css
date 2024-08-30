@@ -66,13 +66,13 @@
 .x1280-menu .a-toolkit-to-imagine {
   color: var(--white);
   font-family: var(--font-family-gaegu);
-  font-size: 11px;
+  font-size: 9px;
   font-weight: 400;
   left: 100px;
   letter-spacing: 0;
   line-height: 9px;
   position: absolute;
-  top: 4px;
+  top: 1px;
   white-space: nowrap;
 }
 
