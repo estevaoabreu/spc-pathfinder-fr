@@ -53,9 +53,9 @@
 .link11 {
   cursor: pointer;
   position: absolute;
-  right: 75px;
+  right: 105px;
   top: 4610px;
-  width: 63%;
+  width: 270px;
   height: auto;
   z-index: 70;
 }
@@ -63,9 +63,9 @@
 .link22 {
   cursor: pointer;
   position: absolute;
-  right: 75px;
+  right: 105px;
   top: 4840px;
-  width: 65%;
+  width: 270px;
   height: auto;
   z-index: 70;
 }

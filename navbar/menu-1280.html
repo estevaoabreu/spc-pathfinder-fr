@@ -269,14 +269,14 @@
           <div class="overlap-group13">
             <div class="retngulo-148504"></div>
             <p class="chapter-5developing chapter roboto-bold-white-14px">
-              <span class="roboto-light-white-14px">CHAPITRE 5<br /></span
+              <span class="roboto-light-white-14px">Chapitre 5<br /></span
               ><span class="roboto-bold-white-14px-2">ÉLABORER ET TESTER DES<br />STRATÉGIES</span>
             </p>
             <div class="grupo-143804"></div>
             <div class="number">5</div>
             <div class="retngulo-148505"></div>
             <div class="chapter-4creating-alternatives roboto-bold-white-14px">
-              <span class="roboto-light-white-14px">CHAPITRE 4<br /></span
+              <span class="roboto-light-white-14px">Chapitre 4<br /></span
               ><span class="roboto-bold-white-14px-2">CRÉER UN CHAMP DES<br>POSSIBLES</span>
             </div>
             <div class="grupo-143805"></div>
@@ -289,7 +289,7 @@
             />
             <div class="retngulo-29"></div>
             <div class="chapter-3describing-our-future roboto-bold-white-14px">
-              <span class="roboto-light-white-14px">CHAPITRE 3<br /></span
+              <span class="roboto-light-white-14px">Chapitre 3<br /></span
               ><span class="roboto-bold-white-14px-2">DÉCRIRE NOTRE AVENIR</span>
             </div>
             <div class="grupo-116"></div>
@@ -428,13 +428,13 @@
             /></a>
             <div class="retngulo-148511"></div>
             <p class="chapter-2exploring-dynamics-of-change roboto-bold-white-14px">
-              <span class="roboto-light-white-14px">CHAPITRE 2<br /></span
+              <span class="roboto-light-white-14px">Chapitre 2<br /></span
               ><span class="roboto-bold-white-14px-2">EXPLORER LES DYNAMIQUES<br>DU CHANGEMENT</span>
             </p>
             <div class="grupo-143815"></div>
             <div class="retngulo-148512"></div>
             <p class="chapter-1gathering chapter roboto-bold-white-14px">
-              <span class="roboto-light-white-14px">CHAPITRE 1<br /></span
+              <span class="roboto-light-white-14px">Chapitre 1<br /></span
               ><span class="roboto-bold-white-14px-2">RECUEILLIR DES<br />INFORMATIONS SUR L'AVENIR</span>
             </p>
             <div class="grupo-143816"></div>
@@ -669,21 +669,21 @@
     </div>
     <script>
       function resize() {
-        if (screen.width < 768) {
-              window.location.replace("menu-mobile.html");
-          }
-        else  if (screen.width < 1280) {
-              window.location.replace("menu-tablet.html");
-          }
-        else  if (screen.width < 1920) {
-              window.location.replace("menu-1280.html");
-          }
-        else {
-              window.location.replace("menu-1920.html");
-          }
+        if (window.innerWidth <= 768) {
+          window.location.replace("menu-mobile.html");
+        }
+        else if (window.innerWidth > 768 && window.innerWidth <= 1280) {
+          window.location.replace("menu-tablet.html");
+        }
+        else if (window.innerWidth > 1280 && window.innerWidth <= 1920) {
+        }
+        else if (window.innerWidth > 1920) {
+          window.location.replace("menu-1920.html");
+        }
       }
-      
+  
       window.onresize = resize;
+      window.onload = resize;
     </script> 
   </body>
 </html>
