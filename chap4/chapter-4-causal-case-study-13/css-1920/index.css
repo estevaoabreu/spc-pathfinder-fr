@@ -1373,12 +1373,12 @@
 }
 
 .index .what-happenedfor-eac {
-  height: 113px;
+  height: 140px;
   left: 773px;
   object-fit: cover;
   position: absolute;
   top: 1488px;
-  width: 486px;
+  width: auto;
 }
 
 .index .figure-11-the-relati {

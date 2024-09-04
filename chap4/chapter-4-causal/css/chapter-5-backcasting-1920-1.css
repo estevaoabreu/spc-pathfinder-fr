@@ -411,12 +411,12 @@
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .facilitationone-lead-facilitator-1 {
-  height: 55px;
+  height: 70px;
   left: 655px;
   object-fit: cover;
   position: absolute;
   top: 1804px;
-  width: 280px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .grupo-5626-1 {
@@ -713,12 +713,12 @@
 }
 
 .chapter-5-backcasting-1920-1 .facilitationone-lead-facilitator {
-  height: 55px;
+  height: 70px;
   left: 847px;
   object-fit: cover;
   position: absolute;
   top: 1804px;
-  width: 280px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920-1 .grupo-5626 {
@@ -1287,12 +1287,12 @@
 }
 
 .chapter-5-backcasting-375-1 .facilitationone-lead-facilitator-3 {
-  height: 55px;
+  height: 65px;
   left: 471px;
   object-fit: cover;
   position: absolute;
   top: 2521px;
-  width: 290px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375-1 .materialbutchersdrawing-paper-1 {
@@ -1326,12 +1326,12 @@
 }
 
 .chapter-5-backcasting-375-1 .step-1explain-the-ca-2 {
-  height: 68px;
+  height: 80px;
   left: 488px;
   object-fit: cover;
   position: absolute;
   top: 3286px;
-  width: 479px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375-1 .step-2work-through-t-2 {
@@ -1728,10 +1728,10 @@
 }
 
 .chapter-5-backcasting-768-1 .facilitationone-lead-facilitator-2 {
-  height: 55px;
+  height: 70px;
   margin-top: 67px;
   object-fit: cover;
-  width: 364px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-1 .materialbutchersdrawing-paper {
@@ -1868,10 +1868,11 @@
 }
 
 .chapter-5-backcasting-768-1 .step-2work-through-t-1 {
-  height: 151px;
-  margin-right: 6.06px;
+  height: 170px;
+  margin-right: -40px;
+  margin-top: -20px;
   object-fit: cover;
-  width: 479px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-1 .over-container {
@@ -1903,10 +1904,10 @@
 }
 
 .chapter-5-backcasting-768-1 .step-3provide-an-ove-1 {
-  height: 93px;
-  margin-right: 6.06px;
+  height: 80px;
+  margin-right: 80px;
   object-fit: cover;
-  width: 479px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-1 .footer-2 {
