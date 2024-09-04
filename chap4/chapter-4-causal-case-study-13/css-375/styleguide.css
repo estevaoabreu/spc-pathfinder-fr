@@ -16,6 +16,9 @@
   --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
   --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
   --font-family-myriadpro-semibold: "MyriadPro-Semibold", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .myriadpro-light-charade-5px {
   color: var(--charade);

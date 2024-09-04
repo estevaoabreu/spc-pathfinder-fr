@@ -18,6 +18,9 @@
   --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
   --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
 }
 .myriadpro-light-green-blue-16px {
   color: var(--green-blue);

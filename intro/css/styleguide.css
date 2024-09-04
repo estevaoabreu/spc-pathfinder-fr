@@ -27,6 +27,9 @@
   --font-family-gaegu: "Gaegu", Helvetica;
   --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .roboto-light-black-18px {
   color: var(--black);

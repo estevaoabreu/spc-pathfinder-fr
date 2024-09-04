@@ -27,6 +27,9 @@
   --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
   --font-family-helveticaneue-light: "HelveticaNeue-Light", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .gaegu-bold-white-21px {
   color: var(--white);

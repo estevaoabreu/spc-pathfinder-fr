@@ -36,6 +36,9 @@
   --font-family-myriadpro-regular: "MyriadPro-Regular", Helvetica;
   --font-family-open_sans: "Open Sans", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .myriadpro-regular-normal-green-blue-15px {
   color: var(--green-blue);

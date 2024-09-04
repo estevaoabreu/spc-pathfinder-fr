@@ -17,6 +17,9 @@
   --font-family-myriadpro-light: "MyriadPro-Light", Helvetica;
   --font-family-myriadpro-semibold: "MyriadPro-Semibold", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .myriadpro-light-charade-17px {
   color: var(--charade);

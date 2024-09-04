@@ -13,6 +13,9 @@
  
   --font-family-gaegu: "Gaegu", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .roboto-light-white-20px {
   color: var(--white);

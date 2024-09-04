@@ -315,8 +315,8 @@
 
 .chapter-5-backcasting-1280 .grupo-2305 {
   height: 58px;
-  left: 1424px;
-  top: 1640px;
+  left: 1380px;
+  top: 1660px;
   width: 62px;
 }
 
@@ -504,12 +504,12 @@
 }
 
 .chapter-5-backcasting-1920 .facilitationone-lead-facilitator {
-  height: 55px;
+  height: 65px;
   left: 847px;
   object-fit: cover;
   position: absolute;
   top: 1808px;
-  width: 364px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920 .grupo-8847 {
@@ -910,12 +910,12 @@
 }
 
 .chapter-5-backcasting-1920 .step-4collect-all-li {
-  height: 94px;
+  height: 110px;
   left: 828px;
   object-fit: cover;
   position: absolute;
   top: 2997px;
-  width: 1214px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920 .grupo-de-mscara-3 {
@@ -1796,24 +1796,31 @@
 }
 
 .chapter-5-backcasting-768-all-breakpoints .facilitationone-lead-facilitator-1 {
-  height: 55px;
+  height: 63px;
   margin-top: 67px;
   object-fit: cover;
-  width: 364px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .materialprint-out-of {
-  height: 80px;
+  height: 70px;
   margin-top: 47px;
   object-fit: cover;
-  width: 364px;
+  width: auto;
+}
+
+.chapter-5-backcasting-768-all-breakpoints .flex-col-item1 {
+  height: 65px;
+  margin-top: 29px;
+  object-fit: cover;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .flex-col-item {
-  height: 55px;
+  height: 50px;
   margin-top: 29px;
   object-fit: cover;
-  width: 364px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .grupo-143971 {

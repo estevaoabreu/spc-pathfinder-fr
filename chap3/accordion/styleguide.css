@@ -23,6 +23,9 @@
   --font-family-gaegu: "Gaegu", Helvetica;
   --font-family-gaegulight-regular: "GaeguLight-Regular", Helvetica;
   --font-family-roboto: "Roboto", Helvetica;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }
 .link {
   font-family: var(--font-family-roboto);
