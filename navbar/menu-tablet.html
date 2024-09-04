@@ -63,15 +63,15 @@
     </div>
     <script>
       function resize() {
-        if (window.innerWidth <= 768) {
+        if (screen.width < 768) {
           window.location.replace("menu-mobile.html");
         }
-        else if (window.innerWidth > 768 && window.innerWidth <= 1280) {
+        else if (screen.width >= 768 && screen.width < 1280) {
         }
-        else if (window.innerWidth > 1280 && window.innerWidth <= 1920) {
+        else if (screen.width >= 1280 && screen.width < 1920) {
           window.location.replace("menu-1280.html");
         }
-        else if (window.innerWidth > 1920) {
+        else if (screen.width >= 1920) {
           window.location.replace("menu-1920.html");
         }
       }
