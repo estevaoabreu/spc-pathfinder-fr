@@ -230,21 +230,21 @@
 }
 
 .chapter-5-backcasting-1280 .introduce-activity-1 {
-  height: 24px;
-  left: 760px;
+  height: 27px;
+  left: 705px;
   object-fit: cover;
   position: absolute;
   top: 2201px;
-  width: 899px;
+  width: AUTO;
 }
 
 .chapter-5-backcasting-1280 .present {
-  height: 24px;
-  left: 760px;
+  height: 20px;
+  left: 835px;
   object-fit: cover;
   position: absolute;
   top: 2845px;
-  width: 899px;
+  width: AUTO;
 }
 
 .chapter-5-backcasting-1280 .complete-the-activity-2 {
@@ -856,12 +856,12 @@
 }
 
 .chapter-5-backcasting-1920 .collect-all-lightbulbs-or-postcards {
-  height: 40px;
-  left: 985px;
+  height: 32px;
+  left: 1080px;
   object-fit: cover;
   position: absolute;
   top: 2933px;
-  width: 1003px;
+  width: AUTO;
 }
 
 .chapter-5-backcasting-1920 .complete-the-activity {
@@ -1253,21 +1253,21 @@
 }
 
 .chapter-5-backcasting-375 .introduce-activity-3 {
-  height: 41px;
+  height: 43px;
   left: 594px;
   object-fit: cover;
   position: absolute;
   top: 2979px;
-  width: 186px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375 .collect-all-lightbulbs-or-postcards-2 {
-  height: 61px;
+  height: 66px;
   left: 616px;
   object-fit: cover;
   position: absolute;
   top: 3634px;
-  width: 145px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375 .complete-the-activity-6 {
@@ -1864,12 +1864,12 @@
 }
 
 .chapter-5-backcasting-768-all-breakpoints .introduce-activity-2 {
-  height: 24px;
-  left: 185px;
+  height: 34px;
+  left: 105px;
   object-fit: cover;
   position: absolute;
-  top: 12px;
-  width: 420px;
+  top: 8px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .retngulo-14853 {
@@ -1973,12 +1973,12 @@
 }
 
 .chapter-5-backcasting-768-all-breakpoints .collect-all-lightbulbs-or-postcards-1 {
-  height: 24px;
-  left: 185px;
+  height: 21px;
+  left: 210px;
   object-fit: cover;
   position: absolute;
   top: 12px;
-  width: 420px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .post-exercise-2 {

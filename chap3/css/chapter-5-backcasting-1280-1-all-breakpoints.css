@@ -1027,21 +1027,21 @@
 }
 
 .chapter-5-backcasting-375-1 .introduce-activity-2 {
-  height: 38px;
-  left: 594px;
+  height: auto;
+  left: 605px;
   object-fit: cover;
   position: absolute;
   top: 2434px;
-  width: 186px;
+  width: 160px;
 }
 
 .chapter-5-backcasting-375-1 .complete-the-activity-2 {
-  height: 38px;
-  left: 594px;
+  height: auto;
+  left: 605px;
   object-fit: cover;
   position: absolute;
   top: 2644px;
-  width: 186px;
+  width: 160px;
 }
 
 .chapter-5-backcasting-375-1 .step-1identify-your-2 {
@@ -1525,12 +1525,21 @@
 }
 
 .chapter-5-backcasting-768-1 .e-activity {
-  height: 24px;
-  left: 185px;
+  height: 32px;
+  left: 115px;
   object-fit: cover;
   position: absolute;
   top: 12px;
-  width: 420px;
+  width: auto;
+}
+
+.chapter-5-backcasting-768-1 .e-activity2 {
+  height: 22px;
+  left: 200px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-1 .retngulo-14853-1 {
