@@ -240,12 +240,12 @@
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .step-2once-you-have {
-  height: 94px;
+  height: 105px;
   left: 603px;
   object-fit: cover;
   position: absolute;
-  top: 2484px;
-  width: 1022px;
+  top: 2475px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .grupo-8854 {
@@ -285,12 +285,12 @@
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .narratives-1 {
-  height: 204px;
+  height: 140px;
   left: 764px;
   object-fit: cover;
   position: absolute;
   top: 354px;
-  width: 872px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1280-1-all-breakpoints .grupo-2809-1 {
@@ -393,12 +393,12 @@
 }
 
 .chapter-5-backcasting-1920-1 .narratives {
-  height: 204px;
+  height: 170px;
   left: 764px;
   object-fit: cover;
   position: absolute;
   top: 354px;
-  width: 872px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920-1 .quesiton_-tabs-v {
@@ -838,12 +838,12 @@
 }
 
 .chapter-5-backcasting-375-1 .narratives-3 {
-  height: 42px;
+  height: 80px;
   left: 485px;
   object-fit: cover;
   position: absolute;
   top: 310px;
-  width: 217px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375-1 .caminho-747 {
@@ -1566,8 +1566,9 @@
 }
 
 .chapter-5-backcasting-768-1 .step-1identify-your-1 {
-  height: 130px;
-  margin-right: -65px;
+  height: 140px;
+  margin-right: -125px;
+  margin-top: -10px;
   object-fit: cover;
   width: auto;
 }

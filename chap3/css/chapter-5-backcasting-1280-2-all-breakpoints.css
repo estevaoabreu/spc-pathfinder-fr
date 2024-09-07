@@ -1660,7 +1660,6 @@
   background-color: var(--white);
   display: flex;
   flex-direction: column;
-  height: 5816px;
   overflow: hidden;
   width: 768px;
 }
@@ -2106,10 +2105,14 @@
 }
 
 .chapter-5-backcasting-768-2 .group-container-4 {
-  background-image: url(../img/ret-ngulo-148529-2@1x.png);
   gap: 29px;
   margin-top: 31px;
-  min-height: 832px;
+}
+
+.group-container-4bg {
+  width: 605px;
+  height: 1150px;
+  position: absolute;
 }
 
 .chapter-5-backcasting-768-2 .complete-the-activity-1 {
@@ -2131,10 +2134,11 @@
 }
 
 .chapter-5-backcasting-768-2 .step-3in-small-group-1 {
-  height: 742px;
+  height: auto;
   margin-left: 7.21px;
   object-fit: cover;
   width: 538px;
+  z-index: 1000;
 }
 
 .chapter-5-backcasting-768-2 .group-container-5 {
@@ -2163,17 +2167,23 @@
 }
 
 .chapter-5-backcasting-768-2 .step-7get-all-groups-1 {
-  height: 127px;
-  margin-right: 15.79px;
+  height: 150px;
+  margin-left:100px;
   object-fit: cover;
-  width: 517px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-2 .group-container-6 {
-  background-image: url(../img/ret-ngulo-148527-1@1x.png);
   gap: 37px;
   margin-top: 33px;
   min-height: 320px;
+}
+
+.group-container-6bg {
+  width: 605px;
+  height: 350px;
+  position: absolute;
+  margin-top:15px;
 }
 
 .chapter-5-backcasting-768-2 .consolidate-information-1 {
@@ -2190,7 +2200,7 @@
   height: 51px;
   left: 0;
   top: 0;
-  width: 196px;
+  width: 250px;
 }
 
 .chapter-5-backcasting-768-2 .x60-minutes-post-activity-1 {
@@ -2203,10 +2213,11 @@
 }
 
 .chapter-5-backcasting-768-2 .step-8-provide-to-pa-1 {
-  height: 220px;
-  margin-right: -50px;
+  height: 250px;
+  margin-right: -130px;
   object-fit: cover;
   width: auto;
+  z-index: 10;
 }
 
 .chapter-5-backcasting-768-2 .footer-2 {

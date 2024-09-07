@@ -4416,6 +4416,7 @@
 .chapter-2-1920 .download-chapter {
   letter-spacing: 0;
   line-height: 25px;
+  margin-left: 25px;
   margin-top: 2.0px;
   min-height: 26px;
   min-width: 203px;

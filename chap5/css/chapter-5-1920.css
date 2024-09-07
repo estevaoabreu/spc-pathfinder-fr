@@ -146,12 +146,12 @@
 }
 
 .chapter-5-1280-all-breakpoints .chapter-5-1 {
-  height: 78px;
+  height: 90px;
   left: 78px;
   object-fit: cover;
   position: absolute;
   top: 150px;
-  width: 319px;
+  width: auto;
 }
 
 .chapter-5-1280-all-breakpoints .menu-v-1 {
@@ -389,12 +389,12 @@
 }
 
 .chapter-5-1920 .chapter-5 {
-  height: 78px;
+  height: 110px;
   left: 140px;
   object-fit: cover;
   position: absolute;
-  top: 147px;
-  width: 319px;
+  top: 140px;
+  width: auto;
 }
 
 .chapter-5-1920 .grupo-143935 {
@@ -501,12 +501,12 @@
 }
 
 .chapter-5-375 .chapter-5-3 {
-  height: 36px;
+  height: 50px;
   left: 50px;
   object-fit: cover;
   position: absolute;
-  top: 160px;
-  width: 147px;
+  top: 155px;
+  width: auto;
 }
 
 .chapter-5-375 .the-final-step-in-st-3 {
@@ -775,12 +775,12 @@
 }
 
 .chapter-5-768 .chapter-5-2 {
-  height: 78px;
+  height: 90px;
   left: 76px;
   object-fit: cover;
   position: absolute;
   top: 149px;
-  width: 319px;
+  width: auto;
 }
 
 .chapter-5-768 .the-final-step-in-st-2 {
