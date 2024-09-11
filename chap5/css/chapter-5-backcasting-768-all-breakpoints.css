@@ -137,12 +137,12 @@
 
 .chapter-5-backcasting-1280 .grupo-188-1 {
   cursor: pointer;
-  height: 21px;
+  height: 24px;
   left: 1119px;
   object-fit: cover;
   position: absolute;
   top: 1123px;
-  width: 105px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1280 .x16-1 {
@@ -747,10 +747,10 @@
 
 .chapter-5-backcasting-1920 .grupo-188 {
   cursor: pointer;
-  height: 21px;
+  height: 24px;
   left: 1119px;
   top: 1123px;
-  width: 105px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920 .x16 {
@@ -1483,12 +1483,12 @@
 
 .chapter-5-backcasting-375 .grupo-188-3 {
   cursor: pointer;
-  height: 21px;
+  height: 24px;
   left: 493px;
   object-fit: cover;
   position: absolute;
   top: 1815px;
-  width: 105px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375 .x16-3 {
@@ -2113,12 +2113,12 @@
 
 .chapter-5-backcasting-768-all-breakpoints .grupo-188-2 {
   cursor: pointer;
-  height: 21px;
+  height: 24px;
   left: 1392px;
   object-fit: cover;
   position: absolute;
   top: 1462px;
-  width: 105px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .x16-2 {
