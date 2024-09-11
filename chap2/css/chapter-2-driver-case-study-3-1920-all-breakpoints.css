@@ -713,9 +713,9 @@
   margin-bottom: -1.0px;
   margin-left: -1.0px;
   margin-right: -1.0px;
-  margin-top: -1.0px;
-  object-fit: cover;
+  margin-top: -22px;
   width: 10.58px;
+  height: 10.58px;
 }
 
 .chapter-2-driver-case-study-3-1280 .grupo-350-1 {
@@ -897,7 +897,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 1740px;
+  top: 1720px;
   width: 32px;
 }
 
@@ -4277,7 +4277,7 @@
   line-height: 20px;
   position: absolute;
   top: 103px;
-  width: 286px;
+  width: 300px;
 }
 
 .chapter-2-driver-case-study-3-375 .grupo-144337 {
@@ -4287,7 +4287,7 @@
   left: 50px;
   min-height: 172px;
   position: absolute;
-  top: 127px;
+  top: 112px;
   width: 5px;
 }
 
@@ -4299,12 +4299,12 @@
 
 .chapter-2-driver-case-study-3-375 .caminho-942-3 {
   flex: 1;
-  margin-bottom: -1.0px;
+  margin-bottom: -50px;
   margin-left: -1.1px;
   margin-right: -1.0px;
   margin-top: -1.0px;
-  object-fit: cover;
   width: 6.75px;
+  height: 6.75px;
 }
 
 .chapter-2-driver-case-study-3-375 .grupo-350-3 {
@@ -4375,11 +4375,11 @@
 
 .chapter-2-driver-case-study-3-375 .text-66 {
   height: 139px;
-  left: 45px;
+  left: 55px;
   letter-spacing: -0.38px;
   line-height: 20px;
   position: absolute;
-  top: 1657px;
+  top: 1641px;
   width: 32px;
 }
 
@@ -5276,7 +5276,7 @@
   left: 457px;
   min-height: 208px;
   position: absolute;
-  top: 1660px;
+  top: 1638px;
   width: 9px;
 }
 
@@ -5404,7 +5404,7 @@
   letter-spacing: -0.50px;
   line-height: 28px;
   position: absolute;
-  top: 3500px;
+  top: 3483px;
   width: 32px;
 }
 

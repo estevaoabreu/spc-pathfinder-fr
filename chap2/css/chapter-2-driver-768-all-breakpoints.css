@@ -754,7 +754,7 @@
   letter-spacing: -4.10px;
   line-height: 82px;
   position: absolute;
-  top: 183px;
+  top: 188px;
   white-space: nowrap;
 }
 
@@ -1415,7 +1415,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 2250px;
+  top: 2265px;
   width: 1010px;
 }
 
@@ -1424,7 +1424,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 2410px;
+  top: 2433px;
   width: 999px;
 }
 
@@ -1434,7 +1434,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 2590px;
+  top: 2610px;
   width: 1008px;
 }
 
@@ -1443,7 +1443,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 2785px;
+  top: 2800px;
   width: 1008px;
 }
 
@@ -4194,12 +4194,12 @@
 }
 
 .chapter-2-driver-375 .no-of-participantsun-1 {
-  height: 74px;
+  height: 68px;
   left: 471px;
   object-fit: cover;
   position: absolute;
   top: 1885px;
-  width: 241px;
+  width: auto;
 }
 
 .chapter-2-driver-375 .facilitationone-lead-1 {
@@ -4323,17 +4323,17 @@
 }
 
 .chapter-2-driver-375 .pre-exercise-2 {
-  height: 21px;
-  left: 500px;
+  height: 30px;
+  left: 490px;
   object-fit: cover;
   position: absolute;
-  top: 2545px;
+  top: 2537px;
   width: auto;
 }
 
 .chapter-2-driver-375 .post-exercise-2 {
   height: 50px;
-  left: 520px;
+  left: 500px;
   object-fit: cover;
   position: absolute;
   top: 3055px;
@@ -5811,7 +5811,7 @@
   letter-spacing: -4.10px;
   line-height: 82px;
   position: absolute;
-  top: 183px;
+  top: 188px;
   white-space: nowrap;
 }
 
@@ -6542,16 +6542,17 @@
   position: absolute;
   top: 15px;
   white-space: nowrap;
+  font-size:20px;
 }
 
 .chapter-2-driver-768-all-breakpoints .retngulo-14858 {
   background-color: var(--neon-carrot);
   border-radius: 40px 40px 0px 40px;
   height: 51px;
-  left: 122px;
+  left: 178px;
   position: absolute;
   top: 0;
-  width: 485px;
+  width: 430px;
 }
 
 .chapter-2-driver-768-all-breakpoints .pre-select-2 {
@@ -6570,7 +6571,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 63px;
+  top: 78px;
   width: 503px;
 }
 
@@ -6664,7 +6665,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 50px;
+  top: 65px;
   width: 501px;
 }
 
@@ -6713,7 +6714,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 50px;
+  top: 65px;
   width: 501px;
 }
 
@@ -6737,13 +6738,13 @@
 }
 
 .chapter-2-driver-768-all-breakpoints .post-exercise-1 {
-  left: 50px;
+  left: 20px;
   letter-spacing: -0.42px;
   position: absolute;
-  top: 5px;
+  top: 10px;
   white-space: nowrap;
   line-height: 15px;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 .chapter-2-driver-768-all-breakpoints .synthesise-the-findings-2 {
@@ -6762,7 +6763,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 60px;
+  top: 75px;
   width: 501px;
 }
 
