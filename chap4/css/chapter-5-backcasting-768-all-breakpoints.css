@@ -96,10 +96,10 @@
 }
 
 .chapter-5-backcasting-1280 .grupo-143938 {
-  height: 94px;
-  left: 958px;
+  height: 92px;
+  left: 964px;
   top: 2041px;
-  width: 286px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1280 .retngulo-80 {
@@ -638,12 +638,13 @@
   align-self: flex-end;
   height: 94px;
   object-fit: cover;
-  width: 34px;
+  width: auto;
 }
 
 .grupo-88488b {
-  height: 94px;
+  height: 54px;
   width: auto;
+  margin-top: 20px;
 }
 
 .chapter-5-backcasting-1920 .activities {
@@ -657,7 +658,7 @@
 .chapter-5-backcasting-1920 .grupo-8849 {
   height: 94px;
   object-fit: cover;
-  width: 34px;
+  width: auto;
 }
 
 .chapter-5-backcasting-1920 .overlap-group2 {
@@ -1454,12 +1455,12 @@
 }
 
 .chapter-5-backcasting-375 .grupo-144017 {
-  height: 64px;
-  left: 511px;
+  height: 53px;
+  left: 530px;
   object-fit: cover;
   position: absolute;
   top: 2497px;
-  width: 230px;
+  width: auto;
 }
 
 .chapter-5-backcasting-375 .retngulo-148544 {
@@ -2218,11 +2219,11 @@
 
 .chapter-5-backcasting-768-all-breakpoints .grupo-143977 {
   align-self: center;
-  height: 94px;
+  height: 86px;
   margin-right: 11.52px;
   margin-top: 149px;
   object-fit: cover;
-  width: 286px;
+  width: auto;
 }
 
 .chapter-5-backcasting-768-all-breakpoints .overlap-group3-1 {
