@@ -1884,6 +1884,7 @@
   display: flex;
   height: 9px;
   width: 9px;
+  margin-top: -20px;
 }
 
 .chapter-2-driver-case-study-3-1920-all-breakpoints .caminho-942 {
@@ -1896,10 +1897,17 @@
   width: 10.58px;
 }
 
+.chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-350aa {
+  display: flex;
+  height: 9px;
+  margin-top: 48px;
+  width: 9px;
+}
+
 .chapter-2-driver-case-study-3-1920-all-breakpoints .grupo-350 {
   display: flex;
   height: 9px;
-  margin-top: 58px;
+  margin-top: 72px;
   width: 9px;
 }
 

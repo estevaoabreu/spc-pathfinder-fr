@@ -2564,7 +2564,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 55px;
+  top: 70px;
   width: 504px;
 }
 
@@ -2580,7 +2580,7 @@
   border: 3px solid;
   border-color: var(--neon-carrot);
   border-radius: 30px;
-  height: 190px;
+  height: 220px;
   left: 0;
   position: absolute;
   top: 0;
@@ -2622,7 +2622,7 @@
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
-  top: 40px;
+  top: 75px;
   width: 504px;
 }
 
@@ -3370,7 +3370,7 @@
   letter-spacing: 0;
   line-height: 95px;
   position: absolute;
-  top: 310px;
+  top: 350px;
   white-space: nowrap;
 }
 
@@ -5416,7 +5416,7 @@
   line-height: 13px;
   position: absolute;
   text-align: center;
-  top: 2190px;
+  top: 2210px;
   width: 1005px;
 }
 
