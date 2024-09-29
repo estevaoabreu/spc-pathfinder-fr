@@ -2926,7 +2926,7 @@
 }
 
 .chapter-2-driver-1920 .material {
-  left: 1331px;
+  left: 1700px;
   letter-spacing: 0;
   line-height: 25px;
   position: absolute;
@@ -4194,7 +4194,7 @@
 }
 
 .chapter-2-driver-375 .no-of-participantsun-1 {
-  height: 68px;
+  height: 80px;
   left: 471px;
   object-fit: cover;
   position: absolute;
@@ -4203,7 +4203,7 @@
 }
 
 .chapter-2-driver-375 .facilitationone-lead-1 {
-  height: 92px;
+  height: 116px;
   left: 471px;
   object-fit: cover;
   position: absolute;
@@ -4212,12 +4212,12 @@
 }
 
 .chapter-2-driver-375 .materialbutchers-pap {
-  height: 135px;
+  height: 164px;
   left: 471px;
   object-fit: cover;
   position: absolute;
-  top: 2104px;
-  width: 309px;
+  top: 2130px;
+  width: auto;
 }
 
 .chapter-2-driver-375 .grupo-144016 {
@@ -5019,12 +5019,12 @@
 }
 
 .chapter-2-driver-768-all-breakpoints .no-of-participantsun {
-  height: 49px;
+  height: 53px;
   left: 997px;
   object-fit: cover;
   position: absolute;
   top: 2220px;
-  width: 527px;
+  width: auto;
 }
 
 .chapter-2-driver-768-all-breakpoints .facilitationone-lead {
@@ -5032,7 +5032,7 @@
   left: 997px;
   object-fit: cover;
   position: absolute;
-  top: 2326px;
+  top: 2310px;
   width: 527px;
 }
 

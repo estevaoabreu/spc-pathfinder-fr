@@ -206,7 +206,7 @@
 
 .chapter-1-horizon-1280 .material-1 {
   height: 24px;
-  left: 1134px;
+  left: 1350px;
   object-fit: cover;
   position: absolute;
   top: 1688px;
@@ -266,21 +266,21 @@
 }
 
 .chapter-1-horizon-1280 .butchers-paper-1 {
-  height: 39px;
+  height: 36px;
   left: 1224px;
   object-fit: cover;
   position: absolute;
   top: 1757px;
-  width: 164px;
+  width: auto;
 }
 
 .chapter-1-horizon-1280 .sticky-notes-1 {
-  height: 39px;
+  height: 35px;
   left: 1542px;
   object-fit: cover;
   position: absolute;
   top: 1757px;
-  width: 165px;
+  width: auto;
 }
 
 .chapter-1-horizon-1280 .grupo-144283 {
@@ -298,12 +298,12 @@
 }
 
 .chapter-1-horizon-1280 .coloured-marker-pens-1 {
-  height: 64px;
+  height: 53px;
   left: 1542px;
   object-fit: cover;
   position: absolute;
   top: 1841px;
-  width: 131px;
+  width: auto;
 }
 
 .chapter-1-horizon-1280 .grupo-144286 {
@@ -314,11 +314,12 @@
 }
 
 .chapter-1-horizon-1280 .virtual-collaboratio-1 {
-  left: 1236px;
+  left: 1223px;
   object-fit: cover;
   position: absolute;
   top: 1840px;
-  width: 185px;
+  height: auto;
+  width: 163px;
 }
 
 .chapter-1-horizon-1280 .grupo-144284 {
@@ -674,7 +675,7 @@
 }
 
 .chapter-1-horizon-1920 .butchers-paper {
-  height: 30px;
+  height: 25px;
   left: 1421px;
   object-fit: cover;
   position: absolute;
@@ -683,39 +684,39 @@
 }
 
 .chapter-1-horizon-1920 .coloured-marker-pens {
-  height: 64px;
+  height: 56px;
   left: 2009px;
   object-fit: cover;
   position: absolute;
   top: 1644px;
-  width: 131px;
+  width: auto;
 }
 
 .chapter-1-horizon-1920 .sticky-notes {
-  height: 24px;
+  height: 21px;
   left: 1740px;
   object-fit: cover;
   position: absolute;
   top: 1658px;
-  width: 241px;
+  width: auto;
 }
 
 .chapter-1-horizon-1920 .virtual-collaboratio {
-  height: 49px;
+  height: 43px;
   left: 1572px;
   object-fit: cover;
   position: absolute;
   top: 1740px;
-  width: 527px;
+  width: auto;
 }
 
 .chapter-1-horizon-1920 .material {
-  height: 24px;
-  left: 1331px;
+  height: 25px;
+  left: 1650px;
   object-fit: cover;
   position: absolute;
   top: 1591px;
-  width: 74px;
+  width: auto;
 }
 
 .chapter-1-horizon-1920 .facilitationone-lead {
@@ -1006,23 +1007,23 @@
 
 .chapter-1-horizon-375 .no-of-participantsun-3 {
   height: 74px;
-  margin-top: 44px;
+  margin-top: 13px;
   object-fit: cover;
   width: 308px;
 }
 
 .chapter-1-horizon-375 .facilitationone-lead-3 {
-  height: 119px;
-  margin-top: 42px;
+  height: 130px;
+  margin-top: 13px;
   object-fit: cover;
-  width: 308px;
+  width: auto;
 }
 
 .chapter-1-horizon-375 .materialbutchers-pap {
-  height: 257px;
+  height: 290px;
   margin-top: 18px;
   object-fit: cover;
-  width: 289px;
+  width: auto;
 }
 
 .chapter-1-horizon-375 .grupo-144016 {
