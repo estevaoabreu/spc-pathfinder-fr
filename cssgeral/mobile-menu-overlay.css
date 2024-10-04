@@ -2,15 +2,19 @@
 
 
 
-#overlay-mobile-menu-overlay {
-  align-items: center;
-  
-  justify-content: center;
-  z-index: 10;
+.mobile-menu-overlay {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  height: 569px;
+  width: 375px;
   position: absolute;
   top:0;
   left: 50%;
-  width: 100vw;
+  transform: translate(-50%, 0);
+  z-index: 10;
+  padding-left: 7px;
 }
 
 .mobile-menu-overlay .rectangle-bg {
@@ -21,7 +25,7 @@
   left: 0;
   position: fixed;
   top: 63px;
-  width: 100vw;
+  width: 375px;
   z-index: 1;
   position: absolute;
 }
@@ -65,7 +69,7 @@
   position: fixed;
   top: 126px;
   transition: all 0.2s ease;
-  width: 100vw;
+  width: 375px;
   z-index: 9;
 }
 
@@ -214,7 +218,7 @@
   height: 64px;
   left: 0;
   position: fixed;
-  width: 100vw;
+  width: 375px;
   position: absolute;
   color: white;
 }
@@ -225,15 +229,4 @@
 }
 
 a {color: white;
-}
-
-.mobile-menu-overlay {
-  position: absolute;
-  width: 100vw;}
-
-#tudomaybe {
-  width: 100%;
-  position: absolute;
-  left: 50%;
-  transform: translate(-50%, 0);
 }

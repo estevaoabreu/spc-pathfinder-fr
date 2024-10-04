@@ -438,6 +438,23 @@ The current and future states of the Pacific analysed using causal layered analy
       </div>
     </div>
     <script src="../../js.js"></script> 
-    <script src="./resize.js"></script> 
+    <script>
+      function resize() {
+        if (screen.width < 768) {
+        }
+        else if (screen.width >= 768 && screen.width < 1280) {
+          window.location.replace("chapter-4-causal-case-study-13-768.html");
+        }
+        else if (screen.width >= 1280 && screen.width < 1920) {
+          window.location.replace("chapter-4-causal-case-study-13-1280.html");
+        }
+        else if (screen.width >= 1920) {
+          window.location.replace("chapter-4-causal-case-study-13-1920.html");
+        }
+      }
+  
+      window.onresize = resize;
+      window.onload = resize;
+    </script>   
   </body>
 </html>

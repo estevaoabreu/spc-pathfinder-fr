@@ -456,10 +456,11 @@
 .a-toolkit-to-imagine {
   left: 153px;
   letter-spacing: 0;
-  line-height: 18px;
+  line-height: 14.5px;
   position: absolute;
-  top: -5px;
+  top: 0px;
   white-space: nowrap;
+  font-size: 12.5px;
 }
 
 .grupo-12 {
@@ -891,10 +892,11 @@
 .a-toolkit-to-imagine-1 {
   left: 153px;
   letter-spacing: 0;
-  line-height: 18px;
+  line-height: 14.5px;
   position: absolute;
-  top: -5px;
+  top: 0px;
   white-space: nowrap;
+  font-size: 12.5px;
 }
 
 .grupo-12-1 {
@@ -1237,10 +1239,11 @@
 .a-toolkit-to-imagine-2 {
   left: 153px;
   letter-spacing: 0;
-  line-height: 18px;
+  line-height: 14,5px;
   position: absolute;
-  top: -5px;
+  top: 3px;
   white-space: nowrap;
+  font-size: 12.5px;
 }
 
 .grupo-12-2 {

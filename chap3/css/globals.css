@@ -192,12 +192,12 @@
 }
 
 .case-study-8visionin {
-  height: 224px;
+  height: 300px;
   left: 773px;
   object-fit: cover;
   position: absolute;
   top: 363px;
-  width: 1218px;
+  width: auto;
 }
 
 .what-we-learnt-using {

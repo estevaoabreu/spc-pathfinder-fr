@@ -67,8 +67,10 @@
   letter-spacing: 0;
   line-height: 50px;
   position: absolute;
-  top: 83px;
+  top: 60px;
   white-space: nowrap;
+  text-align: center;
+  font-size: 43px;
 }
 
 .more-info-system-1920-1280-768 .grupo-102 {
